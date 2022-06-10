@@ -59,7 +59,10 @@ wollen alle nach Utopia! Ich hoffe bloss, sie holen vorher noch die
 Kinder ab.
 
 ---
-**Kind:** Luisa, ich habe Bauchweh! **Kind:** Ich bin hingefallen!
+**Kind:** Luisa, ich habe Bauchweh!
+
+---
+**Kind:** Ich bin hingefallen!
 ---
 **Kinder:** wir haben Durst! Uns ist langweilig!
 
@@ -88,7 +91,10 @@ Landschaften. Die sind übrigens als Delikatesse sehr gefragt!
 unerklärliche Dinge.
 
 ---
-*Im Weitergehen:* **F:** Meinst du, es verändert sich wieder mal
+*Im Weitergehen:*
+
+---
+**F:** Meinst du, es verändert sich wieder mal
 etwas?
 
 ---
@@ -101,204 +107,207 @@ etwas?
 **T:** Ich vermisse so die anderen.
 
 ---
-**T:** Sie wollten ja unbedingt in diesem Ballonkorb reisen, **T:**
+**T:** Sie wollten ja unbedingt in diesem Ballonkorb reisen,
+
+---
+**T:**
 Dachten, sie hätten das grosse Los gezogen!
 
 
 ---
-**T:** Und jetzt sind sie wohl 
-abgestürzt und tot.            
-
- 
----
-**Pilz:** Sind sie nicht!      
-
----
-**Pilz:** Es geht ihnen den    
-Umständen entsprechend gut.    
-
----
-**Pilz:** Sie kommen bald      
-zurück.                        
-
----
-**T:** Wer hat das gesagt?     
-
----
-**Kind:** Die Pilze dort!      
-
----
-**T:** Jaja, Kinder haben noch 
-Fantasie.                      
-
----
-**T:** Lebt weiter in eurem    
-Metaversum mit sprechenden     
-Pilzen und fliegenden          
-Elfen und tanzenden Kobolden.  
-
----
-**T:** Zurück in die Realität: 
-Teilen wir uns eine            
-Viertelstunde? Los kommt, das  
-
-bringt uns auf andere Ideen!   *Alle umstehen sie.*           
-
----
-**Kind:** Die Erwachsenen      
-wissen gar nicht, was wir      
-alles können!                  
-
----
-**Kind:** Diese Tiere haben    
-wir zum Beispiel gerettet,     
-
----
-**Kind:** Und wieder gesund    
-gemacht!                       
-
----
-*4 Spatzen kommen piepsend     
-an:*                           
-
----
-**Spatzen:** die Menschen sind 
-nicht glücklich 
-
-Komisch, wir 
-leben doch im                  
-Schlaraffenland! 
-
-Vielleicht    
-haben sie genug davon? 
-
-Sie     
-suchen nach etwas                
-Neuem!                           
+**T:** Und jetzt sind sie wohl
+abgestürzt und tot.
 
 
 ---
-*Sie suchen im Müll Essbares.* 
+**Pilz:** Sind sie nicht!
 
 ---
-**T:** Und was googeln wir?    
+**Pilz:** Es geht ihnen den
+Umständen entsprechend gut.
 
 ---
-**T:** Neue Ideen!             
+**Pilz:** Sie kommen bald
+zurück.
 
 ---
-**T:** Ich wäre eher für       
-Handtaschen.                   
+**T:** Wer hat das gesagt?
 
 ---
-**T:** Komm schon, vielleicht  
-findest du auch eine neue Idee 
-für eine                       
-Handtasche!                    
+**Kind:** Die Pilze dort!
 
 ---
-**T:** Also da steht etwas von 
-einer Königin der Ideen und    
-dass sie in ihrem              
-
-Garten ein Labor für neue      
-Ideen hat....                  
-
-*ältere, etwas hippiehafte     
-Frauen, eine im Rollstuhl      
-kommen vorbei.*                
+**T:** Jaja, Kinder haben noch
+Fantasie.
 
 ---
-**Frau:** Ein wunderbarer Ort, 
-dieser Garten der Ideen.       
+**T:** Lebt weiter in eurem
+Metaversum mit sprechenden
+Pilzen und fliegenden
+Elfen und tanzenden Kobolden.
 
 ---
-**Frau:** Als wir jung waren,  
-verbrachten wir viele Stunden  
-dort.                          
+**T:** Zurück in die Realität:
+Teilen wir uns eine
+Viertelstunde? Los kommt, das
+
+bringt uns auf andere Ideen!   *Alle umstehen sie.*
 
 ---
-**T:** versäumt uns nicht,     
-unsere Viertelstunde ist bald  
-um!                            
+**Kind:** Die Erwachsenen
+wissen gar nicht, was wir
+alles können!
 
 ---
-**Frau:** Dort waren wir immer 
-barfuss unterwegs und haben    
-unsere Kleider                 
-selbst genäht.                 
+**Kind:** Diese Tiere haben
+wir zum Beispiel gerettet,
 
 ---
-**Frau:** Und viele Pflanzen   
-haben wir kennengelernt,       
+**Kind:** Und wieder gesund
+gemacht!
 
 ---
-**Frau:** Und sind mit         
-Autostop überall hingereist!   
+*4 Spatzen kommen piepsend
+an:*
 
 ---
-**T:** Weiter, wir haben keine 
-Zeit für eine Märchenstunde!   
+**Spatzen:** die Menschen sind
+nicht glücklich
+
+Komisch, wir
+leben doch im
+Schlaraffenland!
+
+Vielleicht
+haben sie genug davon?
+
+Sie
+suchen nach etwas
+Neuem!
+
 
 ---
-*Jemand stellt sich mit        
-Rucksack und Schild Utopia an  
-die Strasse.*                  
-
-*Würfelspieler setzen sich ins 
-geschlossene Restaurant.*      
+*Sie suchen im Müll Essbares.*
 
 ---
-**T:** Da:die angesagteste     
-Idee der jetzigen Zeit: Die    
-Verbindung zur mehr als        
-menschlichen Welt              
-wiederbeleben.                 
+**T:** Und was googeln wir?
 
 ---
-**T:** Hat jemand eine         
-Ahnung,was das heissen soll?   
+**T:** Neue Ideen!
 
 ---
-**T:** Gibt es überhaupt etwas 
-anderes als Menschen?          
+**T:** Ich wäre eher für
+Handtaschen.
 
 ---
-**T:** mir kommt es fast vor,  
-als sei das Internet gehackt   
-worden,                        
+**T:** Komm schon, vielleicht
+findest du auch eine neue Idee
+für eine
+Handtasche!
 
 ---
-**T:** Ausgerechnet jetzt, wo  
-wir offen wären für neue       
-Ideen.                         
+**T:** Also da steht etwas von
+einer Königin der Ideen und
+dass sie in ihrem
+
+Garten ein Labor für neue
+Ideen hat....
+
+*ältere, etwas hippiehafte
+Frauen, eine im Rollstuhl
+kommen vorbei.*
 
 ---
-**T:** Wir von der Generation  
-Z brauchen einfach das         
-digitale Leben.                
+**Frau:** Ein wunderbarer Ort,
+dieser Garten der Ideen.
 
 ---
-**T:** Warum hilft uns         
-eigentlich niemand?            
+**Frau:** Als wir jung waren,
+verbrachten wir viele Stunden
+dort.
 
 ---
-**Kind:** Für uns von          
-Generation Alpha ist es auch   
-nicht leicht!                  
+**T:** versäumt uns nicht,
+unsere Viertelstunde ist bald
+um!
 
 ---
-**Kind:** Wir haben            
-schliesslich schon vor dem     
-sprechen scrollen gelernt.     
+**Frau:** Dort waren wir immer
+barfuss unterwegs und haben
+unsere Kleider
+selbst genäht.
 
 ---
-**Kind:** Mir fällt es echt    
-schwer damit aufzuhören!       
+**Frau:** Und viele Pflanzen
+haben wir kennengelernt,
 
 ---
-*Sie scrollt auf imaginärem    
-Bildschirm.*                   
+**Frau:** Und sind mit
+Autostop überall hingereist!
+
+---
+**T:** Weiter, wir haben keine
+Zeit für eine Märchenstunde!
+
+---
+*Jemand stellt sich mit
+Rucksack und Schild Utopia an
+die Strasse.*
+
+*Würfelspieler setzen sich ins
+geschlossene Restaurant.*
+
+---
+**T:** Da:die angesagteste
+Idee der jetzigen Zeit: Die
+Verbindung zur mehr als
+menschlichen Welt
+wiederbeleben.
+
+---
+**T:** Hat jemand eine
+Ahnung,was das heissen soll?
+
+---
+**T:** Gibt es überhaupt etwas
+anderes als Menschen?
+
+---
+**T:** mir kommt es fast vor,
+als sei das Internet gehackt
+worden,
+
+---
+**T:** Ausgerechnet jetzt, wo
+wir offen wären für neue
+Ideen.
+
+---
+**T:** Wir von der Generation
+Z brauchen einfach das
+digitale Leben.
+
+---
+**T:** Warum hilft uns
+eigentlich niemand?
+
+---
+**Kind:** Für uns von
+Generation Alpha ist es auch
+nicht leicht!
+
+---
+**Kind:** Wir haben
+schliesslich schon vor dem
+sprechen scrollen gelernt.
+
+---
+**Kind:** Mir fällt es echt
+schwer damit aufzuhören!
+
+---
+*Sie scrollt auf imaginärem
+Bildschirm.*
 
 ---
 *Es läutet, die Elstern krächzen wieder Utopia und flattern vorbei.*
@@ -327,7 +336,10 @@ das kann man gar nicht abhören.
 ---
 **GA1:** Es tut sich etwas, ich glaube, ich bin einem Geheimnis auf
 der Spur. In einer Stunde am üblichen Ort, ich besorge die
-Notfallkits, was meinst du? **GA2:** Einverstanden, ich besorge die
+Notfallkits, was meinst du?
+
+---
+**GA2:** Einverstanden, ich besorge die
 Tarnung, over.
 
 *3 Pilze tauchen wieder aus dem Müll auf. Maklerin und Rei treffen
@@ -338,7 +350,7 @@ ein.*
 eingespeist.
 
 ---
-**Pilz M 2:** Und wir haben eine erhalten und entschlüsselt: 
+**Pilz M 2:** Und wir haben eine erhalten und entschlüsselt:
 
 ---
 **Pilz M3:** Die Fliegenpilze schreiben, "stoppt die Auswanderer!"*Es läutet,
@@ -363,7 +375,7 @@ einigen oder so ähnlich.
 
 ---
 *2 Schwestern sind mit 4 Pizzaschachteln unterwegs und treffen
-Freunde:* 
+Freunde:*
 
 **Fr 1:** Oh, sind wir zum Pizzaessen eingeladen?
 
@@ -380,7 +392,10 @@ lange es geht bis wir in Utopia sind.
 ---
 **Fr 3:** Schon so viele sind verschwunden.
 
-*Es läutet:* **Te:** He, für dich dort, Chef ist am Apparat!
+*Es läutet:*
+
+---
+**Te:** He, für dich dort, Chef ist am Apparat!
 
 ---
 **Arbeiter:** Du gibst das Geschäft auf? Machst du Witze? Nein? Du
@@ -390,7 +405,13 @@ wanderst aus, ok, ja ich habs verstanden, wir räumen wieder ab.
 **Schw 1:** jetzt komm endlich, Mama und Papa wollen los!
 
 ---
-**T:** Beppo was liest du da? **T :** Einen Liebesroman? **T :** Einen
+**T:** Beppo was liest du da?
+
+---
+**T :** Einen Liebesroman?
+
+---
+**T :** Einen
 Krimi*?*
 
 ---
@@ -421,173 +442,171 @@ Kapitel 3: 1 Milliarde überflüssige Dinge und Vorschläge zu deren\
 Abschaffung.
 ---
 
-Und so weiter, das letzte Kapitel heisst:  
-Der Sinn des Lebens und im Anhang          
+Und so weiter, das letzte Kapitel heisst:
+Der Sinn des Lebens und im Anhang
 
-gibt er noch Ratschläge.                   
-
----
-**T:** bewundert KI mich? Hat es ein Bild  
-von mir drinnen?                           
+gibt er noch Ratschläge.
 
 ---
-**Beppo:** KI schreibt: Die Menschen auf   
-der Erde glauben ans unendliche            
-
-Wachstum, deshalb....                      
+**T:** bewundert KI mich? Hat es ein Bild
+von mir drinnen?
 
 ---
-**T:** Tönt nicht spannend, was steht im   
-nächsten Kapitel?                          
+**Beppo:** KI schreibt: Die Menschen auf
+der Erde glauben ans unendliche
+
+Wachstum, deshalb....
 
 ---
-**Beppo:** Ich verstehe nicht, warum die   
-einen Menschen immer mehr haben            
-
-und die andern immer ärmer werden.         
+**T:** Tönt nicht spannend, was steht im
+nächsten Kapitel?
 
 ---
-**T:** Das ist gar nicht interessant, fast 
-bin ich enttäuscht von KI.                 
+**Beppo:** Ich verstehe nicht, warum die
+einen Menschen immer mehr haben
+
+und die andern immer ärmer werden.
 
 ---
-**T:** Was findet KI denn überflüssig?     
+**T:** Das ist gar nicht interessant, fast
+bin ich enttäuscht von KI.
 
 ---
-**Beppo:** So ziemlich alles, was ihr für  
-unbedingt nötig haltet.                    
+**T:** Was findet KI denn überflüssig?
 
 ---
-**T:** Also für dieses Buch werde ich      
-nicht lesen lernen. Ich habe mich so auf   
-
-eine erfreuliche und ganz neue Geschichte  
-gefreut, die meine Sinne belebt            
-
-und jetzt bin ich gerade etwas geknickt.   
+**Beppo:** So ziemlich alles, was ihr für
+unbedingt nötig haltet.
 
 ---
-**T:** Mir geht es ähnlich, normalerweise  
-hätte mir ein Blick auf tictoc zu einem    
+**T:** Also für dieses Buch werde ich
+nicht lesen lernen. Ich habe mich so auf
 
-Dopaminschub verholfen, aber zu allem Übel 
-habe ich meine heutige                     
+eine erfreuliche und ganz neue Geschichte
+gefreut, die meine Sinne belebt
 
-Viertelstunde Internet schon aufgebraucht. 
-
----
-**Beppo:** Hier noch die Ratschläge,       
-interessant, interessant!                  
+und jetzt bin ich gerade etwas geknickt.
 
 ---
-**T:** Schon gut Beppo, danke für deine    
-Bemühungen, aber wir müssen jetzt          
+**T:** Mir geht es ähnlich, normalerweise
+hätte mir ein Blick auf tictoc zu einem
 
-tanzen, nur das hebt noch unsere Stimmung! 
+Dopaminschub verholfen, aber zu allem Übel
+habe ich meine heutige
 
-*Eine Maklerin mit Klemmbrett und Rei.*    
-
----
-**Ma:** Hier blicken wir auf eine          
-x-beliebige Stadt unserer Erde....         
+Viertelstunde Internet schon aufgebraucht.
 
 ---
-**Rei:** Die sie verkaufen möchten, wenn   
-ich es richtig verstanden habe?            
+**Beppo:** Hier noch die Ratschläge,
+interessant, interessant!
 
 ---
-**Ma:** Richtig, ist unsere Erde nicht     
-wunderschön?                               
+**T:** Schon gut Beppo, danke für deine
+Bemühungen, aber wir müssen jetzt
+
+tanzen, nur das hebt noch unsere Stimmung!
+
+*Eine Maklerin mit Klemmbrett und Rei.*
 
 ---
-**Rei:** Man kann ihre Schönheit durchaus  
-noch erahnen unter dem Berg von            
-
-Problemen, den ihr auf ihr angehäuft habt. 
+**Ma:** Hier blicken wir auf eine
+x-beliebige Stadt unserer Erde....
 
 ---
-**Ma:** Na hören sie mal, Persönlichkeiten   
-wie Sie lösen doch solche Probleme in        
-
-null-komma-nichts! Schliesslich biete ich  
-Ihnen 510 Millionen                        
-
-Quadratkilometer zu einem Schnäppchenpreis 
-an.                                        
+**Rei:** Die sie verkaufen möchten, wenn
+ich es richtig verstanden habe?
 
 ---
-**Rei:** vergessen Sie es, wir waren mit   
-unserem Planeten auch mal am Ende,         
-
-ich weiss, wieviel Arbeit es gibt, solche  
-Probleme loszuwerden.                      
+**Ma:** Richtig, ist unsere Erde nicht
+wunderschön?
 
 ---
-**Ma:** Dann können Sie mir sicher wertvolle 
-Tipps geben, die ich nebenbei noch           
+**Rei:** Man kann ihre Schönheit durchaus
+noch erahnen unter dem Berg von
 
-zu Geld machen kann?                       
-
----
-**Rei:** Genau, Geld, das sollten sie als  
-erstes abschaffen. Und als nächstes        
-
-verbünden sie sich mit den Tieren und        
-Pflanzen, sonst können Sie die Rettung       
-
-glatt abblasen.                            
-
-*Es läutet. Und einer mit Roller fährt     
-vorbei und nimmt Autostopper mit.*         
+Problemen, den ihr auf ihr angehäuft habt.
 
 ---
-**Te:** Ja, Moment, ist hier jemand namens 
-Rei oder so ähnlich?                       
+**Ma:** Na hören sie mal, Persönlichkeiten
+wie Sie lösen doch solche Probleme in
+
+null-komma-nichts! Schliesslich biete ich
+Ihnen 510 Millionen
+
+Quadratkilometer zu einem Schnäppchenpreis
+an.
 
 ---
-**Rei:** Nun wissen Sie das                *geht ans Telefon* 
-wichtigste.....                            
+**Rei:** vergessen Sie es, wir waren mit
+unserem Planeten auch mal am Ende,
+
+ich weiss, wieviel Arbeit es gibt, solche
+Probleme loszuwerden.
 
 ---
-**Rei:** Ja mach ich, bis gleich.          
+**Ma:** Dann können Sie mir sicher wertvolle
+Tipps geben, die ich nebenbei noch
+
+zu Geld machen kann?
 
 ---
-**Rei:** mein Raumkreuzer ist gerade in    
-der Nähe, kommen Sie doch mal zu           
+**Rei:** Genau, Geld, das sollten sie als
+erstes abschaffen. Und als nächstes
 
-Besuch! Und ja, viel Erfolg beim           
-Aufräumen, ihr werdet es schaffen!         
+verbünden sie sich mit den Tieren und
+Pflanzen, sonst können Sie die Rettung
 
----
-**Ma:** Das ist zuviel für mich, erst geht 
-mir das Geschäft meines Lebens             
+glatt abblasen.
 
-verloren und dann....                      
-
----
-**Beppo:** Komm zu mir, hilf mir beim      
-aufräumen, das beruhigt!                   
+*Es läutet. Und einer mit Roller fährt
+vorbei und nimmt Autostopper mit.*
 
 ---
-**Ma:** Aber mein Plan war doch, mit dem   
-Erlös aus dem Verkauf der Erde das         
-
-Land Utopia zu kaufen, verstehst du jetzt  
-meinen Frust?                              
-
-*Sie nimmt schliesslich den Besen und      
-hilft Beppo wischen.*                      
+**Te:** Ja, Moment, ist hier jemand namens
+Rei oder so ähnlich?
 
 ---
-**T:** schnell Beppo, mach den Müll weg,   
-dann tanzen wir!                           
+**Rei:** Nun wissen Sie das                *geht ans Telefon*
+wichtigste.....
 
 ---
-**T:** Das hebt die Stimmung!              
+**Rei:** Ja mach ich, bis gleich.
 
 ---
-**Spatzen:** sie tanzen, yuppieh! piep,    
-piep....yuppieh! Es wird alles wieder gut! 
+**Rei:** mein Raumkreuzer ist gerade in
+der Nähe, kommen Sie doch mal zu
+Besuch! Und ja, viel Erfolg beim
+Aufräumen, ihr werdet es schaffen!
+
+---
+**Ma:** Das ist zuviel für mich, erst geht
+mir das Geschäft meines Lebens
+verloren und dann....
+
+---
+**Beppo:** Komm zu mir, hilf mir beim
+aufräumen, das beruhigt!
+
+---
+**Ma:** Aber mein Plan war doch, mit dem
+Erlös aus dem Verkauf der Erde das
+
+Land Utopia zu kaufen, verstehst du jetzt
+meinen Frust?
+
+*Sie nimmt schliesslich den Besen und
+hilft Beppo wischen.*
+
+---
+**T:** schnell Beppo, mach den Müll weg,
+dann tanzen wir!
+
+---
+**T:** Das hebt die Stimmung!
+
+---
+**Spatzen:** sie tanzen, yuppieh! piep,
+piep....yuppieh! Es wird alles wieder gut!
 
 ---
 **Tanz 1** Aquainted G
@@ -599,12 +618,19 @@ piep....yuppieh! Es wird alles wieder gut!
 **Beppo:** Seid still, ihr verbreitet fake news!
 
 ---
-**Elster 1:** Aber wir waren dort, so glaub uns doch! **Elster 2:**
-haben es mit eigenen Augen gesehen! **Elster 1:** Es war einfach
+**Elster 1:** Aber wir waren dort, so glaub uns doch!
+
+---
+**Elster 2:**
+haben es mit eigenen Augen gesehen!
+
+---
+**Elster 1:** Es war einfach
 wunderbar.
 
 ---
 **Elster 2:** Wir haben schon allen davon erzählt\
+
 ---
 **Elster 1:** und darum wandern jetzt alle aus.
 
@@ -615,158 +641,149 @@ wunderbar.
 
 
 ---
-***Musik,** die                
-Stadtrequisiten werden nach    
-und nach durch Bäume und       
-Büsche*                        
-
-*"verdeckt". Tiere erscheinen  
-nach und nach. Die Auswanderer 
-kommen*                        
-
-*langsam über die Bühne, vorne 
-die zwei Elstern, der Roller   
-mit dem*                       
-
-*Autostopper, dann viele         
-durchlaufenden Auswanderer       
-(darunter die künftigen*         
-
-*Rückwanderer), dann stehen    
-die älteren Frauen still:*     
+***Musik,** die
+Stadtrequisiten werden nach
+und nach durch Bäume und
+Büsche "verdeckt". Tiere erscheinen
+nach und nach.*
 
 ---
-**Frau:** Ich bin so gespannt, 
-wie es in Utopia aussieht!     
+*Die Auswanderer
+kommen langsam über die Bühne, vorne
+die zwei Elstern, der Roller
+mit dem Autostopper, dann viele
+durchlaufenden Auswanderer
+(darunter die künftigen Rückwanderer), dann stehen
+die älteren Frauen still:*
 
 ---
-**Frau:** Ich habe schon       
-befürchtet, keine Abenteuer    
-mehr zu erleben.               
+**Frau:** Ich bin so gespannt,
+wie es in Utopia aussieht!
 
 ---
-**Frau:** Siehst du, es kommt  
-immer anders, als man denkt!   
+**Frau:** Ich habe schon
+befürchtet, keine Abenteuer
+mehr zu erleben.
 
 ---
-**Frau:** Ja, wer hätte        
-gedacht, dass wir dabei sind,  
-wenn die Welt zu einem         
-
-besseren Platz wird!           
+**Frau:** Siehst du, es kommt
+immer anders, als man denkt!
 
 ---
-**Kind:** Ich will endlich zu  
-meiner Mama, wo ist sie?       
+**Frau:** Ja, wer hätte
+gedacht, dass wir dabei sind,
+wenn die Welt zu einem
+besseren Platz wird!
 
 ---
-**Luisa:** Irgendwo dort       
-vorne!                         
+**Kind:** Ich will endlich zu
+meiner Mama, wo ist sie?
 
 ---
-**Kind:** Luisa, wann kommen   
-wir endlich in Utopia an?      
+**Luisa:** Irgendwo dort
+vorne!
 
 ---
-**Luisa:** frag nicht immer,   
-sonst schaffen wir es nie.     
+**Kind:** Luisa, wann kommen
+wir endlich in Utopia an?
 
 ---
-**Kind:** Luisa, ich habe      
-schrecklich Hunger!            
-
-*Luisa gibt ihnen was zu       
-essen. Ein Pärchen, sie mit    
-ganz viel Gepäck.*             
+**Luisa:** frag nicht immer,
+sonst schaffen wir es nie.
 
 ---
-**Er:** Was hast du denn in    
-diesem grossen Koffer?         
+**Kind:** Luisa, ich habe
+schrecklich Hunger!
+
+*Luisa gibt ihnen was zu
+essen. Ein Pärchen, sie mit
+ganz viel Gepäck.*
 
 ---
-**Sie:** Oh, nicht viel, nur   
-das, was ich unbedingt         
-brauche.                       
+**Er:** Was hast du denn in
+diesem grossen Koffer?
 
 ---
-**Er :** dann lass den Koffer  
-mal dort im Gebüsch stehen,    
-sobald wir uns in              
-
-Utopia ein Appartement         
-gefunden haben, hole ich ihn   
-dir, versprochen!              
+**Sie:** Oh, nicht viel, nur
+das, was ich unbedingt
+brauche.
 
 ---
-**Sie:** Kannst du mir diese   
-Taschen eine Weile tragen, sie 
-sind so schwer!                
+**Er :** dann lass den Koffer
+mal dort im Gebüsch stehen,
+sobald wir uns in
+
+Utopia ein Appartement
+gefunden haben, hole ich ihn
+dir, versprochen!
 
 ---
-**Er:** Aber sicher, gib sie   
-her.                           
-
-*(er stellt sie unbemerkt in   
-ein Gebüsch) von hinten wird   
-gerufen:*                      
+**Sie:** Kannst du mir diese
+Taschen eine Weile tragen, sie
+sind so schwer!
 
 ---
-**Auswanderer:** Weitergehen!  
+**Er:** Aber sicher, gib sie
+her.
 
-
-was ist das für ein Stau? 
-
-
-He hört ihr                    
-schlecht? 
-
-Wird es bald oder  
-sollen wir euch überholen?     
-
-
-Utopia wartet nicht           
-
-ewig auf uns!                  
-
-*Die Kolonne rückt vor, die    
-Schwestern, 2 Hunde, die       
-Mutter mit dem Kind,*          
-
-*und die Mäuse bleiben als     
-letzte Auswanderer stehen.*    
+*(er stellt sie unbemerkt in
+ein Gebüsch) von hinten wird
+gerufen:*
 
 ---
-**Sch:** Ich brauche eine      
-Pause, wir wandern ja schon    
-stundenlang!                   
+**Auswanderer:** Weitergehen!
+was ist das für ein Stau?
+
+He hört ihr
+schlecht?
+
+Wird es bald oder
+sollen wir euch überholen?
+
+
+
+Utopia wartet nicht
+ewig auf uns!
 
 ---
-**Sch:** Hast recht, essen wir 
-mal unseren Proviant!          
+*Die Kolonne rückt vor, die
+Schwestern, 2 Hunde, die
+Mutter mit dem Kind und die Mäuse bleiben als
+letzte Auswanderer stehen.*
 
 ---
-**Sch:** Wollt ihr auch etwas? *(sie setzen sich hin und      
-teilen)*                       
-
-*Nun kommen erschöpfte         
-Rückwanderer entgegen.         
-Bloggerin, Baumforscher,*      
-
-*Journalistin, Architektin,    
-Techie, Katze, Ratte,          
-Professor, Detektive*          
+**Sch:** Ich brauche eine
+Pause, wir wandern ja schon
+stundenlang!
 
 ---
-**Journalistin:** kehrt um,    
-Utopia gibt es nicht mehr!     
+**Sch:** Hast recht, essen wir
+mal unseren Proviant!
 
 ---
-**Architektin:** es ist        
-verschwunden!                  
+**Sch:** Wollt ihr auch etwas? *(sie setzen sich hin und
+teilen)*
 
 ---
-**Professor:** Utopia hat sich 
-im Nichts aufgelöst!           
+*Nun kommen erschöpfte
+Rückwanderer entgegen.
+Bloggerin, Baumforscher,*
+
+*Journalistin, Architektin,
+Techie, Katze, Ratte,
+Professor, Detektive*
+
+---
+**Journalistin:** kehrt um,
+Utopia gibt es nicht mehr!
+
+---
+**Architektin:** es ist
+verschwunden!
+
+---
+**Professor:** Utopia hat sich
+im Nichts aufgelöst!
 
 ---
 **Ratte:** Kein Grund zur Panik, habe ich es nicht immer gesagt,
@@ -807,7 +824,10 @@ Tipp zu geben.
 ---
 **Bloggerin:** Dabei wollte ich gerade ein Krokodil einladen mit mir
 zu kommen, es war schon alt und hätte mir vielleicht seine wunderbare
-Haut vererbt\..... **Kind:** ich fürchte mich vor den Krokodilen!
+Haut vererbt.....
+
+---
+**Kind:** ich fürchte mich vor den Krokodilen!
 
 ---
 **Mutter:** Wer hat dir denn das erzählt?
@@ -827,7 +847,10 @@ Haut vererbt\..... **Kind:** ich fürchte mich vor den Krokodilen!
 ---
 **Mutter:** Vielleicht habt ihr dies nur geträumt, ich jedenfalls will
 es mit eigenen Augen sehen. Es geht schliesslich um die Zukunft meines
-Kindes! **Sch:** Und um unsere Zukunft geht es auch!
+Kindes!
+
+---
+**Sch:** Und um unsere Zukunft geht es auch!
 
 ---
 **Sch:** Wir gehen auf jeden Fall weiter!
@@ -858,13 +881,19 @@ erlitten, konnten wir wiederfinden.
 ---
 **Affe 1:** soviel wir wissen, haben die Kobolde ihn repariert und
 suchen weiter nach Utopia und so bald sie es gefunden haben, bieten
-sie Rundflüge an! **Bloggerin:** Und wo sind diese Kobolde?
+sie Rundflüge an!
+
+---
+**Bloggerin:** Und wo sind diese Kobolde?
 
 ---
 **Affe 2:** mal hier, mal dort.
 
 *Diese Gruppe wandert nun auch zurück, die Detektive unterhalten sich
-noch:* **De 1:** Da haben wir doch schon mal eine Spur!
+noch:*
+
+---
+**De 1:** Da haben wir doch schon mal eine Spur!
 
 ---
 **De 2:** Du meinst wir kehren wieder um?
@@ -883,11 +912,14 @@ schon nicht.
 **GA 1:** Das braucht Feingefühl,
 
 ---
-**GA 2:** Und vorallem eine gute Tarnung,\
+**GA 2:** Und vorallem eine gute Tarnung,
 
 ---
 **GA 2:** Und als erstes müssen wir das Vertrauen dieser Affen
-gewinnen! **GA 1:** Komm, wir ziehen uns zurück.
+gewinnen!
+
+---
+**GA 1:** Komm, wir ziehen uns zurück.
 
 ---
 **De 1:** Von wegen unbemerkt, was hältst du von dieser Konkurrenz?
@@ -913,7 +945,9 @@ nichtmenschlichen Welt! Ich bin sozusagen ein dreifacher Lottogewinn!
 ---
 **Fuchs:** kein Problem, Füchse gibt es überall und zudem habe ich
 meine Tricks, ihr werdet schon sehen, also schlagt ein! Ich lasse von
-mir hören! *Die Detektive gehen zurück. Die Jugendlichen mit Trottis.*
+mir hören!
+
+*Die Detektive gehen zurück. Die Jugendlichen mit Trottis.*
 
 ---
 **J:** Also Unbekanntes haben wir schon mal entdeckt!
@@ -1072,7 +1106,10 @@ Personen sprechen.
 
 ---
 **MB:** Ihr könnt euch in der Stadt treffen, die ist so gut wie
-ausgestorben. **Schildkröte:** Das war magisch, ich fühle mich ganz
+ausgestorben.
+
+---
+**Schildkröte:** Das war magisch, ich fühle mich ganz
 verzaubert.
 
 ---
@@ -1087,9 +1124,7 @@ verbunden sind, müssen wir uns mit ihnen verbinden.
 
 ---
 **Glühwürmchen:** Und wir
-
 bringen ihnen Licht
-
 in die Dunkelheit.
 
 ---
@@ -1114,7 +1149,7 @@ verbunden. Wenn die Situation sich verändert, treffen wir uns wieder.
 Glühwürmchen, Fledermäuse, Igel und ein Pilz sind noch da.*
 
 ---
-**Elster:** kein Mensch weit und breit\
+**Elster:** kein Mensch weit und breit
 ---
 **Elster:** Das gibts doch nicht!
 
@@ -1153,7 +1188,8 @@ während die anderen Platz nehmen. Die Luft "schwebt" hinter Tisch.*
 **Nachtblume:** Schau nur, die Elfen kommen auch!
 
 ---
-**Tanz 2** time J\
+**Tanz 2** time J
+
 *Matsutakis tauchen wieder auf. Der Mond zeigt sich. Beppo lehnt am
 Besen.*
 
@@ -1235,7 +1271,8 @@ lernen anders zu träumen,
 
 ---
 **weisse Maus:** und zu wünschen! Recht hast du Zwerg, denn früher
-oder später werden ihre Wünsche\
+oder später werden ihre Wünsche
+
 ---
 **Zwerg:** und ihre Träume wahr!
 
@@ -1306,13 +1343,17 @@ aus, was ihr sucht?
 **Journalistin:** Das wissen wir eben nicht.
 
 ---
-**Beppo:**Und wie heisst es?
+**Beppo:** Und wie heisst es?
 
 ---
-**Ratte:** Utopia\
+**Ratte:** Utopia
+
 ---
 **Beppo:** Ohje, verstehe, wollt ihr nicht nach etwas einfacherem
-suchen? **Architektin:** Nach was zum Beispiel?
+suchen?
+
+---
+**Architektin:** Nach was zum Beispiel?
 
 ---
 **Beppo:** zum Beispiel nach der blauen Wunderblume, die hat auch noch
@@ -1325,7 +1366,8 @@ auf der Entdeckung von Utopia.
 ---
 **Beppo:** Ich schau mal, ob KI etwas darüber geschrieben hat.
 
-*(Beppo liest wieder im Buch)*\
+*(Beppo liest wieder im Buch)*
+
 *Bloggerin kommt mit Katze an.*
 
 ---
@@ -1343,184 +1385,161 @@ erfolgreich im Beruf sein? Meine Existenz steht auf dem Spiel, Katze,
 verstehst du, was das bedeutet?
 
 ---
-**Katze:** Ich nehme an, mein       
-Futter wird billiger ausfallen.     
+**Katze:** Ich nehme an, mein
+Futter wird billiger ausfallen.
 
 ---
-**Beppo:** Ohje, die haben wirklich 
-keine inspirierenden Reisen hinter  
-sich.                               
+**Beppo:** Ohje, die haben wirklich keine inspirierenden Reisen hinter sich.
 
 ---
-**Bloggerin:** Du hast wie immer    
-recht, Beppo, nichts mit neuen      
-Geschichten,                        
-
-die wir alle so dringend bräuchten. 
-Vorallem natürlich ich, wie soll    
-ich so                              
-
-meine follower behalten?            
+**Bloggerin:** Du hast wie immer
+recht, Beppo, nichts mit neuen
+Geschichten,
+die wir alle so dringend bräuchten.
+Vorallem natürlich ich, wie soll
+ich so
+meine follower behalten?
 
 ---
-**Beppo:** Da, was meint ihr zu     
-diesem Ratschlag von KI? "Vertraut  
-euch der                            
+**Beppo:** Da, was meint ihr zu
+diesem Ratschlag von KI? "Vertraut
+euch der
+Luft an, sie vereint alles auf dem
+Planeten Erde." 
 
-Luft an, sie vereint alles auf dem  
-Planeten Erde." Oder: "Nehmt        
-täglich ein                         
+Oder: "Nehmt
+täglich ein
+Waldbad". 
 
-Waldbad". Oder: spürt, wie der Mond 
-euch durch das Dach eures Hauses in 
-
-der Nacht beäugt....                
-
----
-**Architektin:** Beppo, du meinst   
-es ja gut, aber wir haben keine     
-Lust auf                            
-
-philosophische Gedanken von einer   
-künstlichen Intelligenz.            
+Oder: spürt, wie der Mond
+euch durch das Dach eures Hauses in
+der Nacht beäugt....
 
 ---
-**Gamer Sky:** Schnell, kannst du   
-mich mit meinen Freunden verbinden? 
+**Architektin:** Beppo, du meinst
+es ja gut, aber wir haben keine
+Lust auf
+philosophische Gedanken von einer
+künstlichen Intelligenz.
 
 ---
-**Te:** Habe dich schon erwartet,   
-ich lege dir die Konferenzschaltung 
-auf Nr.1.                           
+**Gamer Sky:** Schnell, kannst du
+mich mit meinen Freunden verbinden?
 
 ---
-**Sky:** Kommt alle zum üblichen    
-Treffpunkt, wir haben eine wichtige 
-Quest!                              
-
-Wann? So schnell wie möglich, es    
-ist ein globaler Notfall!           
-
-*Die Jugendlichen treffen ein.*     
+**Te:** Habe dich schon erwartet,
+ich lege dir die Konferenzschaltung
+auf Nr.1.
 
 ---
-**J1 :** Dieser Müll überall!       
+**Sky:** Kommt alle zum üblichen
+Treffpunkt, wir haben eine wichtige
+Quest!
+
+Wann? So schnell wie möglich, es
+ist ein globaler Notfall!
+
+*Die Jugendlichen treffen ein.*
 
 ---
-**J2 :** Da können wir sicher noch  *Sie finden allerlei....* 
-brauchbares finden!                 
+**J1 :** Dieser Müll überall!
 
 ---
-**Ratte:** Wie konnten wir nur so   
-dumm sein, diesen Eventmanagern auf 
-den                                 
-
-Leim zu kriechen?                   
+**J2 :** Da können wir sicher noch  *Sie finden allerlei....*
+brauchbares finden!
 
 ---
-**Professor:** Hast recht Ratte,    
-diese Sache hätte man von Anfang an 
-
-wissenschaftlich angehen sollen.    
-
----
-**Techie:** Nein, nur mit Technik   
-lässt sich dieses Utopia finden.    
-Ein Programm                        
-
-wird alles aufzeichnen, was von       
-Utopia im Netz steht und innert       
-kürzester Zeit                        
-
-werden wir die genauen Koordinaten  
-haben!                              
+**Ratte:** Wie konnten wir nur so
+dumm sein, diesen Eventmanagern auf
+den
+Leim zu kriechen?
 
 ---
-**Bloggerin:** Und wie stellst du   
-dir das vor mit einer Viertelstunde 
-internet pro                        
-
-Tag?                                
+**Professor:** Hast recht Ratte,
+diese Sache hätte man von Anfang an
+wissenschaftlich angehen sollen.
 
 ---
-**Techie:** Stimmt, aber haben denn 
-nicht alle Pflanzen und Tiere auch  
-so eine                             
-
-Viertelstunde? Also los, mach dich  
-nützlich und nimm mit unseren       
-
-Mit-Erdenbewohnern Verhandlungen    
-auf.                                
-
----
-**Bloggerin:** OMG, wie soll das    
-bloss gehen, Pflanzen schätze ich   
-zwar als                            
-
-Kulisse für meine Insta-Fotos oder  
-dekorativ in einer Vase, aber sonst 
-habe                                
-
-ich keine Ahnung von ihnen. Und     
-erst Tiere, die sind nun wirklich   
-nicht mein                          
-
-Spezialgebiet.                      
+**Techie:** Nein, nur mit Technik
+lässt sich dieses Utopia finden.
+Ein Programm
+wird alles aufzeichnen, was von
+Utopia im Netz steht und innert
+kürzester Zeit
+werden wir die genauen Koordinaten
+haben!
 
 ---
-**Katze:** Wem sagst du das, miau!  
+**Bloggerin:** Und wie stellst du
+dir das vor mit einer Viertelstunde
+internet pro
+    Tag?
 
 ---
-**Bloggerin:** Egal, Friends, hier    
-seht ihr mich mit der berühmtesten    
-Technikerin                           
-
-aller Zeiten! Er und ich werden     
-euch die Türen zu Utopia öffnen!    
-Ich halte                           
-
-euch auf dem Laufenden.             
-
-*Sie gehen und die Katze läuft      
-hintennach.*                        
+**Techie:** Stimmt, aber haben denn
+nicht alle Pflanzen und Tiere auch
+so eine
+Viertelstunde? Also los, mach dich
+nützlich und nimm mit unseren
+Mit-Erdenbewohnern Verhandlungen
+auf.
 
 ---
-**Katze:** Tönt echt utopisch,      
-miau, miau!                         
+**Bloggerin:** OMG, wie soll das
+bloss gehen, Pflanzen schätze ich
+zwar als
+Kulisse für meine Insta-Fotos oder
+dekorativ in einer Vase, aber sonst
+habe
+ich keine Ahnung von ihnen. Und
+erst Tiere, die sind nun wirklich
+nicht mein
+Spezialgebiet.
 
 ---
-**Ratte:** Uff, zum Glück sind die    
-zwei weg, nun zu uns, ich fürchte, du 
-verziehst                             
-
-dich wieder in deine Bücherstube?   
+**Katze:** Wem sagst du das, miau!
 
 ---
-**Professor:** Und du kommst mit,   
-ich brauche eine warme Suppe!       
-
-*Professor und Ratte ziehen sich in 
-Bibliothek zurück, essen Suppe.*    
+**Bloggerin:** Egal, Friends, hier
+seht ihr mich mit der berühmtesten
+Technikerin
+aller Zeiten! Er und ich werden
+euch die Türen zu Utopia öffnen!
+Ich halte
+euch auf dem Laufenden.
+*Sie gehen und die Katze läuft
+hintennach.*
 
 ---
-**Architektin:** Es bleibt dabei,   
-wir sind fake news auf den Leim     
-gekrochen und                       
+**Katze:** Tönt echt utopisch,
+miau, miau!
 
-haben dabei so ziemlich alle unsere 
-Gefühle verloren.                   
+---
+**Ratte:** Uff, zum Glück sind die
+zwei weg, nun zu uns, ich fürchte, du
+verziehst
+dich wieder in deine Bücherstube?
 
-*Die weisse Maus mit CD-Player      
-läuft vorbei, auf dem feelings      
-läuft. Alle*                        
+---
+**Professor:** Und du kommst mit,
+ich brauche eine warme Suppe!
 
-*beginnen zu schluchzen und die     
-Maus verteilt Taschentücher. Der    
-Koch*                               
+*Professor und Ratte ziehen sich in
+Bibliothek zurück, essen Suppe.*
 
-*beobachtet das und nach einer      
-Weile:*                             
+---
+**Architektin:** Es bleibt dabei,
+wir sind fake news auf den Leim
+gekrochen und
+haben dabei so ziemlich alle unsere
+Gefühle verloren.
+
+*Die weisse Maus mit CD-Player
+läuft vorbei, auf dem feelings
+läuft. Alle beginnen zu schluchzen und die
+Maus verteilt Taschentücher. Der
+Koch beobachtet das und nach einer
+Weile:*
 
 ---
 **Koch:** Was soll das jammern? Ihr müsst etwas tun, es gibt tausend
@@ -1528,7 +1547,8 @@ und eine Möglichkeit, da braucht ihr doch nur auszuwählen! Zudem ist
 das hier immer noch das Land des Überflusses, also los setzt euch an
 den Tisch, auftragen! Zudem haben wir heute live-Musik!
 
-*Es kommt wieder eine Gruppe Tänzerinnen:*\
+*Es kommt wieder eine Gruppe Tänzerinnen:*
+
 ---
 **T 1:** Nicht traurig sein, Beppo, da sind wir wieder!
 
@@ -1546,7 +1566,8 @@ den Tisch, auftragen! Zudem haben wir heute live-Musik!
 Es ist Abend, Kerzen brennen und ein Feuer im Kamin. Fledermäuse
 flattern herum.*
 
-*Mädchen sitzen gelangweilt in der Nähe ("handys"?)*\
+*Mädchen sitzen gelangweilt in der Nähe ("handys"?)*
+
 ---
 **Professor:** Da endlich! Utopia könnte auf einem Gletscher in der
 Antarktis liegen, oder auf einem Asteroiden oder auf dem Mars.
@@ -1625,115 +1646,109 @@ Passagiere hintennach in diese Zeitmaschine zu springen.
 **Ga, Aris :** Leute, um was geht es?
 
 ---
-**Ga, Johann:** Unsere Stadt   
-versinkt in Traurigkeit und    
-das wird sich erst             
-
-ändern, wenn dieses Land       
-Utopia gefunden ist.           
-
----
-**Ga, Cale:** Ich bin ganz     
-deiner Meinung, und wer, wenn  
-nicht wir können               
-
-dieses Problem lösen?            *Alle zollen ihm lautstark     
-Beifall.*                      
+**Ga, Johann:** Unsere Stadt
+versinkt in Traurigkeit und
+das wird sich erst
+ändern, wenn dieses Land
+Utopia gefunden ist.
 
 ---
-**Lien:** Wahrscheinlich ist   
-es wie eine Schatzsuche, wir   
-müssen alle Hinweise           
+**Ga, Cale:** Ich bin ganz
+deiner Meinung, und wer, wenn
+nicht wir können
+dieses Problem lösen?
 
-und Artefakte finden und am    
-Schluss winkt uns eine fette   
-Belohnung!                     
-
----
-**Ga,Atreju:** vergiss es, es  
-geht nicht um den Profit des   
-Einzelnen, es geht             
-
-darum die Welt für alle zu     
-retten!                        
+*Alle zollen ihm lautstark
+Beifall.*
 
 ---
-**Ga, Geronimo:** Es gibt      
-viele Wege, die Welt zu        
-retten, wie ich immer sage.    
+**Lien:** Wahrscheinlich ist
+es wie eine Schatzsuche, wir
+müssen alle Hinweise
+
+und Artefakte finden und am
+Schluss winkt uns eine fette
+Belohnung!
 
 ---
-**Ga, Cale:** Vielleicht       
-finden wir auch das Rezept für 
-die Gefühlssuppe, die          
+**Ga,Atreju:** vergiss es, es
+geht nicht um den Profit des
+Einzelnen, es geht
 
-augenblicklich alle            
-Empfindungen wieder            
-zurückbringt!                  
-
----
-**Ga, Elia:** Das würde auf    
-jeden Fall die Stimmung in     
-unserer Stadt heben!           
+darum die Welt für alle zu
+retten!
 
 ---
-**Ga, Johann:** Ihr zwei dort, 
-keine Ahnung in wessen         
-Diensten ihr steht, aber       
-
-wenn ihr uns helfen wollt,     
-spielt mit!                    
+**Ga, Geronimo:** Es gibt
+viele Wege, die Welt zu
+retten, wie ich immer sage.
 
 ---
-**Ga, Amadeus:** Es geht um    
-alles oder nichts!             
+**Ga, Cale:** Vielleicht
+finden wir auch das Rezept für
+die Gefühlssuppe, die
+augenblicklich alle
+Empfindungen wieder
+zurückbringt!
 
 ---
-**Ga,Lien:** Keine Zeit        
-verlieren, eine Allianz und    
-eine Horde bilden und so       
-
-schnell wie möglich            
-ausschwärmen!                  
+**Ga, Elia:** Das würde auf
+jeden Fall die Stimmung in
+unserer Stadt heben!
 
 ---
-***Musik:** verschiedene       
-Gruppen bilden sich, während   
-die Game-Landschaft*           
-
-*entsteht: das Gasthaus zur    
-güldenen Rose mit Wirtin       
-Allison und Hexlein, ein*      
-
-*lebendiger Wegweiser, Wölfe,    
-Fledermäuse, Nachtfalter,        
-Detektive, Zwerg bei*            
-
-*Feuer, hin und her laufende   
-gamer,                         
-"Pokemon"-Figuren,Elfen....*   
-
-*Wenn Musik aufhört, vor der   
-güldenen Rose:*                
+**Ga, Johann:** Ihr zwei dort,
+keine Ahnung in wessen
+Diensten ihr steht, aber
+wenn ihr uns helfen wollt,
+spielt mit!
 
 ---
-**Allison:** Schaut bei        
-Allison vorbei, der Hüterin    
-von manchem Schatz!            
+**Ga, Amadeus:** Es geht um
+alles oder nichts!
 
 ---
-**Ga,Cale:** kannst du uns das   
-Rezept für diese berühmte        
-Gefühlssuppe geben?              
+**Ga,Lien:** Keine Zeit
+verlieren, eine Allianz und
+eine Horde bilden und so
+schnell wie möglich
+ausschwärmen!
 
 ---
-**Allison:** Vielleicht ja,      
-vielleicht nein, erst wird jetzt 
-mal gegessen, dort, es ist       
+***Musik:** verschiedene
+Gruppen bilden sich, während
+die Game-Landschaft entsteht: das Gasthaus zur
+güldenen Rose mit Wirtin
+Allison und Hexlein, ein*
 
-schon aufgetragen! Und hier    
-stelle ich euch meine neusten  
-Tänzerinnen vor!               
+*lebendiger Wegweiser, Wölfe,
+Fledermäuse, Nachtfalter,
+Detektive, Zwerg bei*
+
+*Feuer, hin und her laufende
+gamer,
+"Pokemon"-Figuren,Elfen....*
+
+*Wenn Musik aufhört, vor der
+güldenen Rose:*
+
+---
+**Allison:** Schaut bei
+Allison vorbei, der Hüterin
+von manchem Schatz!
+
+---
+**Ga,Cale:** kannst du uns das
+Rezept für diese berühmte
+Gefühlssuppe geben?
+
+---
+**Allison:** Vielleicht ja,
+vielleicht nein, erst wird jetzt
+mal gegessen, dort, es ist
+schon aufgetragen! Und hier
+stelle ich euch meine neusten
+Tänzerinnen vor!
 
 
 ---
@@ -1769,7 +1784,10 @@ zurück!
 
 ---
 **Drache:** Ich nehme an, ihr könnt mit so etwas umgehen, hab ich
-recht? **De 2:** Ein Sextant, wie überaus nützlich! Du hättest nicht
+recht?
+
+---
+**De 2:** Ein Sextant, wie überaus nützlich! Du hättest nicht
 vielleicht noch ein paar Koordinaten dazu?
 
 ---
@@ -1789,13 +1807,17 @@ Detektiven unterhalten.
 
 ---
 **GA 1:** Ich wette, es steckt der doppelzüngige Fuchs in diesem
-Avatar! **GA 2:** Schnell, mischen wir uns unter das Volk.
+Avatar!
+
+---
+**GA 2:** Schnell, mischen wir uns unter das Volk.
 
 ---
 **De 2:** Ich schlage vor, wir suchen endlich nach den Kobolden, die
 können uns sicher nach Utopia fliegen!
 
-*Ein Hexlein ruft aus dem Gasthaus:*\
+*Ein Hexlein ruft aus dem Gasthaus:*
+
 ---
 **Hexlein:** he, ihr Fremden, wollt ihr wissen, was ich in meiner
 Kristallkugel sehe?
@@ -1834,7 +1856,8 @@ weg.*
 **Ga, Amadeus:** richtig utopisch würde ich sagen!
 
 ---
-**Ga, Elia:** Und die Landschaft, so echt...\
+**Ga, Elia:** Und die Landschaft, so echt...
+
 ---
 **Ga, Amadeus:** Da fühlt sich gamen viel cooler an als früher.
 
@@ -1860,7 +1883,8 @@ ist doch in Ordnung oder?
 besseres?
 
 ---
-**Ga, Elia:** Hier ich habe eine Zauberbohne gefunden...\
+**Ga, Elia:** Hier ich habe eine Zauberbohne gefunden...
+
 ---
 **Ga, Geronimo:** ich habe alle Stücke des Eldenrings gefunden.
 
@@ -1876,7 +1900,10 @@ Weg um sie zu finden!
 ---
 **GA 1:** Uns führte ein Drache zu einer geheimnisvollen Ruine und
 dort erhielten wir diese Schatzkarte. Es stehen geheimnisvolle Zahlen
-drauf. **GA 2:** Dieses Rätsel werden wir lösen!
+drauf.
+
+---
+**GA 2:** Dieses Rätsel werden wir lösen!
 
 ---
 **GA 1:** Schnell, wir dürfen den Vorsprung nicht verlieren!
@@ -1905,27 +1932,29 @@ wenigstens die Stimmung gehoben!
 ---
 **Ga, Aris:** Bring sie in die Stadt!
 
-14
 
 ---
 **Ga, Geronimo:** Übrigens ich war fast in Atlantis, das ist bestimmt
 noch viel besser als Utopia, wer kommt mit auf die nächste Suche?
 
 ---
-***Musik***\
+***Musik***
+
 *Die unterdessen entstandene Hafenstadt von um die 1520 wird
 bevölkert.*
 
+---
 *Möven und Kormorane flattern umher, Marktstand mit Gemüse wird bereit
 gemacht. Frauen waschen und hängen Wäsche auf, sind später am Spinnrad
-und am handarbeiten. Säcke werden auf einen Wagen geladen, ein*\
-*Geldwechsler hat viele Goldstücke vor sich, in der Hafenkneipe "nuevo
-mundo" sitzen Seefahrer, auch Piraten, einer mit Papagei auf Schulter,
+und am handarbeiten. Säcke werden auf einen Wagen geladen, ein Geldwechsler hat viele Goldstücke vor sich, in der Hafenkneipe "nuevo mundo" sitzen Seefahrer, auch Piraten, einer mit Papagei auf Schulter
+
+---
 Schweinchen, Hühner, sind unterwegs, ein Pestarzt, später einer mit
 toten Ratten am Gürtel, ein Mönch mit einer Muschel um den Hals,
 Ritter und Damen mit ihren Kindern. Ein Kartenzeichner an der Arbeit,
 ein Wächter. Maleratelier zu sehen.*
 
+---
 *Die Mädchen und die Fischersfrau kommen in der Mitte der Bühne mit
 ihren Handarbeiten an.*
 
@@ -1987,7 +2016,7 @@ etwas loswerden!
 *Aus dem Fenster wird ein Nachttopf gekippt, anderer Müll, totes
 Huhn.......*
 
-*in der Kneipe:*\
+*in der Kneipe:*
 ---
 **Schiffsjunge:** Ich habe die Insel Utopia gesehen, als ich mit
 Amerigo als Schiffsjunge unterwegs war!
@@ -2013,7 +2042,7 @@ nicht?
 ---
 **Pirat 2:** Werde nur nicht frech, Bürschchen!
 
-*Leonardo da Vinci trifft Mona Lisa:*\
+*Leonardo da Vinci trifft Mona Lisa:*
 ---
 **Leonardo:** Mona, lass dich von mir malen, das ist das letzte Mal,
 dass ich dich frage.
@@ -2024,13 +2053,19 @@ dass ich dich frage.
 ---
 **Leonardo:** Weil du dann unsterblich wirst! Noch in 500 Jahren
 werden fast alle Menschen auf der Welt dich kennen! Du wirst die
-berühmteste Frau sein! **Mona:** Na gut, wenn es dir so wichtig ist.
+berühmteste Frau sein!
+
+---
+**Mona:** Na gut, wenn es dir so wichtig ist.
 
 ---
 **Kinder:** Das Schiff ist gelandet!
 
 *Die Zeitreisenden erscheinen im Getümmel, sie schauen alles staunend
-an.* **Serviererin Isabella:** Sind die 40 Tage Quarantäne schon um?
+an.*
+
+---
+**Serviererin Isabella:** Sind die 40 Tage Quarantäne schon um?
 
 ---
 **Marktfrau:** Ja und anscheinend hatten sie keine Pestkranken an
@@ -2094,7 +2129,10 @@ eine Frau mit 3 jungen Elefanten.*
 ---
 **Gewürzhändler:** Gewürze zu verkaufen! viel billiger, seit Indien
 auf dem Seeweg erreichbar ist! Ingwer, Kurkuma, Zimt, Pfeffer! Kauft
-Leute, kauft! **Dame:** zurück, uns gehört die erste Wahl!
+Leute, kauft!
+
+---
+**Dame:** zurück, uns gehört die erste Wahl!
 
 ---
 **Dame:** wer genug Geld hat, dem gehört die Welt!
@@ -2114,201 +2152,186 @@ Glück in der Liebe haben werde!
 
 
 
-*Einer mit Briefen kommt vom   
-Schiff:*                       
+*Einer mit Briefen kommt vom
+Schiff:*
 
 ---
-**Pöstler:** Wer erwartet Post 
-aus Übersee? Die Briefe aus    
-Italien sind auch              
+**Pöstler:** Wer erwartet Post
+aus Übersee? Die Briefe aus
+Italien sind auch
+dabei! Hier meine Schöne, von
+deinem Liebsten aus Rom!
 
-dabei! Hier meine Schöne, von  
-deinem Liebsten aus Rom!       
+*Sie liest den Brief, stellt
+dann Kerzen auf die Tische.*
 
-*Sie liest den Brief, stellt   
-dann Kerzen auf die Tische.*   
-
-*Ein fliegender Händler mit    
-verschiedenen Fläschchen.*     
-
----
-**Händler:** ich bringe euch   
-die neusten Pülverchen und     
-Tinkturen! Ganz neu            
-
-diese Flasche hier, meine      
-verehrten Damen, tragen sie    
-diese Lösung auf ihr           
-
-Haar und sie werden zu einer   
-blonden Schönheit!             
+*Ein fliegender Händler mit
+verschiedenen Fläschchen.*
 
 ---
-**Dame:** Das gehört mir! Gib  
-es her! Hier nimm!             
+**Händler:** ich bringe euch
+die neusten Pülverchen und
+Tinkturen! Ganz neu
+diese Flasche hier, meine
+verehrten Damen, tragen sie
+diese Lösung auf ihr
+Haar und sie werden zu einer
+blonden Schönheit!
 
 ---
-**Z 3:** Wetten, das ist der   
-Beginn des Berufes einer       
-Influencerin!                  
-
-*Elefanten werden              
-vorbeigeführt.*                
+**Dame:** Das gehört mir! Gib
+es her! Hier nimm!
 
 ---
-**Schiffsjunge:** Die sind     
-bestimmt für den König! Wenn   
-sie ausgewachsen               
+**Z 3:** Wetten, das ist der
+Beginn des Berufes einer
+Influencerin!
 
-sind, müssen sie für ihn       
-kämpfen                        
-
-*Das 2. Plakat wird vom        
-Bettler angeschlagen.*         
-
-*Ein Malergeselle trägt das    
-Händebild vom Schiff.*         
+*Elefanten werden
+vorbeigeführt.*
 
 ---
-**Z 1:** Schau nur, dieses     
-Bild dort haben wir zuhause    
-auch!                          
+**Schiffsjunge:** Die sind
+bestimmt für den König! Wenn
+sie ausgewachsen
+sind, müssen sie für ihn
+kämpfen
+
+*Das 2. Plakat wird vom
+Bettler angeschlagen.*
+
+*Ein Malergeselle trägt das
+Händebild vom Schiff.*
 
 ---
-**Z 2:** Wo hast du dieses     
-Bild her?                      
+**Z 1:** Schau nur, dieses
+Bild dort haben wir zuhause
+auch!
 
 ---
-**Malergeselle:** Habe ich bei 
-meinem Meister Michelangelo    
-gemalt, ich war 5              
-
-Jahre bei ihm in Rom in der    
-Lehre und jetzt suche ich      
-eigene Aufträge!               
+**Z 2:** Wo hast du dieses
+Bild her?
 
 ---
-**Junge aus der Stadt:** Du hast 
-es gut, ich plage mich sicher    
-noch 3 Jahre mit                 
-
-Steinen legen ab.              
-
----
-**Malergeselle:** Hab Geduld,  
-auch du wirst ein Künstler,    
-die ganze Welt ist             
-
-vernarrt in Mosaike! Die neuen   
-Reichen werden sich um deine     
-Dienste reissen!                 
-
-*Marktfrau kommt, Pablo        
-rufend, und schliesst          
-Malergesellen in die Arme.*    
-
-*Entdecker verlassen Kneipe.   
-Die Zeitreisenden beim         
-Plakat:*                       
+**Malergeselle:** Habe ich bei
+meinem Meister Michelangelo
+gemalt, ich war 5
+Jahre bei ihm in Rom in der
+Lehre und jetzt suche ich
+eigene Aufträge!
 
 ---
-**Z1:** Kaum zu glauben, die   
-waren ja schon vor 500 Jahren  
-da, wo wir erst                
-
-kürzlich angekommen sind!      
-
----
-**Z2:** Ausser dass sie hier   
-noch keine Klimaprobleme       
-kennen.                        
+**Junge aus der Stadt:** Du hast
+es gut, ich plage mich sicher
+noch 3 Jahre mit
+Steinen legen ab.
 
 ---
-**Z1:** Schon klar, sie haben  
-ja auch noch keine Maschinen,  
-kein Elektrisch und            
+**Malergeselle:** Hab Geduld,
+auch du wirst ein Künstler,
+die ganze Welt ist
+vernarrt in Mosaike! Die neuen
+Reichen werden sich um deine
+Dienste reissen!
 
-so.                            
+*Marktfrau kommt, Pablo
+rufend, und schliesst
+Malergesellen in die Arme.*
 
----
-**Z3:** Und vergiss nicht, es    
-gibt erst eine halbe Milliarde   
-Menschen auf der Erde.           
-
-*Auf der anderen Stadtseite:*  
-
----
-**Geschichtenerzähler:** Da    
-bin ich wieder mit der letzten 
-Folge meiner                   
-
-neusten Geschichte "Die Suche  
-nach Atlantis", passt gut auf: 
-Der Fischer, den               
-
-wir letztes Mal im Nebel haben 
-verschwinden sehen, nicht      
-wissend ob er                  
-
-seinem Verderben entgegen        
-segelt, hat überlebt und findet  
-sich plötzlich unter             
-
-strahlend blauem Himmel        
-wieder. Er fragt sich, ob das, 
-was er sieht oder zu           
-
-sehen glaubt, Traum oder       
-Wirklichkeit ist, und während  
-er noch darüber                
-
-nachdenkt, erblickt er das     
-Ufer eines wunderbaren Landes. 
-
-Er landet und zieht sein       
-Schiff an den Sandstrand und   
-wandert durch einen            
-
-Urwald voll von prächtigen     
-Vögeln ins Landesinnere. Er    
-ist überzeugt, dass er         
-
-nun endlich Atlantis gefunden  
-hat, eine Insel auf der        
-Mitgefühl und                  
-
-Gerechtigkeit herrscht....     *Der Wagen wird zum zweiten    
-Mal beladen.*                  
+*Entdecker verlassen Kneipe.
+Die Zeitreisenden beim
+Plakat:*
 
 ---
-**Wächter:** Verschwinde und   
-mache den armen Leuten keine   
-Hoffnungen von                 
-
-einem besseren Leben, hörst    
-du? Wird's bald?               
-
-*Die Kinder laufen ihm nach.*  
+**Z1:** Kaum zu glauben, die
+waren ja schon vor 500 Jahren
+da, wo wir erst
+kürzlich angekommen sind!
 
 ---
-**Geschichtenerzähler:**       
-Kinder, erzählt die Geschichte 
-weiter, denn solange           
-
-wir die Geschichte von         
-Atlantis erzählen, gibt es     
-Atlantis!                      
-
-*Wächter nimmt 2. Plakat weg.  
-In der Hafenkneipe:*           
+**Z2:** Ausser dass sie hier
+noch keine Klimaprobleme
+kennen.
 
 ---
-**Pirat 1:** Ich steche in See 
-und werde dieses sagenhafte    
-Atlantis und all seine         
+**Z1:** Schon klar, sie haben
+ja auch noch keine Maschinen,
+kein Elektrisch und
+so.
 
-Schätze finden. Wer heuert bei 
-mir an?                        
+---
+**Z3:** Und vergiss nicht, es
+gibt erst eine halbe Milliarde
+Menschen auf der Erde.
+
+*Auf der anderen Stadtseite:*
+
+---
+**Geschichtenerzähler:** Da
+bin ich wieder mit der letzten
+Folge meiner
+neusten Geschichte "Die Suche
+nach Atlantis", passt gut auf:
+Der Fischer, den
+wir letztes Mal im Nebel haben
+verschwinden sehen, nicht
+wissend ob er
+seinem Verderben entgegen
+segelt, hat überlebt und findet
+sich plötzlich unter
+strahlend blauem Himmel
+wieder. 
+
+---
+Er fragt sich, ob das,
+was er sieht oder zu
+sehen glaubt, Traum oder
+Wirklichkeit ist, und während
+er noch darüber
+nachdenkt, erblickt er das
+Ufer eines wunderbaren Landes.
+
+---
+Er landet und zieht sein
+Schiff an den Sandstrand und
+wandert durch einen
+Urwald voll von prächtigen
+Vögeln ins Landesinnere. Er
+ist überzeugt, dass er
+nun endlich Atlantis gefunden
+hat, eine Insel auf der
+Mitgefühl und
+Gerechtigkeit herrscht....     
+
+*Der Wagen wird zum zweiten
+Mal beladen.*
+
+---
+**Wächter:** Verschwinde und
+mache den armen Leuten keine
+Hoffnungen von
+einem besseren Leben, hörst
+du? Wird's bald?
+
+*Die Kinder laufen ihm nach.*
+
+---
+**Geschichtenerzähler:**
+Kinder, erzählt die Geschichte
+weiter, denn solange
+wir die Geschichte von
+Atlantis erzählen, gibt es
+Atlantis!
+
+*Wächter nimmt 2. Plakat weg.
+In der Hafenkneipe:*
+
+---
+**Pirat 1:** Ich steche in See
+und werde dieses sagenhafte
+Atlantis und all seine
+Schätze finden. Wer heuert bei
+mir an?
 
 
 
@@ -2346,7 +2369,7 @@ sagenhaften Land!
 **Bettler:** sie erzählen, dass in Utopia alle gleiche Rechte haben,
 alle ein Handwerk lernen, sie gemeinsame Gärten haben, wo sie alles
 anpflanzen, was sie brauchen, dass es kaum Kriege gibt, und dass
-wissenschaftliche\
+wissenschaftliche
 Vorlesungen von allen besucht werden können. Und dass die Bewohner von
 Utopia weder Geld noch Gold besonders mögen.
 
@@ -2364,6 +2387,7 @@ vor!
 
 ---
 **Z1:** Woher wissen sie...\
+
 ---
 **Kopernikus:** Ich habe euch neben dem Gasthaus sprechen hören und
 gesehen, dass ihr lesen könnt, da war es mir klar. Übrigens,
@@ -2396,7 +2420,10 @@ auf der Suche nach dem heiligen Gral.
 
 ---
 **R 2:** Das ist das verlorene Paradies und je eher wir es finden,
-desto besser. **R 3:** Und das magische Füllhorn werden wir auch
+desto besser.
+
+---
+**R 3:** Und das magische Füllhorn werden wir auch
 finden!
 
 ---
@@ -2429,7 +2456,10 @@ sind!
 
 ---
 **R 2:** Aber wenn ihr uns zu einem guten Essen einlädt, sagen wir
-gerne zu! **D 3:** Unsere Köche sind schon an der Arbeit und ich kann
+gerne zu!
+
+---
+**D 3:** Unsere Köche sind schon an der Arbeit und ich kann
 es kaum erwarten, bis wir ums gemütliche Kaminfeuer sitzen!
 
 ---
@@ -2502,7 +2532,10 @@ Zauberstein von der Ratte,\
 **Z3:** Und hoffen, dass sie uns zurückholt!
 
 *Wütendes Gebell, zwei Hunde springen ihnen nach, sie rennen schnell
-weg. **Musik:** Hafenstadt verschwindet.*
+weg.
+
+---
+**Musik:** Hafenstadt verschwindet.*
 
 *In der Stadt ist es noch dunkel. Beppo schläft an seinen Besen
 gelehnt. Eine Schneiderin bei Kerzenlicht am nähen. Kinder schlafen
@@ -2530,7 +2563,10 @@ richtig gelandet?
 
 ---
 **Z4:** Es ist noch dunkel, aber es hat glaub nicht mehr soviel Müll
-wie früher! **Z1:** Und das Restaurant heisst jetzt Zauberkessel!
+wie früher!
+
+---
+**Z1:** Und das Restaurant heisst jetzt Zauberkessel!
 
 
 
@@ -2539,10 +2575,11 @@ wie früher! **Z1:** Und das Restaurant heisst jetzt Zauberkessel!
 
 *Es wird Tag*\
 ---
-**Kinder** *erwachen und rufen:*\
-Annabella, so schau doch! eine Blume! 
+**Kinder** *erwachen und rufen:*
 
-eine Biene! 
+Annabella, so schau doch! eine Blume!
+
+eine Biene!
 
 eine
 Schildkröte!
@@ -2564,11 +2601,15 @@ noch mehr Blumen!
 *Die Bloggerin, Katze und Techie kommen an.*
 
 ---
-**Bloggerin:** Friends, wir haben das Wunder vollbracht und eine App\
-programmiert,\
+**Bloggerin:** Friends, wir haben das Wunder vollbracht und eine App
+programmiert,
+
 ---
 **Techie:** mit der jeder von euch sein ganz persönliches Utopia
-finden kann! **Bloggerin:** Jedem seine eigene Suche, ist das nicht
+finden kann!
+
+---
+**Bloggerin:** Jedem seine eigene Suche, ist das nicht
 mega cool?
 
 ---
@@ -2604,290 +2645,281 @@ alle meine Träume gehen in Erfüllung! Liebt mich!
 **Modeschau**
 
 
-*Die Kobolde landen mit dem      
-Ballon, hinten nach turnt der    
-Fuchs. Im Korb die*              
-
-*schlafenden Detektive mit dem   
-Sextanten. Bevor man etwas       
-sieht, zu hören:*                
+*Die Kobolde landen mit dem
+Ballon, hinten nach turnt der
+Fuchs. Im Korb die schlafenden Detektive mit dem
+Sextanten. Bevor man etwas
+sieht, zu hören:*
 
 ---
-**K Atreju:** Wir verlieren an 
-Höhe, so tut doch etwas!       
+**K Atreju:** Wir verlieren an
+Höhe, so tut doch etwas!
 
 ---
-**K Cale:** habe die Landung   
-eingeleitet, es wird alles     
-klappen.                       
+**K Cale:** habe die Landung
+eingeleitet, es wird alles
+klappen.
 
 ---
-**K Sky:** Wir berühren schon  
-die Baumkronen, so tu doch     
-etwas!                         
+**K Sky:** Wir berühren schon
+die Baumkronen, so tu doch
+etwas!
 
-*Ein schepperndes Geräusch.*   
-
----
-**Kinder:** Da ist etwas       
-passiert!                      
+*Ein schepperndes Geräusch.*
 
 ---
-**K Cale:** Verstecke die      
-Ballonhülle, dann wollen wir   
-uns mal umsehen.               
-
-*Sie erscheinen mit dem Korb,  
-stellen sich davor:*           
+**Kinder:** Da ist etwas
+passiert!
 
 ---
-**K Atreju:** Darf ich         
-vorstellen: Wir sind das       
-Ballonflug-Unternehmen ihres   
+**K Cale:** Verstecke die
+Ballonhülle, dann wollen wir
+uns mal umsehen.
 
-Vertrauens!                    
-
----
-**K Cale:** Wir fliegen sie    
-von überall                    
+*Sie erscheinen mit dem Korb,
+stellen sich davor:*
 
 ---
-**K Elia:** nach nirgendwo     
+**K Atreju:** Darf ich
+vorstellen: Wir sind das
+Ballonflug-Unternehmen ihres
+Vertrauens!
 
 ---
-**K Sky:** und umgekehrt.      
+**K Cale:** Wir fliegen sie
+von überall
 
 ---
-**K Aris:** Buchen sie noch    
-heute!                         
+**K Elia:** nach nirgendwo
 
 ---
-**K Sky:** Wir bieten          **K Elia**: und Gruppenrabatt! 
-Frühbucherrabatt!              
+**K Sky:** und umgekehrt.
 
 ---
-**K Cale:** Ihr findet uns im  
-Zauberkessel.                  
+**K Aris:** Buchen sie noch
+heute!
 
 ---
-**K Atreju:** Sollten wir      
-nicht noch unsere Passagiere   
-wecken?                        
+**K Sky:** Wir bieten
 
 ---
-**K Aris:** He ihr zwei!       
-Aufwachen, wir sind gelandet!  
-
-*Während die Detektive         
-erscheinen, gehen die Kobolde  
-eine Suppe essen.*             
+**K Elia**: und Gruppenrabatt!
+Frühbucherrabatt!
 
 ---
-**De2:** Irgendwie kann ich es 
-nicht glauben, dass wir hier   
-in diesem                      
-
-sagenhaften Land sind. Das     
-müsste doch viel vollkommener  
-sein?                          
-
-
-
-
+**K Cale:** Ihr findet uns im
+Zauberkessel.
 
 ---
-**De1:** Stimmt, hier scheint es ja noch 
-eine Menge Arbeit zu geben, bis man es   
-
-als gemütlich bezeichnen kann.         
-
----
-**De2:** Der endgültige Beweis, dass wir 
-hier richtig sind, steht ja noch aus.    
-Ah,                                      
-
-wen haben wir denn dort?               
-
-*Die 2 Geheimagentinnen sind daran     
-alles zu vergleichen mit der           
-Landkarte.*                            
+**K Atreju:** Sollten wir
+nicht noch unsere Passagiere
+wecken?
 
 ---
-**Fuchs:** Egal, wo wir uns hier       
-befinden, ich würde sagen, es ist Zeit 
-für eine                               
+**K Aris:** He ihr zwei!
+Aufwachen, wir sind gelandet!
 
-Zusammenarbeit!                        
-
----
-**De2:** Können wir euch behilflich    
-sein?                                  
+*Während die Detektive
+erscheinen, gehen die Kobolde
+eine Suppe essen.*
 
 ---
-**GA1:** Danke, wir sind am Ziel       
-unserer Suche, das hier ist Utopia!    
+**De2:** Irgendwie kann ich es
+nicht glauben, dass wir hier
+in diesem
+sagenhaften Land sind. Das
+müsste doch viel vollkommener
+sein?
 
----
-**GA2:** Tut mir leid für euch, aber     
-[wir]{.ul} werden als Entdecker dieses   
-sagenhaften                              
-
-Landes in die Geschichte eingehen.     
-
----
-**De1:** Und wo ist der Beweis, dass   
-wir hier wirklich in Utopia sind?      
-
----
-**GA2:** Hier die Karte, schaut doch   
-selbst!                                
-
----
-**De2:** Darf ich mal die Koordinaten  
-überprüfen?                            
-
-*Während er mit dem Sextanten hantiert 
-rufen die Kinder:*                     
-
----
-**Kinder:** Wir hören etwas, dort      
-hinten im Wald!                        
-
----
-**Katze:** Miau, miau!                 
-
----
-**De1:** Es gibt keinen Zweifel, wir     
-stehen hier auf dem Boden von Utopia.    
-Fühlt                                    
-
-sich gut an, dass wir die Welt noch    
-einmal gerettet haben, was?            
-
----
-**De2:** Schon, aber ich habe es mir   
-irgendwie sensationeller vorgestellt.  
-
----
-**Fuchs:** Nur Geduld, diese Welt muss   
-erst wieder zum Leben erweckt werden!    
-
----
-**Kinder:** Es kommen ganz viele Leute 
-und ein Papagei!                       
-
----
-***Musik** und der Wanderzirkus kommt  
-an. Der Marienkäfer ist dabei und die* 
-
-*Akrobaten, auch Friedi Pauline        
-Emelie, alle in Zirkusgewändern.*      
-
----
-**Papagei:** Utopia gefunden, Utopia   
-gefunden!                              
-
----
-**Zirkusdirektorin:** Mein Pendel      
-schlägt aus! Utopia muss sich unter    
-unseren                                
-
-Füssen befinden! Stellt das Schild     
-auf! Verehrtes Publikum, nur noch      
-wenige                                 
-
-Augenblicke und ihr kommt in den       
-Genuss unserer einzigartig magischen   
-
-Schau!                                 
-
-*Violetta wird mit Klappschild Utopia  
-vorne hingestellt. Ameisen kommen an.* 
-
----
-**A1:** Ein Zirkus, wie schön!         
-
----
-**A2:** Und alle hier sind so fröhlich 
-und gut gelaunt!                       
-
----
-**A3:** Bei unserem letzten Besuch war 
-das ganz anders, alles voll Müll.      
-
----
-**A4:** Wir sind ja auch an einem ganz 
-anderen Ort, schaut euch doch um!      
-
----
-**A5:** Auf dem Schild steht Utopia,   
-kennt das jemand von euch?             
-
----
-**A6:** Vielleicht brauchen sie noch   
-eine einzigartige Tanzgruppe beim      
-Zirkus?                                
-
----
-**Glückskäfer:** Ihr habt Glück! Bei uns 
-kann jeder mitmachen! Applaus für die    
-
-Ameisen!                               
-
----
-**1. Auftritt: Ameisen- und            
-Insektentanz**                         
-
----
-**Zirkusdirektorin:** Violetta Ansage! 
-
-*Sie lässt Utopia fallen, macht ein    
-Kunststück und hält die zwei in die    
-Höhe.*                                 
-
----
-**2. Auftritt: Akrobaten**             
-
-*Waran und Gürteltier kommen           
-angewuselt.*                           
-
----
-**Waran:** Da seid ihr ja, wir haben   
-euch so vermisst!                      
-
----
-**Gürteltier:** Unsere Sehnsucht war   
-grenzenlos!                            
-
----
-**Waran:** Dürfen wir unsere Nummer    
-zeigen?                                
-
----
-**Zirkusdirektorin:** Ich wusste, dass 
-ihr uns finden würdet! Los zeigt eure  
-
-Kunststücke! Violetta, Einsatz!        *Violetta zeigt die 3* 
-
----
-**3. Auftritt: Waran und Gürteltier!** 
-
-*Passanten haben zugeschaut und kommen 
-durch die Zuschauer an:*               
 
 
 
 
 ---
-**P:**Zwick mich, das ist nicht die Realität, wir sind im ultimativ
+**De1:** Stimmt, hier scheint es ja noch
+eine Menge Arbeit zu geben, bis man es
+als gemütlich bezeichnen kann.
+
+---
+**De2:** Der endgültige Beweis, dass wir
+hier richtig sind, steht ja noch aus.
+Ah,
+wen haben wir denn dort?
+
+*Die 2 Geheimagentinnen sind daran
+alles zu vergleichen mit der
+Landkarte.*
+
+---
+**Fuchs:** Egal, wo wir uns hier
+befinden, ich würde sagen, es ist Zeit
+für eine
+Zusammenarbeit!
+
+---
+**De2:** Können wir euch behilflich
+sein?
+
+---
+**GA1:** Danke, wir sind am Ziel
+unserer Suche, das hier ist Utopia!
+
+---
+**GA2:** Tut mir leid für euch, aber
+wir werden als Entdecker dieses
+sagenhaften
+Landes in die Geschichte eingehen.
+
+---
+**De1:** Und wo ist der Beweis, dass
+wir hier wirklich in Utopia sind?
+
+---
+**GA2:** Hier die Karte, schaut doch
+selbst!
+
+---
+**De2:** Darf ich mal die Koordinaten
+überprüfen?
+
+*Während er mit dem Sextanten hantiert
+rufen die Kinder:*
+
+---
+**Kinder:** Wir hören etwas, dort
+hinten im Wald!
+
+---
+**Katze:** Miau, miau!
+
+---
+**De1:** Es gibt keinen Zweifel, wir
+stehen hier auf dem Boden von Utopia.
+Fühlt
+sich gut an, dass wir die Welt noch
+einmal gerettet haben, was?
+
+---
+**De2:** Schon, aber ich habe es mir
+irgendwie sensationeller vorgestellt.
+
+---
+**Fuchs:** Nur Geduld, diese Welt muss
+erst wieder zum Leben erweckt werden!
+
+---
+**Kinder:** Es kommen ganz viele Leute
+und ein Papagei!
+
+---
+***Musik** und der Wanderzirkus kommt
+an. Der Marienkäfer ist dabei und die Akrobaten, auch Friedi Pauline
+Emelie, alle in Zirkusgewändern.*
+
+---
+**Papagei:** Utopia gefunden, Utopia
+gefunden!
+
+---
+**Zirkusdirektorin:** Mein Pendel
+schlägt aus! Utopia muss sich unter
+unseren
+Füssen befinden! Stellt das Schild
+auf! Verehrtes Publikum, nur noch
+wenige
+
+Augenblicke und ihr kommt in den
+Genuss unserer einzigartig magischen
+Schau!
+
+*Violetta wird mit Klappschild Utopia
+vorne hingestellt. Ameisen kommen an.*
+
+---
+**A1:** Ein Zirkus, wie schön!
+
+---
+**A2:** Und alle hier sind so fröhlich
+und gut gelaunt!
+
+---
+**A3:** Bei unserem letzten Besuch war
+das ganz anders, alles voll Müll.
+
+---
+**A4:** Wir sind ja auch an einem ganz
+anderen Ort, schaut euch doch um!
+
+---
+**A5:** Auf dem Schild steht Utopia,
+kennt das jemand von euch?
+
+---
+**A6:** Vielleicht brauchen sie noch
+eine einzigartige Tanzgruppe beim
+Zirkus?
+
+---
+**Glückskäfer:** Ihr habt Glück! Bei uns
+kann jeder mitmachen! Applaus für die
+
+Ameisen!
+
+---
+**1. Auftritt: Ameisen- und
+Insektentanz**
+
+---
+**Zirkusdirektorin:** Violetta Ansage!
+
+*Sie lässt Utopia fallen, macht ein
+Kunststück und hält die zwei in die
+Höhe.*
+
+---
+**2. Auftritt: Akrobaten**
+
+*Waran und Gürteltier kommen
+angewuselt.*
+
+---
+**Waran:** Da seid ihr ja, wir haben
+euch so vermisst!
+
+---
+**Gürteltier:** Unsere Sehnsucht war
+grenzenlos!
+
+---
+**Waran:** Dürfen wir unsere Nummer
+zeigen?
+
+---
+**Zirkusdirektorin:** Ich wusste, dass
+ihr uns finden würdet! Los zeigt eure
+Kunststücke! Violetta, Einsatz!
+
+*Violetta zeigt die 3*
+
+---
+**3. Auftritt: Waran und Gürteltier!**
+
+*Passanten haben zugeschaut und kommen
+durch die Zuschauer an:*
+
+
+
+
+---
+**P:** Zwick mich, das ist nicht die Realität, wir sind im ultimativ
 neusten 4DX Film, stimmts?
 
 ---
-**P:**Ich habe keine Ahnung um was es hier geht, aber ich will es
+**P:** Ich habe keine Ahnung um was es hier geht, aber ich will es
 nicht verpassen!
 
 ---
-**P:**Ist das, was ich sehe oder zu sehen glaube, Traum oder
+**P:** Ist das, was ich sehe oder zu sehen glaube, Traum oder
 Wirklichkeit?
 
 *Sie sitzen ins Restaurant. Violetta schaut sich im Spiegel mit Nummer 4 an.*
@@ -2898,13 +2930,13 @@ euch unser Zauberspiegel die grosse Frage: Wer bin ich? Wer von euch
 möchte dies endlich und ein für allemal wissen? Kommen sie her, setzen
 sie sich!
 
-*Einer setzt sich,drei weitere stehen an*\
+*Einer setzt sich,drei weitere stehen an*
 ---
 **Direktorin:** Ihr braucht nichts weiter zu tun, als zu fragen:
 Spiegel, wer bin ich?
 
 ---
-**4. Auftritt: Zauberspiegel**\
+**4. Auftritt: Zauberspiegel**
 Mann/Prinz, Katze/Tiger, Putzfrau/Prinzessin, Hund/Wolf.
 
 ---
@@ -2915,11 +2947,11 @@ geht es weiter mit unserem sensationellen Programm! Violetta Einsatz!
 *Violetta zeigt jeweils die entsprechende Nummer.*
 
 ---
-**weiterer Wanderzirkus-Auftritt:**\
-**5. Stelzen**\
-**6. Einräder**\
-**7. aerial hoop**\
-**8. Diabolo**\
+**weiterer Wanderzirkus-Auftritt:**
+**5. Stelzen**
+**6. Einräder**
+**7. aerial hoop**
+**8. Diabolo**
 
 ---
 **Direktorin:** Violetta, wo sind die Reifen?
