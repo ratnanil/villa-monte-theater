@@ -1,0 +1,3280 @@
+---
+title: "Theater 2019"
+subtitle: Wo sind die Anderen?
+output:
+  revealjs::revealjs_presentation:
+    center: true
+    transition: none
+    progress: true
+    slideNumber: true
+    self_contained: true
+    theme: black
+---
+
+
+---
+
+Szene 1
+_Musik, Ein Hase kommt mit anderen Gestalten vorne an die Bühne:_
+
+---
+
+**Hase:** Setzen sie jetzt ihre Brille auf!
+
+---
+
+_Ev. geht "ein Vorhang weg": Ein 30 Jahre altes Video:_
+
+---
+
+_Das riesige Raumschiff ESPERANZA mit "49" Paaren, Kindern und Babys an Bord._
+
+---
+
+- Wir, die wir auserwählt wurden, mit dem Raumschiff Esperanza
+
+---
+
+- zum Exoplaneten Proxima Centauri B zu fliegen,
+
+---
+
+- grüssen alle Menschen auf der Erde und ganz speziell unsere Familien
+
+---
+
+- und wir laden euch herzlich ein, mit uns zu feiern!
+
+---
+
+- denn heute sind es genau 10 Jahre her, seit wir mit der Esperanza losgeflogen sind!
+
+---
+
+- wir alle sind bei bester Gesundheit und unterdessen gibt es schon 100 Kinder
+
+---
+
+- Vor einigen Monaten flogen wir an Uranus vorbei und werden in 2 Jahren Neptun erblicken.
+
+---
+
+- Für diejenigen, die es noch nicht gehört haben, es ist uns gelungen,
+
+---
+
+- einen Asteroiden einzufangen und unseren Kreuzer im Flug daran festzumachen.
+
+---
+
+- Der gigantische Brocken enthält viele wertvolle Bodenschätze
+
+---
+
+- und seit kurzem spendet er uns auch Trinkwasser.
+
+---
+
+- Aber heute wird nicht gearbeitet, heute feiern wir!
+
+---
+
+**Paar-Tanz**
+
+---
+
+- Milliarden von Menschen schauen uns zu und hoffen, dass wir am Ziel unserer Träume ankommen werden!
+
+---
+
+- du meinst wohl unsere Nach-, Nach-, Nach-, Nach-, und so weiter -fahren in 6000 Jahren!
+
+---
+
+- Wir müssen utopisch denken um realistisch zu sein, gerade in unserer Situation.
+
+---
+
+- Bald wird der Laserantrieb entdeckt und gegen das langsame Ionenstrahltriebwerk ausgewechselt werden.
+
+---
+
+- Und dann werden wir selbst auf unserer nagelneuen Erde landen!
+
+---
+
+- Ich denke, du sollst mal zum Bordpsychiater gehen.
+
+---
+
+- Meine Sehnsucht nach unbekannten Welten wird in Erfüllung gehen, du wirst es sehen.
+
+---
+
+- In unserer alten Heimat muss es Sommer sein, schaut nur, überall Sternschnuppen!
+
+---
+
+- wenn das kein gutes Zeichen ist, Leute schnell, wünscht euch was!
+
+---
+
+_Musik, überall Sternschnuppen, es beginnt zu flimmern._
+
+---
+
+_Hase läuft mit Erdenball durch, nimmt demonstrativ seine Brille ab!_
+
+---
+
+_Kulisse beginnt sich zu verändern, während 2 Astronomen mit ihren vielen Gerätschaften auf die Bühne kommen._
+
+---
+
+**A 1:** wo sind die Andern?
+
+---
+
+**A 2:** Fragen sie sich das auch ab und zu?
+
+---
+
+**A 1:** oder denken sie, das mit uns, das war es schon?
+
+---
+
+**A 2:** aber da täuschen sie sich, denn wir werden sie finden!
+
+---
+
+**A 1:** Und zwar mit unserem selbstgebastelten Spezial-Teleskop.
+
+---
+
+**A 2:** he, hilf mir mal!
+
+---
+
+_Fliege und Mücke kommen angeflogen._
+
+---
+
+**Mücke:** die zwei da scheinen echt interessant zu sein!
+
+---
+
+**Fliege:** Vorallem scheinen sie unserer Intelligenz würdig zu sein.
+
+---
+
+**Mücke:** ok, ich teile es dem Rat der Tiere mit, dass wir die Beobachtung übernehmen.
+
+---
+
+**Fliege:** mach es telepathisch, nicht dass du einem Anschlag zum Opfer fällst.
+
+---
+
+**A 2:** vielleicht haben sie auch kürzlich mal wieder dieses Video zum 10-Jahresflug der Esperanza angeschaut, haben sie?
+
+---
+
+**A 1:** Aber sie glauben doch nicht im Ernst, dass man die anderen auf diese Weise finden kann?
+
+---
+
+**A 2:** Das war übrigens das letzte Bild- und Tonmaterial und es ist 30 Jahre her, seit wir es empfangen haben.
+
+---
+
+**A 1:** Na immerhin funkt das Schiff noch seine Position durch.
+
+---
+
+**A 2:** Das geht alles automatisch, aber was mit der Schiffsbesatzung los ist, das weiss niemand.
+
+---
+
+_Securitas mit Fliegenklappe und 2 Detektive sind unterwegs:_
+
+---
+
+**Securitas:** Wir brauchen den Platz hier für den Fortgang der Geschichte, könntet ihr eure Träume vielleicht anderswo verwirklichen?
+
+---
+
+**Fliege:** da hatten wir doch einen guten Riecher, dass wir uns nicht den ausgesucht haben.
+
+---
+
+**Mücke:** Die arme Möve, hoffentlich passt sie gut auf sich auf.
+
+---
+
+_Ein Meteoritenregen geht runter. 2 Detektive schauen sich überall um._
+
+---
+
+**Securitas:** Hilfe, ein Erdbeben!
+
+---
+
+**A 2:** keine Angst! Das war nur ein bestellter und bezahlter Meteoritenregen aus einem Satelliten, wahrscheinlich zu einer Billionärs-Hochzeit.
+
+---
+
+**A 1:** Soll angeblich das echte Wünschen fördern und ist der neuste Hit für alle, die das nötige Kleingeld haben!
+
+---
+
+**A 2:** Das startup hat es anscheinend noch nicht ganz geschafft, dass alle Steine im All verglühen, da regelmässig welche auf die Erde fallen.
+
+---
+
+**Securitas:** Aber das ist ja fahrlässig!
+
+---
+
+**A 1:** Halb so wild, Kollateralschaden nennt man das, noch nie davon gehört? Kommt recht häufig vor.
+
+---
+
+**Securitas:** Vielleicht bringt auch ihr das ganze Weltall durcheinander mit diesen komischen Maschinen. Ein Grund mehr, dass ihr beide jetzt endlich zusammenpackt! Und auf euch zwei wartet hier auch niemand, schliesslich gibt es heutzutage überall Überwachungskameras.
+
+---
+
+**De 1:** Sie sind doch der Einzige, der hier noch die Fäden im Griff hält, nicht wahr?
+
+---
+
+**De 2:** Dann gestatten sie uns eine Frage: Ist es ihnen aufgefallen, dass in letzter Zeit mehr Tiere in der Stadt leben und sich gerne in der Nähe von Menschen aufhalten?
+
+---
+
+**Securitas:** Tiere kommen in meinem Stellenbeschrieb nicht vor, mir reichen die Menschen, also strapazieren sie meine Nerven nicht länger.
+
+---
+
+_Die Möven tuscheln untereinander…. Es ertönt Musik…_
+
+---
+
+**Securitas:** Und was soll das jetzt? Aufhören, so geht doch die ganze Geschichte verloren!
+
+---
+
+_Musik weg und alle stehen ganz still._
+
+---
+
+**Model:** Aber wir gehören zu dieser Geschichte, also schauen sie einfach zu!
+
+---
+
+**Modeschau**
+
+---
+
+_Nächster Schauplatz (ist "unbewohnt" schon während der Modeschau da):_
+
+---
+
+_Stadt am Ozean. Plasticaid-Arbeiter mit Mundschutz säubern den Ozean und Strand vom Plastic. Im Hintergrund ev. Wolkenkratzer, Schornsteine und ev. entfernt Verkehrslärm zu hören. Strandverkäuferin mit mobilem 3-D-Drucker. Ein Schild: "Baden verboten, benutzen Sie den Pool! Plasticaid TM"_
+
+---
+
+_Möven, ein Seehund auf einer Bank, 1 Elster freut sich an ihrem Glitzerkram. Eine Katze streunt herum. Strandbar, wo es zwei grosse Topfpflanzen hat. Ein Strandrestaurant mit Eisstand, ein Repaircafé, wo verschiedenes geflickt wird, einem Zwerg die Stiefel. Maurizio döst vor sich hin. Mädchen liegen lesend am Strand. 2 Jugendliche mit smartphone suchen etwas._
+
+---
+
+_Ein Forscher versucht Proben aus dem Ozean zu entnehmen._
+
+---
+
+**Arbeiter 1** von Plasticaid: Was wollen Sie denn hier?
+
+---
+
+**Arbeiter 2:** Die Sammelrechte gehören alle der Firma Plasticaid, jemand muss den ganzen Müll schliesslich weg machen, also Finger weg!
+
+---
+
+**1:** Auch damit kann man reich werden, die Bude für die wir arbeiten, liegt im Wachstum ganz vorne!
+
+---
+
+**2:** Also mischen sie sich nicht in unsere Angelegenheiten.
+
+---
+
+**Forscher:** Aber ich will doch alles erforschen, zu Wasser, zu Land und in der Luft und noch weiter im ganzen Universum!
+
+---
+
+**1:** Mann, da haben sie sich nicht wenig vorgenommen, beginnen sie am besten mal, ähm, im Wald dort.
+
+---
+
+**Forscher:** So hören sie doch, in diesem Ozean werde ich erneuerbare Energie finden, die haben wir dringend nötig!
+
+---
+
+**2:** Das bezweifle ich, besser die Leute lernen wieder Energie sparen.
+
+---
+
+**Forscher:** Zitteraal und Zitterwels, die kennt ihr ja sicher, aber es geht das Gerücht, dass es weit mächtigere Elektrofische gibt und überhaupt ist 80 Prozent in der Tiefsee noch nicht entdeckt, also lassen sie mich schon abtauchen!
+
+---
+
+**1:** Wir können sie nicht daran hindern, aber ein Bad in dieser Brühe könnte ihrem Forscherleben ein jähes Ende bereiten.
+
+---
+
+_2 Damen mit 2 Hunden kommen ins Strandcafé. 2 kl. Roboter transportieren das Gepäck. Im Repaircafé wird der geflickte antike Roboter getestet._
+
+---
+
+**Rep 1:** Vorwärts! Rückwärts! Drehen! Geradeaus! Moment, da muss ich noch etwas anziehen.
+
+---
+
+**Roboter:** Vielen Dank, ich fühle mich wie neu!
+
+---
+
+**Rep 2:** Und du findest auch bestimmt alleine den Weg ins Museum?
+
+---
+
+**Verkäuferin:** Sonnenbrillen aus dem 3D-Drucker! Der Hit des Jahres!
+
+---
+
+_Die zwei Jugendlichen mit phone rennen in Verkäuferin hinein:_
+
+---
+
+**Jugendl. 1:** Hier muss sie sein!
+
+---
+
+**Verkäuferin:** Könnt ihr nicht aufpassen? Mein 3 D ist sehr sensibel…
+
+---
+
+**Jugendl. 2:** Schnell, eine dieser supercoolen Brillen, da buchen sie ab
+
+---
+
+**Jugendl. 1:** Wir werden in diesem Geschäft die Rolle der Influencer übernehmen, falls sie es noch nicht wissen.
+
+---
+
+**Jugendl. 2:** So machen sie schon, setzen sie die Maus auf uns an!
+
+---
+
+_Sie erhalten Brille, setzen sich ins Repaircafé und sind am Handy…_
+
+---
+
+**Kokosnussverkäufer:** Frische Kokosnuss! Kokosnuss! Ganz frisch!
+
+---
+
+_Eine Drohne mit headset fliegt an, pfeift, 3 Nixen und 3 Seepferdchen erscheinen. Der Forscher beobachtet abseits._
+
+---
+
+**Forscher:** So ein Glück, da ich bin wieder mal zur richtigen Zeit am richtigen Ort.
+
+---
+
+**Seepferdchen:** Wer stört den König der Ozeane?
+
+---
+
+**Drohne:** Schnell, hier, eine wichtige Nachricht
+
+---
+
+**Seepferdchen:** Sonst nichts? Wünsche dir einen schönen Tag.
+
+---
+
+**Drohne:** So wartet doch, es geht um die Rettung der Erde!
+
+---
+
+**Nixe:** Das ist zwar nichts neues, aber gib schon her.
+
+---
+
+_Sie nehmen die Flaschenpost und wollen verschwinden._
+
+---
+
+**Forscher:** Könnt ihr mich mit runter nehmen?
+
+---
+
+**Seepferdchen:** Das muss er sein!
+
+---
+
+**Nixe:** Von dem der Zitterrochen gesprochen hat?
+
+---
+
+**Nixe:** warte am Ende des Strandes,
+
+---
+
+**Nixe:** wir schicken die Nautilus hoch.
+
+---
+
+_Eine Schulreise kommt vorbei, Drohne fliegt kurz weg._ **Alle:** Das Meer!
+
+---
+
+**Drohne:** Und jetzt in die Wildnis zum stargate und dann durch das Wurmloch, ein Stress ist das, wenn man die einzige Drohne ist, die interstellar fliegt.
+
+---
+
+Was? Die Post für diesen Universumskreuzer soll ich auch gleich mitnehmen?
+
+---
+
+**Verkäuferin:** Sprichst du von der Arche ESPERANZA? Da ist doch jeglicher Kontakt abgebrochen?
+
+---
+
+**Drohne:** Zu dir vielleicht, junge Dame, und jetzt kümmere dich wieder um deine eigenen Angelegenheiten. Wünsche einen guten Tag.
+
+---
+
+**Verkäuferin:** Designen sie ihre eigene 3D-Sonnenbrille!
+
+---
+
+**Drohne:** haben sie auch flugtaugliche Brillen?
+
+---
+
+**Verkäuferin:** Aber klar doch, dann nehmen wir mal deinen Wunsch auf
+
+---
+
+_Sie hält ihr die Maus an die Stirne und zieht eine Pilotenbrille aus Drucker._
+
+---
+
+Was sagst du jetzt? Darum wird dich jeder Adler beneiden!
+
+---
+
+**Drohne:** Du willst doch nicht etwa sagen, dass ich jetzt gefährlich lebe?
+
+---
+
+**Verkäuferin:** Aber nein, du schickst den Adler einfach zu mir! Du bist meine Influencerin für alles, was fliegt!
+
+---
+
+_Die 5 Jugendlichen mit Badmintonausrüstung in der Bar:_
+
+---
+
+**J 1:** Diese Reise in die Zukunft, das war wirklich eine neue Erfahrung! Keine lärmigen Strassen, keine Verkehrsprobleme mehr.
+
+---
+
+**J 2:** Aber warum noch solange warten, bis wir aus eigenem Antrieb durch die Lüfte fliegen können?
+
+---
+
+**J 3:** Du meinst, wir können das durch üben beschleunigen?
+
+---
+
+**J 4:** Also jetzt steht erstmal unser Badminton-Halbfinal an.
+
+---
+
+_Sanitäter liefern einen Bär ins Repaircafé._
+
+---
+
+**San 1:** Den haben wir am Stadtrand gefunden.
+
+---
+
+**San 2:** Er kann nicht mehr laufen und ist halb verhungert.
+
+---
+
+**Rep 3:** Wir kümmern uns um ihn. Eine Honigwaffel und eine heisse Schokolade!    (_Man sieht ihn essen, während er einen Gips erhält.)_
+
+---
+
+**Maurizio:** Für mich dasselbe bitte!
+
+---
+
+**Ju 1:** Meine Sonnenbrille hat schon 1200 Klicks!
+
+---
+
+**Ju 2:** Meine über 2000 und alle wollen wissen, wo man sie bestellen kann!
+
+---
+
+_Bedienung bringt 2 Drinks, die die 2 Damen sofort austrinken._
+
+---
+
+**Bedienung:** Willkommen im Hotel Calypso, sie wünschen?
+
+---
+
+**Dame 1:** War der Strand letztes Jahr nicht breiter?
+
+---
+
+**Bedienung:** Da Meeresspiegel gestiegen, nur noch eine Liegestuhlreihe.
+
+---
+
+**Dame 2:** Aber ich finde es cool, dass diese Stadt neu privatauto-frei ist!
+
+---
+
+**Dame 1:** Sag nichts, das hat sich auf jeden Fall gelohnt, egal ob der Klimawandel nun kommt oder nicht.
+
+---
+
+_Freundin der 2 Damen kommt an, Roboter mit Gepäck. Herzliche Begrüssung, Bedienung bringt Drink._
+
+---
+
+**Dame 3:** Es hat geklappt, habe ein super last-minute Angebot gekriegt!
+
+---
+
+**Dame 2:** Da laden wir dich gleich zum Lunch ein!
+
+---
+
+**Bedienung:** Bitte teilen sie mir jetzt ihre Wünsche mit!
+
+---
+
+**Dame 1:** Wir hätten gerne dreimal diesen Burger, mit viel Salat.
+
+---
+
+**Bedienung:** Sie haben die Getränke noch nicht bestellt.
+
+---
+
+**Dame 3:** Nochmals das Gleiche!
+
+---
+
+**Bedienung:** Ich bedanke mich und werde gleich alles bestellen.
+
+---
+
+_Ein Kurier fährt auf Töff vor:_
+
+---
+
+**Kurier:** Mehlwurmsnack, Insektenburger, Seegraspizza. Unser Motto: Wir liefern, bevor sie ans bestellen denken! Einen schönen Tag noch.
+
+---
+
+_Bedienung nimmt die Sachen entgegen, trägt sie "ins Restaurant"._
+
+---
+
+_2 Männer, einer mit Blumenstrauss, einer mit I-Pad, kamen in die Bar. Sie nehmen sich eine Tüte Chips wechselseitig aus der Hand und knabbern._
+
+---
+
+**M1:** Und verrätst du mir, wer deine Auserwählte ist, die diese Blumen erhält?
+
+---
+
+**M2:** Sag es nicht weiter, aber sie sind für Alexa.
+
+---
+
+**M1:** Also die Alexa?
+
+---
+
+**M2:** Ja natürlich, wie soll sie mich sonst verstehen lernen, wenn ich ihr keine Gefühle entgegenbringe?
+
+---
+
+**M1:** Glaubst du, dass die meisten Menschen ihren Job an einen Roboter verlieren werden?
+
+---
+
+**M2:** Natürlich, aber ich nicht, denn ich habe kürzlich bei einem neuen streaming- Dienst angeheuert. Das ist Zukunftsmusik pur!
+
+---
+
+**Pflanze 1:** Es ist so schwierig, sich alles zu merken!
+
+---
+
+**Pflanze 2:** Menschen sprechen so kompliziert!
+
+---
+
+_Der Kurier fährt von anderer Seite zur Bar._
+
+---
+
+**Kurier:** Hier die Algenchips und die Nüsse! Geben sie es zu, sie haben noch nicht einmal gemerkt, dass ihnen der Vorrat ausgegangen ist. Än Schönä!
+
+---
+
+_Ein Kokosnussverkäufer ist unterwegs._
+
+---
+
+_Die Bedienung bringt den Damen das Essen._
+
+---
+
+**Bedienung:** Ich bringe ihre Bestellung, wünsche einen guten Appetit !
+
+---
+
+**Dame 2:** Vielen Dank, ähm darf ich sie etwas fragen?
+
+---
+
+**Bedienung:** Bitte?
+
+---
+
+**Dame 2:** Wissen sie, dass sie ein Roboter sind?
+
+---
+
+**Bedienung:** Wie wissen sie, dass sie ein Mensch sind?
+
+---
+
+**Dame 1:** Ups, wie wissen wir das eigentlich? Was, wenn wir auch künstlich oder ausserirdisch oder eine Mischung aus beidem wären?
+
+---
+
+_2 zückt das smartphone, tippt was ein, macht noch ein selfie._
+
+---
+
+**Dame 2:** Alle meine Profile sind noch intakt, das ist doch beruhigend.
+
+---
+
+_Die 2 Hunde entfernen sich etwas vom Tisch._
+
+---
+
+**Hund 1:** Das ist ja echt peinlich.
+
+---
+
+**Hund 2:** Wenn wir das an der Versammlung erzählen, glaubt uns ja kein Tier.
+
+---
+
+_Die Detektive an der Bar:_
+
+---
+
+**De 1:** Ich habe das Gebell der Hunde aufgenommen und die automatische Übersetzung sagt etwas von einer Versammlung!
+
+---
+
+**De 2:** Da bleiben wir dran!
+
+---
+
+**Dame 1:** machen sie sich ja nicht über unsere Hunde lustig!
+
+---
+
+**Dame 2:** Sie zwei Möchte-gern-Sherlocks.
+
+---
+
+_Am Strand der Wünschefänger mit Netz._
+
+---
+
+**Arbeiter 1** von Plasticaid: Fischen verboten!
+
+---
+
+**Wf:** keine Angst, ich interessiere mich für etwas ganz anderes.
+
+---
+
+**2:** Schmetterlinge dürfen sie auch nicht fangen!
+
+---
+
+**Wf:** Aber ich sammle doch nur Wünsche, bevor sie verloren gehen.
+
+---
+
+**1:** und wozu soll das gut sein?
+
+---
+
+**2:** Kann man sie etwa teuer verkaufen?
+
+---
+
+**Wf:** Wünsche können helfen, sich eine andere Welt vorzustellen…
+
+---
+
+**1:** Dann viel Erfolg sie Tagträumer, wir müssen weiter an unserem Tagessoll arbeiten.
+
+---
+
+_Wünschefänger fängt noch da und dort etwas, geht in Bar. Momo und Kassiopeia mit Zeitstein im Panzer wandern durch Stadt. 2 Detektive beobachten Repaircafé._
+
+---
+
+_Im Repaircafé liegt ein Kater und ein Rabe kommt angeflattert._
+
+---
+
+**Rabe Jakob:** das ist mal ein angenehmer Job, was Maurizio? Maurizio? Schläfst du schon wieder?
+
+---
+
+**Kater Maurizio**: Ach Jakob, es reicht doch, wenn einer aufpasst, du sagst doch selbst, hier lässt es sich gut leben.
+
+---
+
+**Jakob:** Aber das ändert nichts daran, dass wir Verpflichtungen haben, also wachsam bleiben!
+
+---
+
+**Maurizio:** Und vorallem nicht auffallen, oder hast du noch nicht gemerkt, dass wir beobachtet werden?
+
+---
+
+**Jakob:** Auweia, auch das noch. Jetzt wird es kompliziert.
+
+---
+
+**Verkäuferin:** Ihr zwei dort, ihr braucht unbedingt eine Tarnbrille, kommt her!
+
+---
+
+**Kokosnussverk.:** frische Kokosnuss, jeder braucht ein Stück! Kokosnuss!
+
+---
+
+_Die 2 Jugendlichen haben im Repaircafé fotografiert__._
+
+---
+
+**Rep:** Dies ist ein offline Ort!
+
+---
+
+**Ju 1:** Sind sie von gestern?
+
+---
+
+**Ju 2:** Ohne, dass euch jemand promotet, könnt ihr gleich Konkurs anmelden!
+
+---
+
+**Ju 1:** Nicht mal Empfang hat man da, echt digitale Analphabeten sind das!
+
+---
+
+_Sie verlassen das Repaircafé. Hundesitter-Roboter kommen._
+
+---
+
+**Dame 1:** Na endlich, da, die beiden müssen dringend mal!
+
+---
+
+**Dame 3:** Und, hast du endlich Nachrichten aus diesem Raumkreuzfahrtschiff, wo deine Tante und ihr Mann dabei sind?
+
+---
+
+**Dame 2:** Nein, die Bildübertragung konnte nicht repariert werden. Gerade erst habe ich mir das Video angesehen, das sie meiner Mutter zum 10jährigen Jubiläum geschickt hatten. Da war ich ja noch nicht einmal geboren.
+
+---
+
+**Dame 1:** Aber das war ja vor mehr als 30 Jahren! Du meinst, die sind noch am Leben?
+
+---
+
+**Dame 2:** Immerhin funkt das Schiff noch die Position zur Erde. Gerade sind sie in den interstellaren Raum eingetreten. Nun stehen ihnen noch mindestens 6000 Jahre Reise bevor, bis sie das neue Planetensystem erreichen.
+
+---
+
+**Dame 1:** Vielleicht haben sie die Bild- und Tonübertragung selbst ausgeschaltet?
+
+---
+
+**Dame 3:** Du meinst, um diesem Dschungelcampfeeling zu entkommen?
+
+---
+
+**Dame 1:** Deine Tante könnte ja schon Grossmutter sein!
+
+---
+
+**Dame 2:** Stimmt, Stella, meine Cousine, die ist jetzt fast 10 Jahre älter als ich!
+
+---
+
+**Dame 1:** aber das ganze Leben in so einem Kreuzer verbringen, warum macht man das?
+
+---
+
+**Dame 2:** Vielleicht Sicherheit und Unterhaltung bis ans Ende. Und das alles im Bewusstsein, der Menschheit einen unglaublich wertvollen Dienst zu erweisen, vermute ich.
+
+---
+
+**Verkäuferin:** Designen sie ihre eigene supercoole Sonnenbrille, mein 3D-Drucker spuckt sie in Null-Komma-Nichts aus. Halten sie einfach die 3D-Maus an die Stirn und stellen sie sich ihre einzigartige Brille vor! Sie sind ein Genie! 3D meldet mir, dass ihr Wunsch schon angekommen ist! Und da ist sie schon! Übrigens garantiert CO2-neutral.
+
+---
+
+_Eine Dame setzt die Brille auf, während folgendem erhält die andere eine B._
+
+---
+
+_Maurizio geht zu den Hunden. Sanitäter mit Elfe auf Bahre unterwegs._
+
+---
+
+**Elfe:** Ich bin kein Schmetterling!
+
+---
+
+**San 1:** Du kannst sein was du willst, hör nur endlich auf zu zappeln!
+
+---
+
+**Maurizio:** Könnt ihr den Detektiven dort bitte mal in die Waden beissen?
+
+---
+
+**Hund 1:** Kommt nicht in Frage, schliesslich haben wir die beste Hundeschule besucht!
+
+---
+
+**Hund 2:** Katzen sind definitiv nicht nach meinem Geschmack!
+
+---
+
+**San 1:** Schmetterling mit beschädigtem Flügel!
+
+---
+
+**Elfe:** Ich bin eine Elfe! Putzt mal eure Ohren!
+
+---
+
+**San 2:** Ist ja gut, beruhige dich Prinzessin.
+
+---
+
+**Rep 1:** Das muss genäht werden. Wo steckt bloss Tarantella?
+
+---
+
+_Die Astronomen mit Wagen voll Material, gefolgt von Fliege und Mücke._
+
+---
+
+**A 1:** Übrigens die andern, die wir als Erste entdecken werden, sie werden eine ganz andere Sprache sprechen.
+
+---
+
+**A 2:** Du meinst, wir können unser globisch glatt vergessen?
+
+---
+
+**Mücke:** Die müssen das Fremdsprachenlernen ganz neu erfinden!
+
+---
+
+**A 1:** Ist dir auch schon aufgefallen, dass immer die gleiche Mücke und die gleiche Fliege in unserer Nähe sind?
+
+---
+
+**A 2:** Lass sie in Ruhe, man sagt ja, dass es nicht mehr viele Insekten gibt.
+
+---
+
+**Fliege:** Das ist nochmals gut gegangen.
+
+---
+
+_Die 5 Jugendlichen zurück vom Badmintonspielen._
+
+---
+
+**J1:** Seid ihr wirklich sicher, dass es da draussen noch Andere gibt?
+
+---
+
+**J2:** Und falls ihr sie findet, könnten wir da mitkommen, wenn ihr sie besuchen geht?
+
+---
+
+**J3:** Wir haben nämlich schon einige virtuelle Reisen bis in den interstellaren Raum hinter uns.
+
+---
+
+**A 2:** Wir versprechen nichts, lasst euch einfach überraschen!
+
+---
+
+_Im Repaircafé: Die Schuhmacherin mit dem Zwerg_
+
+---
+
+**Rep 3:** Damals als ich so viel gegamt habe, du weisst doch, wovon ich spreche?
+
+---
+
+**Zwerg1:** Sicher, aber verschone mich mit den Einzelheiten.
+
+---
+
+**Rep 3:** Da habe ich etwas wichtiges gelernt!
+
+---
+
+**Zwerg1:** Tatsächlich?
+
+---
+
+**Rep 3:** Ja, dass man Geschichten nicht hinnehmen muss, sondern, dass man sie verändern kann!
+
+---
+
+**Zwerg1:** Aha, und das heisst?
+
+---
+
+**Rep 3:** Flicken statt wegwerfen! Restaurieren und wieder gut machen!
+
+---
+
+**Zwerg1:** Aha, etwas anderes, weisst du eigentlich, dass ihr Tierspione im Haus habt?
+
+---
+
+**Maurizio:** Sei still Zwerg!
+
+---
+
+**Rep 3:** Um so besser, sie sollen unsere Geschichte ruhig weiter erzählen!
+
+---
+
+_Bald ist eine kleine Spinne am nähen des Flügels. Sanitäter sitzen im Café._
+
+---
+
+_Die 2 Männer an der Bar: Streamingdienst und Blogger_
+
+---
+
+**M1:** Und wie sieht deine Arbeit beim Streamingdienst aus?
+
+---
+
+**M2:** Wir analysieren die Daten unserer Kunden, suchen Geschichten, die ihnen gefallen und lassen diese dann filmisch umsetzen.
+
+---
+
+**M1:** Aha und je weniger sie arbeiten müssen, desto mehr Zeit haben sie eure Filme anzuschauen.
+
+---
+
+**M2:** Klar doch, fürs Kino fehlt ihnen ja das Geld, aber wir sind billiger. Dass die Arbeit weltweit mehr und mehr an Algorithmen delegiert wird, ist zu unseren Gunsten! Wir werden Hollywood in den Schatten stellen! Und was ist dein Erfolgsrezept als Web-autor?
+
+---
+
+**M1:** Zuerst muss man herausfinden, was man wirklich, wirklich will und worauf man wirklich Lust hat!
+
+---
+
+**M2:** Und wie schafft man das?
+
+---
+
+**M1:** Begeistert dranbleiben, eine Menge Geduld haben und schlau sein. Und natürlich hart arbeiten.
+
+---
+
+**M2:** Und du versuchst immer noch deine Leser aus alten Denk- und Verhaltensmustern rauszuholen?
+
+---
+
+**M1:** Jeder, der vom Hamsterrad abspringt, trägt dazu bei, dass meine Begeisterung fürs Bloggen anhält!
+
+---
+
+**M2:** Und kannst du von diesen Ideen leben?
+
+---
+
+**M1:** Immer besser! Denn ich kümmere mich um die aktuellen Zeitthemen, da meine neusten Dienstleistungsangebote:  _(zeigt ihm i-pad)_
+
+---
+
+**M2:** Superferien ohne Flugreise, Selbstversorgung dank Gemeinschaftsgarten, interessant, interessant…..
+
+---
+
+_Eine 2. Elfe wird angeliefert._ _Die Detektive auf der Seite:_
+
+---
+
+**De 1:** Die Tiere in diesem Repaircafé kommen mir irgendwie bekannt vor.
+
+---
+
+**De 2:** Stimmt, in diesem Versicherungsfall mit dem Chemie-Multimilliardär sollten wir doch einen Katzenspion und einen Rabenspion finden!
+
+---
+
+**De 1:** Und weil wir sie nirgends finden konnten, wurde er für unzurechnungsfähig erklärt.
+
+---
+
+**De 2:** Nicht nur er, auch seine Konkurrentin! Sie beharrte doch auf diesem verdorbenen Wunschpunsch und der Billiardenforderung.
+
+---
+
+**De 1:** Komm, wir nehmen die Ermittlungen wieder auf! _(setzen sich ins Café)_
+
+---
+
+**San:** Schon wieder so ein Flatterding.
+
+---
+
+**Elfe:** Ich bin eine Elfe, so glaubt mir doch!
+
+---
+
+**Durchsage:**
+
+---
+
+Da die Völker der Erde es zunehmend schwierig fanden, eine geeignete Regierung zu finden, haben sie an ihrer heutigen Weltversammlung beschlossen, mich, eine Künstliche Intelligenz, als Regierung des Planeten Erde einzusetzen. Ein sehr weiser Entschluss, denn ich, eure KI, bin der Aufrechterhaltung und dem Schutz allen Lebens verpflichtet. Somit bricht das goldene Zeitalter an und der Weltuntergang ist erst einmal abgesagt.
+
+---
+
+**Dame 1:** Das ist ja eine ganz wunderbare Nachricht, Leute!
+
+---
+
+**Dame 3:** Die Beste überhaupt!
+
+---
+
+**Dame 2:** das müssen wir feiern!               **Alle:** Party!
+
+---
+
+**Musik und Sommertanz**
+
+---
+
+_Im Hintergrund eine Demo mit Spruchbändern:_ _Hackt ihn! Wer steckt hinter KI? Wer finanziert ihn? Findet sein Gehirn! 2 Jugendliche kommen ins phone schauend-_
+
+---
+
+**Ju 1:** Da steht, dass hier eine Demo stattfindet!
+
+---
+
+**Ju 2:** Dort, das hängt sicher mit dieser komischen Durchsage zusammen.
+
+---
+
+**Verkäuferin:** Wer noch keine hat, der braucht eine!
+
+---
+
+**Mädchen 1:** Was haben wir doch für ein Glück!
+
+---
+
+**Mädchen 2:** Es ist höchste Zeit, dass wir zu so einer coolen Brille kommen!
+
+---
+
+_Die Mädchen lassen sich dann alle eine Sonnenbrille machen. Die 2 Damen legen sich noch etwas mit Hunden an den Strand._
+
+---
+
+_Die 2 Astronomen in der Höhe errichten Teleskop._
+
+---
+
+**A:** Und jetzt der grosse Moment, unser erster Blick zu den Anderen!
+
+---
+
+**A:** Ich sehe nur den Mond.
+
+---
+
+**A:** Alles Grosse hat mal klein begonnen, wir müssen einfach weiterbasteln!
+
+---
+
+**Mücke:** Ich würde zu gerne mal durchschauen und den Mond grüssen.
+
+---
+
+**Fliege:** Und ihm sagen, dass wir gut auf die Menschen aufpassen.
+
+---
+
+_Die zwei Pflanzen sitzen auf Töpfen:_
+
+---
+
+**Pflanzen:** Wir sind am verdursten! _     _
+
+---
+
+**Gärtner:** reife Erdbeeren! Frische Karotten! Pfefferminz und Petersilie!
+
+---
+
+_Die Mädchen holen sich etwas zu essen._
+
+---
+
+_Han Solo, ein junger Jedi, Finn + Chewbacca, Starlord + Racoon, Valeria, der Abenteurer von Orion, erscheinen in der Ferne._
+
+---
+
+**Durchsage:**
+
+---
+
+Eine wichtige Meldung zur Verkehrslage: Zusammenstoss in der Flugschneise Süd. Während die Drohne ihren Flug unverletzt fortsetzen konnte, stürzte die Biene ab. Der Rettungsdienst ist vor Ort.
+
+---
+
+_Im Repaircafé wird Liege gerichtet. Sanitäter verlassen Café. Allianz ist in der Stadt._
+
+---
+
+**Han Solo:** Bist du ganz sicher, dass das die Erde ist?
+
+---
+
+**Starlord:** Hundertprozentig, schliesslich wurde ich hier geboren. Wenn ich eine Heimat habe, dann irgendwo hier.
+
+---
+
+**Finn:** Es riecht etwas unangenehm, produzieren die etwa noch Abfall?
+
+---
+
+**Valeria:** Laut meinen Informationen läuft auf der Erde immer noch dieses gigantische Experiment.
+
+---
+
+**Han Solo:** Und das wäre?
+
+---
+
+**Valeria:** Es heisst grenzenloses Wachstum auf begrenztem Planet.
+
+---
+
+**Abenteurer:** das ist ja voll unlogisch, so etwas geht doch nicht!
+
+---
+
+**Valeria:** Reg dich ab, meine Idee war es jedenfalls nicht, hierher zu kommen.
+
+---
+
+**Han Solo:** Wir haben uns nun mal zu einer Allianz mit Zweck Erhaltung der Galaxie Milchstrasse zusammengeschlossen, da gehören auch solche Missionen dazu.
+
+---
+
+**Starlord:** Vergesst nicht, ich muss nebenbei noch den Zeitstein und den Gedankenstein finden.
+
+---
+
+**Racoon:** Stimmt und wenn wir noch länger herumtrödeln, läuft uns die Zeit davon.
+
+---
+
+**Finn:** Dann such sie und gib sie den Menschen! Damit können sie sich ihre Weisheit zurückholen und vielleicht eine neue Zeitschleife erzeugen!
+
+---
+
+**Han Solo:** Ach was, vertraut nicht länger auf die Macht von all diesen Artefakten, unsere Allianz ist genug stark um die Welt am Leben zu halten!
+
+---
+
+**Starlord:** Aber es gibt noch Menschen, die auf Magie vertrauen und wahre Magie kann Unglaubliches hervorrufen!
+
+---
+
+**Han Solo:** Schreibst du gerade an einer neuen Geschichte?
+
+---
+
+**Val:** Reizt dich die Macht nicht mehr?
+
+---
+
+**Starlord:** Man muss mit der Zeit gehen, Moment, seht ihr das? Dort läuft der Zeitstein, Racoon fang mir dieses Tier!
+
+---
+
+_Er bringt Momo und Kassiopeia._
+
+---
+
+**Kassiopeia:** Der Stein war plötzlich auf meinem Rücken. Und nun kann ich in die Zukunft schauen.
+
+---
+
+**Momo:** Die Zeitblumen blühen wieder und wenn ich sie verteile, werden sie immer mehr.
+
+---
+
+**Val:** wiedergefundene Zeit könnte vieles wieder gut machen. Jetzt wo die Menschen bald ihre Zukunft aufgebraucht haben.
+
+---
+
+**Starlord:** Durch den Stein wissen die beiden alles über Vergangenheit und Zukunft.
+
+---
+
+**Abenteurer:** Stelle ich mir anstrengend vor, wenn ihnen das nur nicht zuviel wird.
+
+---
+
+**Han Solo:** ihr zwei kommt am besten mit uns mit, denn es sind sicher noch andere hinter dem Stein her.
+
+---
+
+**Abenteurer:** Und da lebt ihr ziemlich gefährlich.
+
+---
+
+**Momo:** keine Sorge, damit habe ich schon Erfahrung.
+
+---
+
+**Kassiopeia:** Ich kann uns bei Gefahr in eine Zeitschleife versetzen.
+
+---
+
+_Sie setzen sich ins Repaircafé. Die Mädchen kommen, mit Abstand die 5 J._
+
+---
+
+**Mäd 1:** Weisst du noch letztes Jahr um diese Zeit, als wir auf dem Mars waren?
+
+---
+
+**Mäd 2:** das war das Tollste, das ich je erlebt habe. Und diese superschlauen Mäuse waren so süss.
+
+---
+
+**Mäd 3:** Und ihr Planet, ein Traum von einer Erde!
+
+---
+
+**Mäd 5:** Und die Band an diesem Raumknotenpunkt und die Tänzerinnen…
+
+---
+
+_Die 2 Männer an der Bar:_
+
+---
+
+**M2:** Siehst du, all diese super tollen Lernprogramme verdanken wir fantasiebegabten Algorythmen. Diese lernbegierigen jungen Frauen haben alles verinnerlicht!
+
+---
+
+**Mäd 2:** Das war kein Lernprogramm sie Besserwisser, das war alles voll und ganz echt, was wir erlebt haben!
+
+---
+
+**Mäd 6:** Der soll sich nicht in Dinge einmischen, von denen er nichts versteht.
+
+---
+
+**Mäd 4:** Reg dich ab, er ist ja nicht mehr der Jüngste. Und es ist nun mal eine Tatsache, dass uns niemand glaubt, dass wir wirklich auf dem Mars waren!
+
+---
+
+**J:** Mädchen und ihre Geschichten.
+
+---
+
+**J:** das haben sie jetzt davon, dass sie uns nicht auf den Mars mitgenommen haben!
+
+---
+
+**J:** Uns hätte man das sicher geglaubt!
+
+---
+
+_Bei den beiden Männern und dem Wünschefänger in der Bar:_
+
+---
+
+**Verkäuferin:** Sie brauchen eine Brille und ich weiss auch schon welche, das haben wir gleich….Voilà zweimal das Modell Zukunft! Und für dich eine magische Brille, bitte sehr!
+
+---
+
+**San:** Ihre letzten Worte waren: Ich brauche so eine Flugbrille!
+
+---
+
+**San:** Kannst du der Biene diesen Wunsch erfüllen?
+
+---
+
+_Sanitäter kommen mit Biene und Brille auf Bahre ins Repaircafé._
+
+---
+
+**San 1:** Sie ist bewusstlos, könnt ihr sie wieder ganz machen?
+
+---
+
+**Rep 2:** Mit dem Fliegen wird es für eine Weile nichts, aber sie wird überleben. Die Infusion für Insekten bitte und einen Eisbeutel!
+
+---
+
+_An der Bar:_
+
+---
+
+**M2:** das ist die Idee für meine nächste Serie! Jugendliche werden von Marsianern entführt, Abenteuer, Gefahr, Liebe…alles wichtige kommt vor!
+
+---
+
+**M1:** Aber du musst es interaktiv machen, die Zuschauer sollen über den Lauf der Geschichte mitentscheiden!
+
+---
+
+**M2:** Wie das denn, es genügt doch, alles auf ihre Daten zuzuschneiden.
+
+---
+
+**M1:** Willst du jetzt reich werden oder nicht? Dann frag sie: Soll diese bezaubernde junge Frau die Liebe eines Marsianers erwidern, oder soll sie versuchen mit den seltenen Erden, die auf dem Mars vorkommen, und von denen die Erde bald zu wenig hat, ein super Geschäft zu machen?
+
+---
+
+**M 2:** Schon so spät? Ich muss heim, sonst macht sich Alexa Sorgen. Und danke für den Tipp!
+
+---
+
+_1 Pflanze läuft ihm hinten nach._
+
+---
+
+**De 2:** Kann es sein, dass die Pflanzenwelt auch mitmacht?
+
+---
+
+**De 1:** Es ist verdächtig, dass der Mann dort von einer verfolgt wird.
+
+---
+
+**Wf:** Wie es bei mir so läuft willst du wissen? Grossartig, denn seit ich diese Brille habe, fange ich so viele Wünsche wie noch nie! – Was meinst du? Nein, es hat nichts mit Konsum zu tun, es sind ganz andere Wünsche.
+
+---
+
+**Mäd 1:** Manchmal denke ich ja selbst auch, dass wir das alles nur im Inneren dieses Escaperooms erlebt haben könnten.
+
+---
+
+**Mäd 2:** Sicher nicht! So was kann man einfach nicht künstlich herstellen. Und unsere Freunde vom Mars, waren die etwa nicht echt?
+
+---
+
+**Bedienung:** Eiswaffeln geschenkt! Nur in den nächsten 10 Minuten!
+
+---
+
+_Die Mädchen gehen zum Eisstand und werden ausgefragt:_
+
+---
+
+**Bedienung:** Könnt ihr mir sagen, wie ich soft skills lernen kann?
+
+---
+
+**Mäd 4:** Sie meinen Empathie, Kreativität, Kommunikation und solche Sachen? Aber warum braucht dies ein Roboter?
+
+---
+
+**Mäd 5:** Ein Roboter muss doch nur funktionieren.
+
+---
+
+**Bed:** Bitte geht respektvoll mit mir um. Seit die Erde von einer KI regiert wird, sind wir Roboter den Menschen gleichgestellt. Deshalb muss ich soft skills lernen, da ich mich beruflich optimieren muss um den Job nicht zu verlieren.
+
+---
+
+**Mäd 6:** Wir unterhalten uns gerne mit dir, aber können wir erst das Eis haben, bevor die 10 Minuten um sind?
+
+---
+
+**Abenteurer:** Mit künstlicher Intelligenz scheinen sie erst zu experimentieren!
+
+---
+
+**Val:** In meiner Heimat gehört die Ausstattung mit softskills bereits zu den Grundrechten jeder KI.
+
+---
+
+_Die Astronomen:_
+
+---
+
+**A 1:** Jetzt nur noch alles festmachen, und dann werden wir sie finden!
+
+---
+
+**A 2:** Ihr Anderen da draussen, zeigt euch!
+
+---
+
+**A 1:** Ich sehe den Mars und den Jupiter!
+
+---
+
+**A 2:** Und dort sind auch schon Saturn, Uranus und Neptun! Einfach grossartig!
+
+---
+
+**A 1:** Aber wir müssen dringend in den interstellaren Raum vordringen!
+
+---
+
+**A 2:** Und zwar ins Sternbild Jungfrau,dort könnte ein bewohnter Planet liegen.
+
+---
+
+**A 1:** Ich würde so gerne Atlantis sehen, es soll sich im Pegasus befinden!
+
+---
+
+**A 2:** jetzt legen wir erst mal eine Nachtschicht ein.
+
+---
+
+**Mücke:** Wie die Zeit vergeht Fliege, bald ist Vollmond!
+
+---
+
+**Fliege:** Du hast recht Mücke, wir müssen uns bald auf den Weg zur Versammlung machen
+
+---
+
+_Im Repaircafé:_
+
+---
+
+**Rep 1:** machen die Promotion für eine neue starwars Episode?
+
+---
+
+**Rep 2:** scheinen direkt aus Hollywood zu kommen.
+
+---
+
+**Rep 3:** Irgendeine super Heldensache muss es wohl sein.
+
+---
+
+**Rep 1:** Eigentlich immer die gleichen Geschichten, die Bösen, die Guten und viele Kriege.
+
+---
+
+**Rep 2:** Ich habe so eine Sehnsucht in mir drinnen, dass alles ganz anders sein könnte.
+
+---
+
+**Chewbacca:** Hollywood?
+
+---
+
+**Finn:** Stechpalmenwald und Traumfabrik gibt die Übersetzung an.
+
+---
+
+**Chewbacca:** Hmm?
+
+---
+
+**Han Solo:** Die meinen, wir seien nicht echt. Ist ja auch verständlich, es kommen sicher nicht jeden Tag Besucher von anderen Planeten vorbei.
+
+---
+
+**Valeria:** Aber die Mäuse, die lebten ziemlich lang unter ihnen.
+
+---
+
+**Starlord:** Wer denkt denn bei Mäusen schon an Ausserirdische.
+
+---
+
+**Rep 1:** Ich glaub, das sind Performance-Künstler.
+
+---
+
+**Chewbacca:** Performance?
+
+---
+
+**Han Solo:** sie glauben, wir sind Schauspieler.
+
+---
+
+**Rep 1:** Dabei brauchen wir dringend echte neue Geschichten!
+
+---
+
+**Rep 2:** Sand ins Getriebe der Welt!
+
+---
+
+**Wf:** Das sind ganz wunderbare Wünsche, die muss ich mir sichern!
+
+---
+
+_Die Mädchen haben Eis erhalten._
+
+---
+
+**Mäd:** Also, ein Beispiel, sie haben uns gratis Eis gegeben, weil sie uns eine Freude machen wollten, stimmts?
+
+---
+
+**Bed:** Weiss nicht, was Freude bedeutet, gratis Eis immer um selbe Zeit.
+
+---
+
+_Die Fantasie kommt, begleitet von skurrilen Figuren, ein Narr mit Schild "neue Geschichten braucht die Welt"._
+
+---
+
+**Fantasie:** Die Königin der Ideen schickt mich! Sie lädt alle zum ersten Kongress für einen neuen Lauf der Dinge ein. Er findet im Land der Möglichkeiten statt.
+
+---
+
+**Narr:** Neue Geschichten braucht die Welt! Wer weiss eine?
+
+---
+
+_Im Repaircafé:_
+
+---
+
+**Finn:** Momo, weisst du wo man dieses Land findet?  _Allianz folgt ihr._
+
+---
+
+**Zwerg 1:** Ich muss zurück zu meinem Volk, sonst wird das nichts mit den neuen Geschichten.
+
+---
+
+**Rep 3:** Aber da hat es noch ein Loch im Stiefel!
+
+---
+
+**Zwerg 1:** Das kann warten, jetzt pressiert es erst einmal.
+
+---
+
+**Rep 2:** Kannst du den Bären in den Wald zurück begleiten?
+
+---
+
+_Die smartphone-Jugendlichen:_
+
+---
+
+**Ju 1:** Das, wovon die Hippiefrau gesprochen hat, findet man nicht hier drinnen.
+
+---
+
+**Ju 2:** hab mir schon gedacht, dass sie nicht echt ist!
+
+---
+
+**Ju 1:** Oh schau, meine Freundin, sie trifft sich gerade mit ihren coolen Freunden und schau nur, ihre Handtasche und was hält sie da für ein Getränk in ihren Händen mit den goldschimmernden makellosen Nägeln, schau doch!
+
+---
+
+**Ju 2:** Sie, kann ich ein Selfie mit ihnen machen?
+
+---
+
+_Sie macht ein selfie mit Fantasie und ihren Begleitern und sagt:_
+
+---
+
+**Ju 2:** Hey friends, Grüsse aus anderswo! Wahnsinn, schon 395 follower! Ich spendiere dir ein Eis, komm!
+
+---
+
+_Sie lassen Handys liegen, Elstern stehlen sie._
+
+---
+
+_Jugendliche mit VR-Brillen in der Hand, Mädchen hören mit Eis zu:_
+
+---
+
+**J 1:** Und, was spielen wir als Nächstes?
+
+---
+
+**J 2:** Ich schlage das Spiel des Lebens vor.
+
+---
+
+**Mä 3:** Wie dieses alte Brettspiel mit heiraten, Kinder kriegen, Häuser bauen?
+
+---
+
+**J 2:** Nein, sicher nicht. Wir müssen am Anfang, das heisst etwa vor 600&#39;000 Tausend Jahren beginnen, sozusagen als Affen, die zu den ersten Menschen werden.
+
+---
+
+**J 1,3,4:** Affe? Ich?
+
+---
+
+**J 2:** jetzt tut nicht schwierig, wir müssen lernen Waffen zu machen, aufrecht zu gehen, das Feuer zu zähmen, aus dem Wolf einen Hund züchten, als Jäger und Sammler überleben, später Ackerbau betreiben…
+
+---
+
+**Mä 4:** Tönt definitiv nach Lernspiel.
+
+---
+
+**J 1:** mindestens das könnte uns im wirklichen Leben zugute kommen, Selbstversorgung ist gerade in, ihr solltet mal den Garten meiner Schwester sehen!
+
+---
+
+**J 3:** Ist ja gut, aber ich glaube, du hast dich trotzdem verwählt.
+
+---
+
+**J 1:** Das Spiel des Lebens muss etwas mit reich und mächtig sein zu tun haben, es kann doch nicht aus lauter Plackerei bestehen.
+
+---
+
+**J 2:** es wird sicher total spannend, wir müssen viele Rätsel lösen und überleben, so wie in einem Escape-Room, nur in echt, verstehst du?
+
+---
+
+**J 4:** Dann ziehen wir wohl am besten Brillen und Overalls an!
+
+---
+
+**J 1:** Das nächste Abenteuer erwartet uns!
+
+---
+
+_Sie gehen weg. Eine Person in grauem Umhang ist gekommen:_
+
+---
+
+**Ju 1:** Wer ist das denn? Mein Handy, oh nein, es ist weg, gestohlen!
+
+---
+
+**Ju 2:** Meines auch, ist kein Drama, ich wollte mir sowieso ein G 5 kaufen.
+
+---
+
+**Ju 1:** Du verstehst nicht, alles was mich ausmacht ist weg! Einfach weg!
+
+---
+
+**Ju 2:** In der Cloud meinst du wohl, mit einem Fingerprint holst du es dir wieder zurück!
+
+---
+
+**Langeweile:** Sagt mal, wisst ihr vielleicht, wie man ins Land der Möglichkeiten gelangt, wo dieser Kongress stattfindet?
+
+---
+
+**Rep 3:** Frag im Zauberwald, aber weisst du denn eine neue Geschichte?
+
+---
+
+**Langeweile:** Ich? Nein, das ist nicht mein Gebiet, ich bin die Langeweile und als Ehrengast eingeladen. Meine Freundin, die Fantasie hält die Fäden in der Hand.
+
+---
+
+**Rep 1:** Komische Dinge passieren in letzter Zeit.
+
+---
+
+**Rep 2:** Kommt, wir suchen selbst nach diesem Land!
+
+---
+
+_Alle Tiere treffen sich irgendwo in der Stadt._
+
+---
+
+**Elster:** Macht euch auf den Weg, damit die Versammlung pünktlich beginnt!
+
+---
+
+**Katze:** Was ihr herumzwitschert sind doch meist fake tweets, miau!
+
+---
+
+**Papagei:** fake tweets, fake tweets
+
+---
+
+**Elster:** Pass auf du Vogelfresser, was du sagst.
+
+---
+
+**Papagei:** Vogelfresser, Vogelfresser
+
+---
+
+**Katze:** Wenn dieser Gockel nicht sofort Ruhe gibt…
+
+---
+
+**Papagei:** Gockel, Gockel
+
+---
+
+**Seehund:** Ich rufe die aus dem Ozean.
+
+---
+
+**Hund:** Wir die Haustiere.
+
+---
+
+**Schweine:** Da sind wir schon!
+
+---
+
+**Kl. Fuchs:** ich hole die Tiere vom Wald!
+
+---
+
+**De 1:** Diesmal werden wir erfolgreich sein, dort tut sich was!
+
+---
+
+**De 2:** Wir dürfen sie nicht aus den Augen verlieren.
+
+---
+
+**Jacob:** Auf geht&#39;s Käterchen! Maurizio? Schläfst du schon wieder?
+
+---
+
+**Maurizio:** Lass doch die anderen arbeiten, wir haben eine Pause verdient.
+
+---
+
+**Jacob:** Kommt nicht in Frage, niemand ist so schlau wie wir!
+
+---
+
+**Biene:** Und was wird aus mir?     _M+J nehmen sie im Rollstuhl mit._
+
+---
+
+_Die Detektive folgen den Tieren._
+
+---
+
+_In der Höhe beim Teleskop: während die Stadt verschwindet_
+
+---
+
+**A 1:** Das dort, das muss doch der Pluto sein?
+
+---
+
+**A 2:** Du meinst wir sehen demnächst in den interstellaren Raum?
+
+---
+
+**A 1:** Nicht nur das, siehst du dieses fliegende Etwas?
+
+---
+
+**A 2:** Ist das denn möglich? Ja bestimmt, es ist sie, die gute alte Esperanza!
+
+---
+
+**Durchsage:** Hier spricht KI: Die Unterstützung des Raumkreuzers Esperanza, der sich seit über 40 Jahren auf der Reise zu einem neuen bewohnbaren Planeten befindet, und soeben in den interstellaren Bereich eingetreten ist, wird in wenigen Stunden eingestellt. Meine neusten Berechnungen haben ergeben, dass Proxima Centauri B zu heiss und deshalb nicht bewohnbar ist und die Weiterführung des Projektes keinen wirtschaftlichen Nutzen mehr hat.
+
+---
+
+**A 2:** Jetzt pressiert es. Schnell weiterbasteln, wir müssen die Anderen einfach finden, nur sie können die Menschen aus der Esperanza retten.
+
+---
+
+**A 1:** Wie hiess es schon wieder?
+
+---
+
+**A 2:** Utopisch denken, um realistisch zu sein! Meinst du das?
+
+---
+
+**Fliege:** Diese Unglücksnachricht dürfen nun wohl wir überbringen.
+
+---
+
+**Mücke:** Sieh es positiv, dann riecht diese Nachricht stark nach Abenteuer, abdüsen!
+
+---
+
+**Musik: Das Traumbergwerk  ** _mit Zwergen und Tieren__erscheint._
+
+---
+
+**Zwerg 1:** Alle mal herhören: die Menschen brauchen wieder Träume, weil neue Geschichten gefragt sind!
+
+---
+
+**Zwerg:** Hurra, ich mache nämlich nichts lieber als Träume ausgraben!
+
+---
+
+**Zwerg:** Moment, stimmt das auch?
+
+---
+
+**Zwerg:** Wo hast du es aufgeschnappt?
+
+---
+
+**Zwerg 1:** Ich liess im Repaircafé meine Stiefel flicken und da habe ich es gehört.
+
+---
+
+**Zwerg:** was denn?
+
+---
+
+**Zwerg 1:** Eben, das vom abgesagten Weltuntergang. Und dass die neue Erdregierung KI heisst. Und dass neue Geschichten gesucht sind.
+
+---
+
+**Zwerg:** Das sind ja endlich mal gute Nachrichten!
+
+---
+
+**Zwerg:** unsere Arbeit ist gesichert!
+
+---
+
+**Zwerg:** Aber was ist, wenn es die KI auf unsere Schätze abgesehen hat?
+
+---
+
+**Zwerg 1:** Keine Sorge, bis die zu träumen gelernt hat, ist unser Rohmaterial schon lange in Geschichten umgewandelt.
+
+---
+
+**Zwerg:** Scheint wirklich eine gute Nachricht zu sein, Freunde.
+
+---
+
+**Zwerg 1:** Das muss gefeiert werden, holt die Instrumente, setzt die Kochtöpfe auf!
+
+---
+
+**Zwerg:** Kommt, wir tanzen!
+
+---
+
+**Zwergentanz**
+
+---
+
+_Danach erhalten alle Essen aus einem grossen Topf in ihre Teller. Im Hintergrund immer mehr Tiere unterwegs. Die Langeweile, der Wünschefänger und die Fantasie:_
+
+---
+
+**Langeweile:** Einen guten Appetit!
+
+---
+
+**Fantasie:** Wisst ihr vielleicht, wo der Zauberwald ist?
+
+---
+
+**Zwerg:** Irgendwo da drüben!
+
+---
+
+**Zwerg:** Dort wo die schrecklichen Kobolde wohnen!
+
+---
+
+**Zwerg:** Sie sind sehr gefährlich!
+
+---
+
+**Wf:** Du meinst sie werden uns fangen und aufessen?
+
+---
+
+**Zwerg 1:** Wenn es nur das wäre.
+
+---
+
+**Wf:** Könntet ihr uns nicht begleiten?
+
+---
+
+**Zwerg 1:** Und von den Kobolden rösten lassen? Nein Danke.
+
+---
+
+**Langeweile:** Im Land der Möglichkeiten suchen sie nach neuen Geschichten!
+
+---
+
+**Fantasie:** Und da wären diese Träume sicher von Nutzen!
+
+---
+
+**Zwerg 1:** Ok, Oin, Gloin und Gimli ihr schnappt euch ein paar Träume und begleitet die Leute in dieses Land überall und nirgendwo.
+
+---
+
+**Zwerg:** Und dann erzählt ihr uns alle neuen Geschichten!
+
+---
+
+_Viele Tiere kommen von überall her an._
+
+---
+
+_Zwerge verschwinden essend auf eine Seite. Die 5 Affen kommen:_
+
+---
+
+**Affe 1:** Da hat es ja jede Menge Tiere, sollen wir uns unter sie mischen?
+
+---
+
+**Affe 2:** Wenn du meinst, ihr seht übrigens umwerfend aus.
+
+---
+
+**Affe 3:** Solltest erst mal dich sehen.
+
+---
+
+**Musik** _während die Tiere Platz nehmen._ **Tierversammlung**
+
+---
+
+**Löwe:** willkommen ihr Tiere und Pflanzen! Dies ist unsere erste Versammlung, seit wir uns bereit erklärt haben, auf die Menschen aufzupassen. Wie ihr wisst, mussten sich die anderen Mächtigen, Sonne, Mond, Wind und Ozean endlich wieder um ihre Angelegenheiten kümmern und die Erde, ich sage es nicht gern, ist gesundheitlich angeschlagen.
+
+---
+
+**Maurizio:** Der Erde geht es besser, verehrter Löwe, seit wir diesem Giftzauberer
+
+---
+
+**Jakob:** und seiner Tante so gründlich das Handwerk gelegt haben!
+
+---
+
+**Wolf:** Einen Augenblick noch, es geht gleich weiter, damit aber vorerst niemand etwas von unserer Mission erfährt, trennt euch von euren Peilsendern, Kameras, GPS usw., die  euch die Menschen verpasst haben.
+
+---
+
+**Fuchs:** Wer gechipt ist, kann zu mir kommen.
+
+---
+
+_2 Hunde und 1 Katze treten vor, während eine Unmenge von Sachen auf einen Haufen geworfen wird:_
+
+---
+
+**Katze:** Und wie soll mich denn mein Frauchen finden, wenn ich mich verlaufen habe?
+
+---
+
+**Hund 1:** Ja das ist auch mein Problem, ist meine Sicherheit noch garantiert?
+
+---
+
+**Gürteltier:** Lernt wieder für euch selbst zu sorgen, das schafft ihr schon!
+
+---
+
+**Bär:** Elstern, seid ihr sicher, dass ihr alles abgegeben hast?
+
+---
+
+_Die Elstern ziehen bedauernd 2 glitzernde Handys hervor._
+
+---
+
+**Elster:** Aber nach der Versammlung will ich meine Schätze zurück haben!
+
+---
+
+**Bär:** Gänzlich unüberwacht, Tiere, ist das nicht ein neues Lebensgefühl?
+
+---
+
+**Löwe:** Dann fahren wir fort, wer hat etwas mitzuteilen?
+
+---
+
+**Maurizio:** Ich! Die Menschen haben eine KI als Erdregierung eingesetzt.
+
+---
+
+**Elch:** und das sagst du erst jetzt?
+
+---
+
+**Jakob:** es hat uns ja keiner nicht danach gefragt.
+
+---
+
+**Wolf:** Und wie geht es den Menschen damit?
+
+---
+
+**Papagei:** Es geht so.
+
+---
+
+**Schneeleopard:** Die Menschen sind nicht mehr das, was sie einmal waren.
+
+---
+
+**Fledermaus:** Jetzt, wo sie es ganz aufgegeben haben, über sich selbst zu bestimmen
+
+---
+
+**Faultier:** Weil sie glauben, dass die KI es schon richten werde
+
+---
+
+**Spinne:** Und das virtuelle Leben dem echten Leben vorziehen
+
+---
+
+**Waschbär:** Du kannst es ruhig aussprechen, die Menschen werden früher oder später aussterben, das ist der Lauf der Dinge!
+
+---
+
+**Biene:** Vielleicht noch bevor wir alle weg sind, schnüff, sie waren so gut zu mir, schnüff.
+
+---
+
+**Gürteltier:** Ach was, ich habe doch auch überlebt und ich bin nun wirklich schon lange ein Fossil!
+
+---
+
+**Bär:** Manchmal ist es sogar von Vorteil, wenn man als ausgestorben gilt, man kann dann in Ruhe sein Comeback vorbereiten, nicht wahr Meister Wolf?
+
+---
+
+_Starlord und Racoon mit Momo und Kassiopeia haben ungeduldig zugehört._
+
+---
+
+**Starlord:** Habt ihr vielleicht schnell Zeit, uns zu sagen, wie wir das Land der Möglichkeiten finden?
+
+---
+
+**Wildschwein:** Einfach geradeaus, dann links und um die Ecke und gleich wieder rechts, steil bergan, wieder runter,
+
+---
+
+**Steinbock:** dann durch den Elfenwald und immer weiter und dann am besten die Kobolde fragen.
+
+---
+
+**Panda:** die waren aber nicht von der Erde, so etwas spüre ich.
+
+---
+
+**Affe 1:** das war der berühmte Starlord mit Rocket Racoon.
+
+---
+
+**Elch:** Aha und von wo weisst du das?
+
+---
+
+**Affe 2:** Ich habe seinen Film gesehen!
+
+---
+
+**Faultier:** Film?
+
+---
+
+**Löwe:** darüber können wir später sprechen, jetzt gibt es Wichtigeres.
+
+---
+
+_Starlord und Racoon im Weggehen:_
+
+---
+
+**Starlord:** Der Gedankenstein ist irgendwo in der Nähe, ich spüre es ganz deutlich.
+
+---
+
+**Racoon:** Und dann lässt du wirklich beide Steine auf der Erde?
+
+---
+
+**Starlord:** Im Moment brauchen die Menschen die Kräfte dieser Steine am Nötigsten.
+
+---
+
+**Racoon:** Und bei ihnen sind sie auch gut verborgen.
+
+---
+
+**Jakob:** Ich weiss, warum die alle dieses Möglichkeitsland suchen!
+
+---
+
+**Hunde:** Wir wissen das auch!   **Topfpflanzen:** Wir auch!
+
+---
+
+**Löwe:** Dann sagt es, schnell, wir haben keine Zeit zu verlieren.
+
+---
+
+**Topfpflanze:** Sie gehen zu einem Kongress und erzählen einander neue Geschichten.
+
+---
+
+**Maurizio:** neue Geschichten braucht die Welt, jetzt wisst ihr es!
+
+---
+
+**Wolf:** Darin sind die Menschen gut, sie haben so eine wunderschöne Geschichte über mich und das Mädchen und….
+
+---
+
+**Löwe:** Wolf, wir schweifen ab,
+
+---
+
+_Eine ganze Reihe Pinguine kommt an._
+
+---
+
+**Pinguin:** Nieder mit den Menschen! /Sie schmelzen uns den Boden unter den Füssen weg!/Und dann kommen sie mit dem Kreuzfahrtschiff!/ Und landen mit dem Schlauchboot/ Und fotografieren uns/ Und zeigen die Bilder überall herum/Und lassen Drohnen über uns fliegen/ Und landen mit Flugmaschinen/Sie rauben uns die Ruhe/ Nieder mit den Menschen
+
+---
+
+**Panda:** Nein, die Menschen sind vom Aussterben bedroht, wir müssen ihre Art retten! Das bin ich ihnen schuldig!
+
+---
+
+**Spinne:** du hast den Jö-wie-herzig-Bonus, der geht uns voll ab. Vor uns ekeln sich die Menschen.
+
+---
+
+**Schneeleopard:** Schon klar bei deinem Aussehen, aber mich haben sie unter Schutz gestellt, so begehrt war ich!
+
+---
+
+**Bär:** Ich bin dafür, die Menschen in ein Reservat zu bringen.
+
+---
+
+**Schwein:** Oh ja, ins Bärenland!
+
+---
+
+_Abseits beobachten die Detektive:_
+
+---
+
+**De 1:** Wir müssen die Menschen warnen!
+
+---
+
+**De 2:** Sag nichts, sonst geht&#39;s uns Menschen an den Kragen!
+
+---
+
+**Qualle 1:** Wir schliessen uns den Pinguinen an, auch wir werden bedroht!
+
+---
+
+**Qualle 2:** Und erst unsere Freunde, die Korallen
+
+---
+
+**Seeanemone:** Und vergesst uns Seeanemonen nicht!
+
+---
+
+**Bär:** Mit diesem Gejammer kommen wir keinen Schritt weiter, wer hat etwas Sachliches vorzutragen? Waran?
+
+---
+
+**Waran:** Da die Menschen am Aussterben sind, wie du Panda gesagt hast, wird früher oder später jemand von uns ihre Nachfolge antreten. Das nennt man Evolution.
+
+---
+
+**Jakob:** Ich! Ich kann schon Werkzeuge bauen und mit ihnen umgehen!
+
+---
+
+**Elster:** ich wäre als Meisterdieb auch geeignet, aber vergiss es, uns fehlen die Arme und Hände.
+
+---
+
+**Octopus:** Das kann man von mir wohl nicht behaupten, Tiere! Zudem wurde ich von den Menschen mehrfach getestet, ich kann Rätsel lösen, aus Irrgärten herausfinden und mich äusserst gut tarnen! Intelligente Menschen haben schon lange aufgehört unsereins aufzuessen.
+
+---
+
+**Kl. Octopus:** Sie meinen, wir sind Ausserirdische!
+
+---
+
+**Affe:** So das reicht jetzt. Wir werden natürlich die Stellung der Menschen einnehmen, wir leben nämlich bereits in der Steinzeit.
+
+---
+
+**Waran:** Und ihr meint, wir warten jetzt sechshundert tausend Jahre auf dieses grosse Ereignis?
+
+---
+
+**Schwein 1:** die Affen dort sind Spione!
+
+---
+
+**Schwein 2:** du hast Recht, sie schmecken nach Mensch!
+
+---
+
+**Wolf:** Stimmt das ihr Affen?
+
+---
+
+**Affe:** Ja, äh nein, äh ja, äh was ich sagen wollte, wir sind nicht das, was wir zu sein scheinen.
+
+---
+
+**Löwe:** Ach wenn es weiter nichts ist, wer ist heutzutage schon was er scheint, würde gerne mit euch philosophieren, aber es bricht gerade ein neues Zeitalter an.
+
+---
+
+_2 Bäume treten vor:_
+
+---
+
+**Baum:** das hast du von Merlin! Und er sagt auch, es gilt zu bewahren, was zu bewahren ist….
+
+---
+
+**Baum:** und Neues zu schaffen!
+
+---
+
+**Baum:** Also ich finde, wir sollten den Menschen helfen, Menschen zu bleiben. Sie haben so viele einzigartige Dinge herausgefunden.
+
+---
+
+**Baum:** Aber wenn sie ihr Denken an eine Künstliche Intelligenz abgeben, sind sie vielleicht bald keine Menschen mehr.
+
+---
+
+_Musik und die Ameisenkönigin tritt mit ihrem Gefolge auf._
+
+---
+
+**Ameisenkönigin:** Hört mir gut zu, ihr Tiere: Auch wenn alles untergeht, dann werden wir Ameisen als Einzige immer noch da sein. Keiner von euch ist so hoch entwickelt wie unser Volk, und von keinem eurer Art gibt es so viele wie von uns! Wir sind eine Million mal mehr Ameisen, als es Menschen gibt! Wir züchten Haustiere und Pilze und sind bereits als Staat organisiert.
+
+---
+
+**Affe:** Halt, nicht so schnell, ich verstehe nicht, was du sagen willst!
+
+---
+
+**Ameisenkönigin:** Brauchst du auch nicht, da es sowieso deine Intelligenz übersteigt. Nur noch soviel: Die Ausserirdischen, die dereinst auf der Erde landen werden, werden zuerst mir ihre Aufwartung machen müssen und es werden für alle die Gesetze unseres Volkes gelten. Merkt euch das ihr Tiere besser heute als morgen.
+
+---
+
+_Musik und sie treten ab während Mücke und Fliege angeflogen kommen._
+
+---
+
+**Mücke:** Alarm, Alarm!
+
+---
+
+**Fliege:** Zu Hilfe, ein Notfall!
+
+---
+
+**Octopus:** Wenn wir helfen sollen, dann sprecht so, dass wir euch verstehen!
+
+---
+
+**Mücke:** Die KI, sie gibt das Raumschiff Esperanza auf
+
+---
+
+**Fliege:** Rentiert nicht mehr, Fehlplanung…
+
+---
+
+**Hund 1:** Die arme Tante von meinem Frauchen, sie wird sterben!
+
+---
+
+**Spinne:** Wir brauchen ein ganz schnelles Raumschiff um sie zu retten.
+
+---
+
+**Wolf:** Wir müssen die Mäuse erreichen, nur sie können diese Menschen retten, bevor sie im All schiffsbrüchig werden!
+
+---
+
+**Fuchs:** Bin schon unterwegs!
+
+---
+
+**Pinguin:** Wir stimmen der Rettungsaktion zu!
+
+---
+
+**Pinguin:** Aber nur, weil im All schon genug Müll herumfliegt.
+
+---
+
+**Pinguin:** Und jetzt entschuldigt uns, der Boden unter unseren Füssen wird uns zu heiss!
+
+---
+
+_Fuchs am telefonieren_
+
+---
+
+**Fuchs:** kannst du aufhören zu schreien, die Verbindung ist nicht die Beste!
+
+---
+
+**Wolf:** Stell den Lautsprecher ein, wir wollen auch etwas hören!
+
+---
+
+**Maus:** Katzendreck habe ich gesagt, dreimal stinkiger Katzendreck!
+
+---
+
+**Fuchs:** Hör auf zu fluchen und hör jetzt endlich zu.
+
+---
+
+**Maus:** Eine künstliche Intelligenz als Weltregierung, ja sind die nicht ganz bei Trost?
+
+---
+
+**Fuchs:** Die KI gibt das Raumschiff auf, in welchem ausgewählte Menschen in etwa 6000 Jahren zu einer Ersatzerde finden wollten, da der anvisierte Planet proxima centauri B als ungeeignet eingestuft wurde.
+
+---
+
+**Maus:** Was ? Bist du ganz sicher?
+
+---
+
+Aber klar, auf proxima centauri würden sie sogleich gegrillt. Da hätten sie besser Ross 128b im Sternbild Jungfrau ansteuern sollen, aber der ist dreimal so weit weg.
+
+---
+
+**Bär:** Kann die Maus sie im interstellaren Raum ausfindig machen, bevor man ihnen die lebenserhaltenden Funktionen abstellt?
+
+---
+
+**Maus:** Ausfindig machen schon, aber retten nicht! Mein tapferer Raumpilot, die Ratte, geriet gestern in einen Meteoritenregen und konnte sich mit knapper Not mit dem Schleudersitz retten. Unser Raumschiff müssen wir erst bergen und reparieren.
+
+---
+
+**Känguruh:** Aber das ist ja ganz schrecklich! So ein Unglück!
+
+---
+
+**Maus:** Soweit uns bekannt ist, befindet sich die Allianz gerade auf der Erde. Sie sind spezialisiert auf solche Aktionen. Findet sie! Viel Glück!
+
+---
+
+**Fuchs:** Abgehängt!
+
+---
+
+**Affe 1:** die Allianz ist auf dem Weg ins Land der Möglichkeiten, wir müssen sie einholen!
+
+---
+
+**Affe:** Wer begleitet uns?     _(die 2 Hunde bellen)_
+
+---
+
+_Telefon läutet wieder. Wolf nimmt ab._
+
+---
+
+**Maus:** Und noch etwas, verschafft ihnen Zeit, hackt die KI!
+
+---
+
+**Wolf:** Und hast du eine Anleitung dazu? Bist du noch dran? Hallo? Schon wieder unterbrochen!
+
+---
+
+**Bär:** ich habe eine Idee, die KI will doch viel lernen um immer menschlicher zu werden, nehme ich mal an.
+
+---
+
+**Wildschwein:** und dazu macht sie deep learning, also geben wir ihr Rätsel auf, damit sie die Esperanza für eine Weile vergisst.
+
+---
+
+**Affe 2:** Nur leider fehlt uns ein Computer, denn dazu müssten wir sie hacken.
+
+---
+
+**Fuchs:** Wenn es weiter nichts ist, Moment, geschafft, ihr Gehirn liegt offen vor mir, was soll ich eingeben?
+
+---
+
+**Waschbär:** füttere sie mit Wörtern, die sie noch nicht kennt!
+
+---
+
+**Fuchs:** Zum Beispiel?
+
+---
+
+**Leopard:** Alles, was man durch Bestellung und Lieferung nicht ersetzen kann!
+
+---
+
+**Fuchs:** das da wäre?
+
+---
+
+**Seeanemone:** Liebe, Mitgefühl, Verantwortung, Glück und so weiter.
+
+---
+
+**Leopard:** Während sie ihre Nervenzellen vernetzt, um die neuen Wörter zu verstehen, wird sie alles andere vergessen.
+
+---
+
+**Löwe:** Tönt ein bisschen altmodisch, aber es ist einen Versuch wert!
+
+---
+
+**Affe 3:** Kommt, es pressiert, wir müssen diese Allianz finden!
+
+---
+
+_Sie gehen mit Telefon weg._
+
+---
+
+**Löwe:** Wir beobachten die Menschen weiterhin und treffen uns beim nächsten Vollmond wieder. Die heutige Versammlung ist beendet!  (_Tiere verschwinden.)_
+
+---
+
+_Elfen erscheinen,  eine Fledermaus, Einhörner, Drachen und Gebüsche, Momo und Kassiopeia und an einem Bühnenrand die Kobolde mit dem Gedankenstein und Musikinstrumenten. Bei den Kobolden wachsen Pilze, die das stargate bewachen._
+
+---
+
+**Elfenland:**
+
+---
+
+**Momo:** Dürfen wir bei euch bleiben? Und von hier aus Wanderungen zu den Menschen unternehmen?
+
+---
+
+**Kassiopeia:** Wir werden ihnen verlorene Zeit zurückbringen!
+
+---
+
+**Elfe:** bringt ihnen auch Zeit zum Vergeuden, daran mangelt es ihnen am meisten.
+
+---
+
+**Elfe:** ach die Menschen, sie sind nicht mehr, was sie mal waren.
+
+---
+
+**Elfe:** Du meinst mutig, neugierig und solche Sachen?
+
+---
+
+**Elfe:** Sie leben im Digi-Tal und schauen ununterbrochen in ihre kleinen Geräte _(macht es vor)._
+
+---
+
+Neulich, als ich wieder einmal mit der S-Bahn fuhr, war ich die Einzige ohne.
+
+---
+
+**Elfe:** Sie sind der Technik ganz verfallen und haben alles andere vergessen.
+
+---
+
+Es ist zum Beispiel klar, dass sie die Gabe haben, sich mit Hilfe elektromagnetischer Felder durch die Lüfte fortzubewegen.
+
+---
+
+**Elfe:** Aber sie denken nicht einmal daran, diese Gabe zu entwickeln.
+
+---
+
+**Elfe:** Wird halt noch 1000 Jahre dauern, auch egal.
+
+---
+
+**Fledermaus:** Ihr müsst zum Kongress kommen und diese Geschichte erzählen!
+
+---
+
+**Elfe:** Schau zu, wir erzählen sie auf unsere Weise!
+
+---
+
+**Elfentanz**
+
+---
+
+_Elfen und Fabeltiere gehen in den Garten, während die_ **Kobold -**** BAND**_spielt._
+
+---
+
+_Auf dem Steg nähern sich: Die 2 streaming-Leute, die 2 Astronomen, die Langeweile, die Fantasie, der Hase, der Wünschefänger, der Forscher mit dem Zitterrochen und den Insekten, 3 aus Repaircafé, Maurizio und Jakob, 3 Zwerge mit Träumen, 2 Männer. – Allianz ist über Steg angekommen und versucht auf sich aufmerksam zu machen._
+
+---
+
+**Pilz 1:** Kobolde, ihr habt Besuch!
+
+---
+
+**Pilz 2:** Hört mit dem Lärm auf, ihr habt Besuch!
+
+---
+
+**Kobold 1:** Jaja, schon gut, wir haben euch schon erwartet!
+
+---
+
+**Kobold 2:** Alles vorausgesehen, dank unserem Schatz!
+
+---
+
+**Kobold:** Mit Telepathie!
+
+---
+
+**Starlord:** Dann habt ihr den Stein also tatsächlich?
+
+---
+
+**Kobold:** meinst du dieses gute Stück?
+
+---
+
+**Kobold:** Aber wenn du meinst, wir geben es dir, dann täuscht du dich.
+
+---
+
+**Kobold:** es bereitet uns zuviel Spass, die Gedanken von anderen lesen zu können.
+
+---
+
+**Kobold:** Racoon denke nicht immer an unseren Nussvorrat!
+
+---
+
+**Racoon:** Dann gib mir endlich davon, ich bin am verhungern!
+
+---
+
+_Starlord hält den Stein nun in den Händen. Racoon erhält Nüsse._
+
+---
+
+**Starlord:** Wärt ihr bereit diesen mächtigen Stein zum Nutzen aller zu beschützen?
+
+---
+
+**Han Solo:** Dazu müsst ihr ihn ab und zu in die Nähe der Menschen bringen, denn er steigert die Weisheit und die Intelligenz aller Lebewesen.
+
+---
+
+**Starlord:** Aber seid vorsichtig, er kann auch übernatürliche Kräfte verleihen.
+
+---
+
+**Kobold:** Wie sollen wir denn in die Nähe der Menschen gelangen?
+
+---
+
+**Racoon:** nehmt eure früheren Aufgaben wieder wahr!
+
+---
+
+**Kobold:** Welche denn?
+
+---
+
+**Val:** Spielt Heinzelmännchen und lässt den Stein auf die schlafenden Menschen einwirken.
+
+---
+
+**Kobold:** Was machen Heinzelmännchen schon wieder?
+
+---
+
+**Pilz 3:** Sie finden verlorene Sachen, spielen Zahnfee, machen gesund,
+
+---
+
+**Pilz 4:** flicken zerbrochenes Spielzeug, heilen Tiere, auch Kuscheltiere
+
+---
+
+**Kobold:** na gut, dann halt, wenn es unbedingt sein muss.
+
+---
+
+**Kobold:** Wir können es ja mal probieren.
+
+---
+
+**Kobold 2:** Aber gebt uns jetzt unseren Schatz zurück!
+
+---
+
+**Kobold 1:** Und nun entschuldigt uns, wir haben Bigband Probe!
+
+---
+
+_Sie setzen sich an die Instrumente, Koboldinnen verteilen zu essen,_ _während Allianz weggeht und von Affen+Hunden gestoppt werden._
+
+---
+
+**Affe:** Halt, wartet auf uns! Wir haben eine Mission für euch
+
+---
+
+**Affe:** Sie heisst Rettung eines Raumschiffes voll Menschen!
+
+---
+
+**Han Solo:** Und wie finden wir dieses Schiff?
+
+---
+
+**Affe:** Ruft den Ältesten im Raumschiff Destiny an. Er ist die letzte Hoffnung, macht schnell!
+
+---
+
+**Affe:** Die Maus sucht bereits nach einen Planeten, der die Schiffbrüchigen aufnimmt!
+
+---
+
+_Allianz mit den Hunden geht zur Seite, Abenteurer telefoniert:_
+
+---
+
+**Abenteurer:** Ja es pressiert! Verstanden, wir werden bereit sein! – Der Älteste landet am üblichen Ort, wir werden die Esperanza retten, bevor sie samt den Menschen im All verloren geht.
+
+---
+
+**Val:** Und die schlaue Maus wird uns sicher mitteilen, auf welchem Planeten wir Landeerlaubnis erhalten!
+
+---
+
+_Sie gehen in den Wald. Es blitzt und donnert._
+
+---
+
+**Affe 1:** Ein Blitz! Schnell! Wir müssen lernen Feuer zu machen!
+
+---
+
+**Affe 2:** Das Spiel geht endlich weiter!
+
+---
+
+**Pilz 4:** Das war wieder einmal ein typisches Beispiel für virtuelle Realität.
+
+---
+
+**Pilz 3:** Und irgendwie waren auch wir Teil ihrer Welt, findest du nicht auch?
+
+---
+
+**BAND** _spielt wieder,_ _während die vom Steg eilig näher kommen._
+
+---
+
+**Pilz 1:** Nachtruhe!
+
+---
+
+**Pilz 2:** Nachtruhe! Schlafenszeit für Alle!
+
+---
+
+**Kobold 1:** Wen haben wir denn da noch? Eine ganze Gesellschaft auf der Suche nach dem Land der Möglichkeiten? Einen Moment, wir sind gleich soweit!
+
+---
+
+**BAND** _spielt wieder._
+
+---
+
+**Pilz 1:** Nachtruhe!
+
+---
+
+**Pilz 2:** Nachtruhe! Schlafenszeit für Alle!                            _Band verstummt._
+
+---
+
+**Kobold 1:** In diesem Fall sucht euch erstmal ein Nachtlager,
+
+---
+
+**Kobold:** heute geht hier rein gar nichts mehr.
+
+---
+
+**Kobold 2:** Ungeheuer und ähnliches im Wurmloch, also seid vernünftig.
+
+---
+
+**Fantasie:** Guten Abend, wir suchen das Land der Möglichkeiten.
+
+---
+
+**Hase:** Die Königin der Ideen wartet auf uns.
+
+---
+
+**Kobold:** Das kann jeder sagen.
+
+---
+
+**Fantasie:** Bitte, liebe Kobolde, zeigt uns den Weg, das Wohlergehen der Erde steht auf dem Spiel!
+
+---
+
+**Kobold 1:** Ok, aber mach bloss nicht mich verantwortlich, wenn ihr im Wurmloch stecken bleibt, die Beleuchtung ist so ziemlich ganz ausgefallen.
+
+---
+
+**Langeweile:** Macht nichts, ich kenne den Weg und gehe mit meiner Freundin, der Fantasie, voraus, wenn es recht ist.
+
+---
+
+_Ein Kobold geleitet sie ins stargate. Beide tragen Kerzen und Laternen mit sich. Fantasie und die Gestalten springen auch hinten nach._
+
+---
+
+**Kobold 1:** Also, der Weg führt durch dieses stargate in das Wurmloch und am anderen Ende durch ein zweites stargate hinaus ins Land der Möglichkeiten.
+
+---
+
+**Kobold 2:** Alles klar? Wer wagt es?
+
+---
+
+**Entdecker:** ich!
+
+---
+
+**Kobold 2:** befindet sich der Zitterrochen freiwillig in deiner Gesellschaft?
+
+---
+
+**Entdecker:** Wenn du schon mal versucht hättest, einen, der das nicht will, anzufassen, könntest du jetzt keine dummen Fragen mehr stellen. Und um dir die nächste abzunehmen, diese von mir neuentdeckten Insekten haben sich mir aus freiem Willen angeschlossen. Sonst noch was?
+
+---
+
+**Kobold 2:** Los führt ihn ins stargate, bevor ich noch Ohrensausen bekomme.
+
+---
+
+_Und dann springen die Zwerge hintennach._
+
+---
+
+**Wf:** Halt, dieser Zwerg hat meinen Traum, ich spüre es, lasst mich durch!
+
+---
+
+**Kobold 1:** Nun Maurizio und Jakob, vielen Dank für eure heldenhaften Taten am letzten Jahresende!
+
+---
+
+**Jakob:** Käterchen, man kennt uns hier!
+
+---
+
+**Maurizio:** Hoffentlich kommen nicht zu viele Verpflichtungen auf uns zu!
+
+---
+
+_Sie folgen einem Kobold. Zu den Astronomen und dem aus dem repaircafé:_
+
+---
+
+**Kobold:** Ihr könnt auch gehen, aber der dort ist ein Geschichtendieb!
+
+---
+
+**M 2:** Ach was, ich mache doch nur Entwicklungshilfe, verkaufe, äh bringe die guten Geschichten unter die Leute! Sonst könnten sie ja vergessen gehen!
+
+---
+
+**Kobold:** ich warne dich, die Königin der Ideen durchschaut jeden.
+
+---
+
+**Kobold 1:** geschafft, die wären wir alle los! Wenigstens fast, was ist denn mit euch zwei?
+
+---
+
+**De 1:** Wir haben uns vermutlich verirrt, müssen zurück in die Stadt.
+
+---
+
+**De 2:** Könnt ihr uns bitte den Weg zeigen?
+
+---
+
+**Pilz 1:** Nur keine Aufregung, geht diesen Leuten nach, das passt schon.
+
+---
+
+**Pilz 2:** Da durch, dann durchs Wurmloch und alles Weitere ergibt sich!
+
+---
+
+_Die Kobolde bringen das stargate auf die andere Seite._
+
+---
+
+**Im Land der Möglichkeiten:** _Sträucher, Blumen, Einhörner, Drachen…_
+
+---
+
+_Nun sieht man einen nach dem andern durch das andere stargate mit Kerze oder Laterne heraus kommen und sich im Halbkreis niederlassen. Rotkäppchen kommt mit Wölfen aus dem Wald._
+
+---
+
+**Maurizio:** Sieht irgendwie wie auf unserer guten alten Erde aus,
+
+---
+
+**Jakob:** aber irgendwie auch ganz anders!
+
+---
+
+**Musik:** _Königin der Ideen mit Narr trifft ein._
+
+---
+
+**Königin:** Willkommen ihr Geschichtenerzähler! Aber sind das schon alle? Warten wir noch etwas.
+
+---
+
+**Langeweile:** Mir ist so schön langweilig.
+
+---
+
+**Fantasie:** Wir sollten den neuen Lauf der Dinge nicht endlos verschieben, Königin der Ideen!
+
+---
+
+**Königin:** Gut, dann erzählt eure neuen Geschichten! Ihr werdet es nicht bereuen, hier her gekommen zu sein. Denn ich werde euch zum Schluss einen kurzen Blick in eine andere Welt gewähren!
+
+---
+
+**Hase:** Wer beginnt?
+
+---
+
+**Rotkäppchen** _(kommt mit einem Buch, Korb und begleitet von 5 Wölfen):_ Ich!
+
+---
+
+**M 2:** Die kennt man doch schon!
+
+---
+
+**Rotkäppchen:** kennt ihr nicht, also hört zu:
+
+---
+
+**Wolf 1:** Nachdem ich jahrhundertelang das Mädchen und seine Grossmutter gefressen habe
+
+---
+
+**Rotk.:** Hatte er genug vom Bauch aufschneiden und wieder zunähen.
+
+---
+
+**Wolf 2:** Es ist ihm regelrecht verleidet.
+
+---
+
+**Rotk.:** Jetzt gehe ich in den Wald mit einem Korb voll feiner Sachen
+
+---
+
+**Wolf 1:** Dann kommen wir hungrigen Wölfe und verputzen alles.
+
+---
+
+**Rotk.:** Während ich ihnen gut zurede, keine Schafe zu fressen, weil sonst der Jäger kommt.
+
+---
+
+**Wolf 2:** Dann erzählen wir Rotkäppchen unsere Abenteuer.
+
+---
+
+**Rotk.:** Und ich gehe heim zu Grossmutter und berichte ihr alles.
+
+---
+
+**Hase:** Jetzt ihr!
+
+---
+
+**A 1:** unsere Geschichte liegt noch in der Zukunft. Sie heisst "Wo sind die anderen?"
+
+---
+
+**A 2:** Und wir werden nicht aufgeben, bis wir sie gefunden haben.
+
+---
+
+**Königin:** Vielleicht müsst ihr ja gar nicht mehr solange darauf warten!
+
+---
+
+**Hase:** Darum solltet ihr vorwärts machen!
+
+---
+
+**Forscher:** Tiere sind mindestens so schlau wie Menschen. Ihr könnt mir ruhig glauben, denn ich kenne alle Tiere auf der Erde. Zu Wasser, zu Land und in der Luft! Wenn ihr wüsstet, was mir dieser Zitterrochen erzählt hat, leider ist es vorerst noch ein Geheimnis.
+
+---
+
+**M 1:** Und die komischen 6-Beiner, was ist mit ihnen?
+
+---
+
+**Fo:** Insekten, von mir entdeckt! Sie werden helfen, die anderen, schon fast ausgerotteten Insekten, wieder erstarken zu lassen. Denn  sie werden es nicht zulassen, dass auch nur einer Fliege etwas zu leide getan wird.
+
+---
+
+**M 2:** Das mit dem Aussterben könnte stimmen, in den letzten Jahren sind meine Autoscheiben nämlich nicht mehr mit Insektenleichen zugemüllt.
+
+---
+
+
+**M 1:** Jetzt, wo du es sagst…
+
+---
+
+
+**Königin:** Was bringt ihr ins Land der Möglichkeiten?
+
+---
+
+**Wf:** Ich bringe ein ganzes Netz voll einmaliger und frischer Wünsche mit!
+
+---
+
+**Zwerge:** Und wir wertvolle Träume aus unserem Bergwerk!
+
+---
+
+**Wf:** Mit diesen 2 Medien können sich die Menschen nämlich ganz Neues vorstellen und daraus neue Geschichten machen!
+
+---
+
+**M 1:** In meinem berühmten Blog werde ich als neustes Reiseziel das Land der Möglichkeiten promoten. Ganz ohne Pauschalangebot, jeder muss es selbst finden!
+
+---
+
+**M 2:** Dazu musst du Rätsel erfinden, geheimnisvolle Spuren legen, denn wie sagt man?: jede Wirklichkeit war erst eine Möglichkeit.
+
+---
+
+**M 1:** Versäumen sie es nicht, schon bald die spannenden Reiseberichte meiner Follower zu lesen!
+
+---
+
+**De 1:** Hast du auch das Gefühl, dass das alles nicht wirklich ist? Auah! Warum kneifst du mich denn?
+
+---
+
+**De 2:** Das war der Wirklichkeitstest!
+
+---
+
+**Königin:** Welche Geschichte bringt ihr zwei mit?
+
+---
+
+**Maurizio:** Auf einem Planeten lebten Lebewesen, die sich dressieren liessen, immer in eckige Zauberspiegel zu blicken.
+
+---
+
+**Jakob:** Zufällig schaute eines dieser hochentwickelten Lebewesen mal daneben und es fand Dinge, von denen es keine Ahnung hatte!
+
+---
+
+**Maurizio:** Da wachte seine vor langer Zeit in einen Tiefschlaf versetzte Neugier auf, und
+
+---
+
+**Jakob:** es liess den Zauberspiegel fallen und merkte, dass es ein Mensch war!
+
+---
+
+**Fo:** Und wenn die Geschichte nicht wahr ist, so ist sie wenigstens gut erfunden.
+
+---
+
+**Königin:** Und wer seid denn ihr?
+
+---
+
+**Rep 1:** wir haben ein Repaircafé gegründet, flicken statt fortwerfen!
+
+---
+
+**Rep 2:** Wir nähen, stricken, kleben, schweissen,
+
+---
+
+**Rep 3:** löten, sägen, malen, schreinern….
+
+---
+
+**Königin:** Und ihr wisst auch eine Geschichte?
+
+---
+
+**Rep 2:** Ja, deshalb sind wir doch da! Hört gut zu!
+
+---
+
+**Rep 1:** Alle sagten, das geht doch nicht! **2:** Dann kam einer, der wusste das nicht, **3:** und hat es einfach gemacht!
+
+---
+
+_Die Kongressteilnehmer klatschen._
+
+---
+
+_Während folgendem gleiten die Kongressteilnehmer immer weiter ab der Bühne,          _
+
+---
+
+_während von der anderen Seite her die_ **Stadt Alpha** _entsteht._
+
+---
+
+**Fantasie:** Zum Schluss erzähle ich eine Geschichte: es war einmal eine Königin, die hörte, dass sich die Menschen auf der Erde sehr danach sehnten, die Bewohner anderer Planeten kennenzulernen.
+
+---
+
+**Hase:** Sie gierten aber auch nach den Schätzen der anderen, musst du sagen.
+
+---
+
+**Fantasie:** Das wissen doch alle, also die Menschen bauten immer stärkere Fernrohre, machten sich sogar daran, mit laser-super-mega-Kanonen Miniraumschiffe mit Botschaften ins All zu schicken.
+
+---
+
+**Langeweile:** Schliesslich erklärten sich 49 Paare todesmutig bereit, 6000 Jahre durchs All zu reisen um einen neuen Planeten zu erobern.
+
+---
+
+**Hase:** so wie sie damals andere Kontinente auf der Erde entdeckten.
+
+---
+
+**Fantasie:** Die Königin der Ideen, so hiess sie, lud zu einem Kongress über einen neuen Lauf der Dinge ein. Dieser fand im Land der Möglichkeiten statt, welches die Königin zu diesem Zweck in die Magelanwolken verlegt hatte,
+
+---
+
+**Langeweile:** Genau gesagt an den Rand von Alpha, der Stadt der tausend Planeten.
+
+---
+
+**Hase:** Und jetzt kommt die Überraschung!
+
+---
+
+**Fantasie:** Ruhe Hase. Wie es der Zufall wollte…
+
+---
+
+**Langeweile:** Gute Geschichten brauchen nämlich immer Unvorhergesehenes und Zufälle!
+
+---
+
+**Fantasie:** Also, gerade zu diesem Zeitpunkt vollbrachte die Allianz ihre erste grosse Heldentat, indem sie das Schiff Esperanza in letzter Sekunde rettete und Hunderte von Menschen nach Alpha brachte.
+
+---
+
+**Langeweile:** Alpha ist nämlich sehr fremdenfreundlich eingestellt. Seit Jahrtausenden teilen dort Wesen ganz verschiedener Herkunft ihre Intelligenz miteinander.
+
+---
+
+**Tanz hiphop**
+
+---
+
+_Alle möglichen Kreaturen sind unterdessen auf Alpha zu sehen. Diabolospieler, Hulahoptänzer und ev. andere Akrobaten treten auf. One Piece Piraten._
+
+---
+
+_Die Königin kommt mit Astronomen, Maurizio+Jakob, den Zwergen, Rotkäppchen + Wolf, Narr mit Schild "neue Geschichten hat die Welt"  dazu._
+
+---
+
+**A 1:** Die Anderen, es gibt sie tatsächlich!
+
+---
+
+**A 2:** Ist das, was ich sehe, Traum oder Wirklichkeit?
+
+---
+
+**A 1:** Schnell, dies ist unsere Geschichte! Wir müssen sie aufschreiben!
+
+---
+
+_Sie schreiben und schreiben._
+
+---
+
+**Hase:** Aber aufgepasst, das ist noch nicht das Ende, denn niemand weiss, ob alles gut wird. Setzen sie jetzt besser ihre Brille auf!
+
+---
+
+**Durchsage:**
+
+---
+
+Das Raumschiff Destiny mit der Raumfähre Esperanza im Schlepptau ist soeben im Kosmodrom von Alpha gelandet. Die Passagiere werden durch die Dekontaminations-Schleuse und danach in die Stadt begleitet.
+
+---
+
+**Musik** _und:_
+
+---
+
+_Die Geretteten kommen geführt von Val, begleitet von der Allianz und den Hunden durch ein Spalier von farbigen Tüchern an._
+
+---
+
+**Val:** Fühlt euch wie zuhause, die Stadt der tausend Planeten hat genug Platz für alle und wir freuen uns, dass ihr jetzt eure Geschichten mit uns teilt.
+
+---
+
+**Grossmutter:** Ich wusste es doch, dass wir es selbst erleben werden, auf unserer nagelneuen Erde zu landen.
+
+---
+
+**Grossvater:** Utopisch denken um realistisch zu sein, hat sie immer gesagt!
+
+---
+
+**Grossmutter:** Und enkeltauglich handeln!
+
+---
+
+**Königin:** Und ich habe eine Überraschung für euch: Es ist mir gelungen, dieses einmalige Ereignis auf die Erde zu übertragen, alle Erdbewohner sind in dieser Sternstunde live dabei!
+
+---
+
+**Narr:** Denn es gibt sie tatsächlich immer noch, eure gute alte Erde.
+
+---
+
+**Fantasie:** Sie erholt sich dank neuen Geschichten und die Menschen sind wieder freundlicher zueinander geworden
+
+---
+
+**Hase:** Na, jetzt übertreib bloss mal nicht….
+
+---
+
+**Schlusstanz**

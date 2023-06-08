@@ -1,0 +1,2592 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Theater 2019</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="drehbuch_2zeilen_files/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="drehbuch_2zeilen_files/reveal.js-3.3.0.1/css/theme/black.css" id="theme">
+
+<style type="text/css">
+.reveal section img {
+  background: rgba(255, 255, 255, 0.85);
+}
+</style>
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Theater 2019</h1>
+  <h1 class="subtitle">Wo sind die Anderen?</h1>
+</section>
+
+<section class="slide level2">
+
+<p>Szene 1 <em>Musik, Ein Hase kommt mit anderen Gestalten vorne an die Bühne:</em></p>
+<p><strong>Hase:</strong> Setzen sie jetzt ihre Brille auf!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Ev. geht “ein Vorhang weg”: Ein 30 Jahre altes Video:</em></p>
+<p><em>Das riesige Raumschiff ESPERANZA mit “49” Paaren, Kindern und Babys an Bord.</em></p>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>Wir, die wir auserwählt wurden, mit dem Raumschiff Esperanza</p></li>
+<li><p>zum Exoplaneten Proxima Centauri B zu fliegen,</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>grüssen alle Menschen auf der Erde und ganz speziell unsere Familien</p></li>
+<li><p>und wir laden euch herzlich ein, mit uns zu feiern!</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>denn heute sind es genau 10 Jahre her, seit wir mit der Esperanza losgeflogen sind!</p></li>
+<li><p>wir alle sind bei bester Gesundheit und unterdessen gibt es schon 100 Kinder</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>Vor einigen Monaten flogen wir an Uranus vorbei und werden in 2 Jahren Neptun erblicken.</p></li>
+<li><p>Für diejenigen, die es noch nicht gehört haben, es ist uns gelungen,</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>einen Asteroiden einzufangen und unseren Kreuzer im Flug daran festzumachen.</p></li>
+<li><p>Der gigantische Brocken enthält viele wertvolle Bodenschätze</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>und seit kurzem spendet er uns auch Trinkwasser.</p></li>
+<li><p>Aber heute wird nicht gearbeitet, heute feiern wir!</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p><strong>Paar-Tanz</strong></p>
+<ul>
+<li>Milliarden von Menschen schauen uns zu und hoffen, dass wir am Ziel unserer Träume ankommen werden!</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>du meinst wohl unsere Nach-, Nach-, Nach-, Nach-, und so weiter -fahren in 6000 Jahren!</p></li>
+<li><p>Wir müssen utopisch denken um realistisch zu sein, gerade in unserer Situation.</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>Bald wird der Laserantrieb entdeckt und gegen das langsame Ionenstrahltriebwerk ausgewechselt werden.</p></li>
+<li><p>Und dann werden wir selbst auf unserer nagelneuen Erde landen!</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>Ich denke, du sollst mal zum Bordpsychiater gehen.</p></li>
+<li><p>Meine Sehnsucht nach unbekannten Welten wird in Erfüllung gehen, du wirst es sehen.</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li><p>In unserer alten Heimat muss es Sommer sein, schaut nur, überall Sternschnuppen!</p></li>
+<li><p>wenn das kein gutes Zeichen ist, Leute schnell, wünscht euch was!</p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p><em>Musik, überall Sternschnuppen, es beginnt zu flimmern.</em></p>
+<p><em>Hase läuft mit Erdenball durch, nimmt demonstrativ seine Brille ab!</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Kulisse beginnt sich zu verändern, während 2 Astronomen mit ihren vielen Gerätschaften auf die Bühne kommen.</em></p>
+<p><strong>A 1:</strong> wo sind die Andern?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> Fragen sie sich das auch ab und zu?</p>
+<p><strong>A 1:</strong> oder denken sie, das mit uns, das war es schon?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> aber da täuschen sie sich, denn wir werden sie finden!</p>
+<p><strong>A 1:</strong> Und zwar mit unserem selbstgebastelten Spezial-Teleskop.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> he, hilf mir mal!</p>
+<p><em>Fliege und Mücke kommen angeflogen.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mücke:</strong> die zwei da scheinen echt interessant zu sein!</p>
+<p><strong>Fliege:</strong> Vorallem scheinen sie unserer Intelligenz würdig zu sein.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mücke:</strong> ok, ich teile es dem Rat der Tiere mit, dass wir die Beobachtung übernehmen.</p>
+<p><strong>Fliege:</strong> mach es telepathisch, nicht dass du einem Anschlag zum Opfer fällst.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> vielleicht haben sie auch kürzlich mal wieder dieses Video zum 10-Jahresflug der Esperanza angeschaut, haben sie?</p>
+<p><strong>A 1:</strong> Aber sie glauben doch nicht im Ernst, dass man die anderen auf diese Weise finden kann?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> Das war übrigens das letzte Bild- und Tonmaterial und es ist 30 Jahre her, seit wir es empfangen haben.</p>
+<p><strong>A 1:</strong> Na immerhin funkt das Schiff noch seine Position durch.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> Das geht alles automatisch, aber was mit der Schiffsbesatzung los ist, das weiss niemand.</p>
+<p><em>Securitas mit Fliegenklappe und 2 Detektive sind unterwegs:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Securitas:</strong> Wir brauchen den Platz hier für den Fortgang der Geschichte, könntet ihr eure Träume vielleicht anderswo verwirklichen?</p>
+<p><strong>Fliege:</strong> da hatten wir doch einen guten Riecher, dass wir uns nicht den ausgesucht haben.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mücke:</strong> Die arme Möve, hoffentlich passt sie gut auf sich auf.</p>
+<p><em>Ein Meteoritenregen geht runter. 2 Detektive schauen sich überall um.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Securitas:</strong> Hilfe, ein Erdbeben!</p>
+<p><strong>A 2:</strong> keine Angst! Das war nur ein bestellter und bezahlter Meteoritenregen aus einem Satelliten, wahrscheinlich zu einer Billionärs-Hochzeit.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Soll angeblich das echte Wünschen fördern und ist der neuste Hit für alle, die das nötige Kleingeld haben!</p>
+<p><strong>A 2:</strong> Das startup hat es anscheinend noch nicht ganz geschafft, dass alle Steine im All verglühen, da regelmässig welche auf die Erde fallen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Securitas:</strong> Aber das ist ja fahrlässig!</p>
+<p><strong>A 1:</strong> Halb so wild, Kollateralschaden nennt man das, noch nie davon gehört? Kommt recht häufig vor.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Securitas:</strong> Vielleicht bringt auch ihr das ganze Weltall durcheinander mit diesen komischen Maschinen. Ein Grund mehr, dass ihr beide jetzt endlich zusammenpackt! Und auf euch zwei wartet hier auch niemand, schliesslich gibt es heutzutage überall Überwachungskameras.</p>
+<p><strong>De 1:</strong> Sie sind doch der Einzige, der hier noch die Fäden im Griff hält, nicht wahr?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 2:</strong> Dann gestatten sie uns eine Frage: Ist es ihnen aufgefallen, dass in letzter Zeit mehr Tiere in der Stadt leben und sich gerne in der Nähe von Menschen aufhalten?</p>
+<p><strong>Securitas:</strong> Tiere kommen in meinem Stellenbeschrieb nicht vor, mir reichen die Menschen, also strapazieren sie meine Nerven nicht länger.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Möven tuscheln untereinander…. Es ertönt Musik…</em></p>
+<p><strong>Securitas:</strong> Und was soll das jetzt? Aufhören, so geht doch die ganze Geschichte verloren!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Musik weg und alle stehen ganz still.</em></p>
+<p><strong>Model:</strong> Aber wir gehören zu dieser Geschichte, also schauen sie einfach zu!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Modeschau</strong></p>
+<p><em>Nächster Schauplatz (ist “unbewohnt” schon während der Modeschau da):</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Stadt am Ozean. Plasticaid-Arbeiter mit Mundschutz säubern den Ozean und Strand vom Plastic. Im Hintergrund ev. Wolkenkratzer, Schornsteine und ev. entfernt Verkehrslärm zu hören. Strandverkäuferin mit mobilem 3-D-Drucker. Ein Schild: “Baden verboten, benutzen Sie den Pool! Plasticaid TM”</em></p>
+<p><em>Möven, ein Seehund auf einer Bank, 1 Elster freut sich an ihrem Glitzerkram. Eine Katze streunt herum. Strandbar, wo es zwei grosse Topfpflanzen hat. Ein Strandrestaurant mit Eisstand, ein Repaircafé, wo verschiedenes geflickt wird, einem Zwerg die Stiefel. Maurizio döst vor sich hin. Mädchen liegen lesend am Strand. 2 Jugendliche mit smartphone suchen etwas.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Ein Forscher versucht Proben aus dem Ozean zu entnehmen.</em></p>
+<p><strong>Arbeiter 1</strong> von Plasticaid: Was wollen Sie denn hier?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Arbeiter 2:</strong> Die Sammelrechte gehören alle der Firma Plasticaid, jemand muss den ganzen Müll schliesslich weg machen, also Finger weg!</p>
+<p><strong>1:</strong> Auch damit kann man reich werden, die Bude für die wir arbeiten, liegt im Wachstum ganz vorne!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>2:</strong> Also mischen sie sich nicht in unsere Angelegenheiten.</p>
+<p><strong>Forscher:</strong> Aber ich will doch alles erforschen, zu Wasser, zu Land und in der Luft und noch weiter im ganzen Universum!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>1:</strong> Mann, da haben sie sich nicht wenig vorgenommen, beginnen sie am besten mal, ähm, im Wald dort.</p>
+<p><strong>Forscher:</strong> So hören sie doch, in diesem Ozean werde ich erneuerbare Energie finden, die haben wir dringend nötig!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>2:</strong> Das bezweifle ich, besser die Leute lernen wieder Energie sparen.</p>
+<p><strong>Forscher:</strong> Zitteraal und Zitterwels, die kennt ihr ja sicher, aber es geht das Gerücht, dass es weit mächtigere Elektrofische gibt und überhaupt ist 80 Prozent in der Tiefsee noch nicht entdeckt, also lassen sie mich schon abtauchen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>1:</strong> Wir können sie nicht daran hindern, aber ein Bad in dieser Brühe könnte ihrem Forscherleben ein jähes Ende bereiten.</p>
+<p><em>2 Damen mit 2 Hunden kommen ins Strandcafé. 2 kl. Roboter transportieren das Gepäck. Im Repaircafé wird der geflickte antike Roboter getestet.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 1:</strong> Vorwärts! Rückwärts! Drehen! Geradeaus! Moment, da muss ich noch etwas anziehen.</p>
+<p><strong>Roboter:</strong> Vielen Dank, ich fühle mich wie neu!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 2:</strong> Und du findest auch bestimmt alleine den Weg ins Museum?</p>
+<p><strong>Verkäuferin:</strong> Sonnenbrillen aus dem 3D-Drucker! Der Hit des Jahres!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die zwei Jugendlichen mit phone rennen in Verkäuferin hinein:</em></p>
+<p><strong>Jugendl. 1:</strong> Hier muss sie sein!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Verkäuferin:</strong> Könnt ihr nicht aufpassen? Mein 3 D ist sehr sensibel…</p>
+<p><strong>Jugendl. 2:</strong> Schnell, eine dieser supercoolen Brillen, da buchen sie ab</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jugendl. 1:</strong> Wir werden in diesem Geschäft die Rolle der Influencer übernehmen, falls sie es noch nicht wissen.</p>
+<p><strong>Jugendl. 2:</strong> So machen sie schon, setzen sie die Maus auf uns an!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sie erhalten Brille, setzen sich ins Repaircafé und sind am Handy…</em></p>
+<p><strong>Kokosnussverkäufer:</strong> Frische Kokosnuss! Kokosnuss! Ganz frisch!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Eine Drohne mit headset fliegt an, pfeift, 3 Nixen und 3 Seepferdchen erscheinen. Der Forscher beobachtet abseits.</em></p>
+<p><strong>Forscher:</strong> So ein Glück, da ich bin wieder mal zur richtigen Zeit am richtigen Ort.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Seepferdchen:</strong> Wer stört den König der Ozeane?</p>
+<p><strong>Drohne:</strong> Schnell, hier, eine wichtige Nachricht</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Seepferdchen:</strong> Sonst nichts? Wünsche dir einen schönen Tag.</p>
+<p><strong>Drohne:</strong> So wartet doch, es geht um die Rettung der Erde!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Nixe:</strong> Das ist zwar nichts neues, aber gib schon her.</p>
+<p><em>Sie nehmen die Flaschenpost und wollen verschwinden.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Forscher:</strong> Könnt ihr mich mit runter nehmen?</p>
+<p><strong>Seepferdchen:</strong> Das muss er sein!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Nixe:</strong> Von dem der Zitterrochen gesprochen hat?</p>
+<p><strong>Nixe:</strong> warte am Ende des Strandes,</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Nixe:</strong> wir schicken die Nautilus hoch.</p>
+<p><em>Eine Schulreise kommt vorbei, Drohne fliegt kurz weg.</em> <strong>Alle:</strong> Das Meer!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Drohne:</strong> Und jetzt in die Wildnis zum stargate und dann durch das Wurmloch, ein Stress ist das, wenn man die einzige Drohne ist, die interstellar fliegt.</p>
+<p>Was? Die Post für diesen Universumskreuzer soll ich auch gleich mitnehmen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Verkäuferin:</strong> Sprichst du von der Arche ESPERANZA? Da ist doch jeglicher Kontakt abgebrochen?</p>
+<p><strong>Drohne:</strong> Zu dir vielleicht, junge Dame, und jetzt kümmere dich wieder um deine eigenen Angelegenheiten. Wünsche einen guten Tag.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Verkäuferin:</strong> Designen sie ihre eigene 3D-Sonnenbrille!</p>
+<p><strong>Drohne:</strong> haben sie auch flugtaugliche Brillen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Verkäuferin:</strong> Aber klar doch, dann nehmen wir mal deinen Wunsch auf</p>
+<p><em>Sie hält ihr die Maus an die Stirne und zieht eine Pilotenbrille aus Drucker.</em></p>
+</section>
+<section class="slide level2">
+
+<p>Was sagst du jetzt? Darum wird dich jeder Adler beneiden!</p>
+<p><strong>Drohne:</strong> Du willst doch nicht etwa sagen, dass ich jetzt gefährlich lebe?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Verkäuferin:</strong> Aber nein, du schickst den Adler einfach zu mir! Du bist meine Influencerin für alles, was fliegt!</p>
+<p><em>Die 5 Jugendlichen mit Badmintonausrüstung in der Bar:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>J 1:</strong> Diese Reise in die Zukunft, das war wirklich eine neue Erfahrung! Keine lärmigen Strassen, keine Verkehrsprobleme mehr.</p>
+<p><strong>J 2:</strong> Aber warum noch solange warten, bis wir aus eigenem Antrieb durch die Lüfte fliegen können?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>J 3:</strong> Du meinst, wir können das durch üben beschleunigen?</p>
+<p><strong>J 4:</strong> Also jetzt steht erstmal unser Badminton-Halbfinal an.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sanitäter liefern einen Bär ins Repaircafé.</em></p>
+<p><strong>San 1:</strong> Den haben wir am Stadtrand gefunden.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>San 2:</strong> Er kann nicht mehr laufen und ist halb verhungert.</p>
+<p><strong>Rep 3:</strong> Wir kümmern uns um ihn. Eine Honigwaffel und eine heisse Schokolade! (<em>Man sieht ihn essen, während er einen Gips erhält.)</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Maurizio:</strong> Für mich dasselbe bitte!</p>
+<p><strong>Ju 1:</strong> Meine Sonnenbrille hat schon 1200 Klicks!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ju 2:</strong> Meine über 2000 und alle wollen wissen, wo man sie bestellen kann!</p>
+<p><em>Bedienung bringt 2 Drinks, die die 2 Damen sofort austrinken.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bedienung:</strong> Willkommen im Hotel Calypso, sie wünschen?</p>
+<p><strong>Dame 1:</strong> War der Strand letztes Jahr nicht breiter?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bedienung:</strong> Da Meeresspiegel gestiegen, nur noch eine Liegestuhlreihe.</p>
+<p><strong>Dame 2:</strong> Aber ich finde es cool, dass diese Stadt neu privatauto-frei ist!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 1:</strong> Sag nichts, das hat sich auf jeden Fall gelohnt, egal ob der Klimawandel nun kommt oder nicht.</p>
+<p><em>Freundin der 2 Damen kommt an, Roboter mit Gepäck. Herzliche Begrüssung, Bedienung bringt Drink.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 3:</strong> Es hat geklappt, habe ein super last-minute Angebot gekriegt!</p>
+<p><strong>Dame 2:</strong> Da laden wir dich gleich zum Lunch ein!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bedienung:</strong> Bitte teilen sie mir jetzt ihre Wünsche mit!</p>
+<p><strong>Dame 1:</strong> Wir hätten gerne dreimal diesen Burger, mit viel Salat.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bedienung:</strong> Sie haben die Getränke noch nicht bestellt.</p>
+<p><strong>Dame 3:</strong> Nochmals das Gleiche!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bedienung:</strong> Ich bedanke mich und werde gleich alles bestellen.</p>
+<p><em>Ein Kurier fährt auf Töff vor:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kurier:</strong> Mehlwurmsnack, Insektenburger, Seegraspizza. Unser Motto: Wir liefern, bevor sie ans bestellen denken! Einen schönen Tag noch.</p>
+<p><em>Bedienung nimmt die Sachen entgegen, trägt sie “ins Restaurant”.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>2 Männer, einer mit Blumenstrauss, einer mit I-Pad, kamen in die Bar. Sie nehmen sich eine Tüte Chips wechselseitig aus der Hand und knabbern.</em></p>
+<p><strong>M1:</strong> Und verrätst du mir, wer deine Auserwählte ist, die diese Blumen erhält?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Sag es nicht weiter, aber sie sind für Alexa.</p>
+<p><strong>M1:</strong> Also die Alexa?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Ja natürlich, wie soll sie mich sonst verstehen lernen, wenn ich ihr keine Gefühle entgegenbringe?</p>
+<p><strong>M1:</strong> Glaubst du, dass die meisten Menschen ihren Job an einen Roboter verlieren werden?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Natürlich, aber ich nicht, denn ich habe kürzlich bei einem neuen streaming- Dienst angeheuert. Das ist Zukunftsmusik pur!</p>
+<p><strong>Pflanze 1:</strong> Es ist so schwierig, sich alles zu merken!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pflanze 2:</strong> Menschen sprechen so kompliziert!</p>
+<p><em>Der Kurier fährt von anderer Seite zur Bar.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kurier:</strong> Hier die Algenchips und die Nüsse! Geben sie es zu, sie haben noch nicht einmal gemerkt, dass ihnen der Vorrat ausgegangen ist. Än Schönä!</p>
+<p><em>Ein Kokosnussverkäufer ist unterwegs.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Bedienung bringt den Damen das Essen.</em></p>
+<p><strong>Bedienung:</strong> Ich bringe ihre Bestellung, wünsche einen guten Appetit !</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 2:</strong> Vielen Dank, ähm darf ich sie etwas fragen?</p>
+<p><strong>Bedienung:</strong> Bitte?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 2:</strong> Wissen sie, dass sie ein Roboter sind?</p>
+<p><strong>Bedienung:</strong> Wie wissen sie, dass sie ein Mensch sind?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 1:</strong> Ups, wie wissen wir das eigentlich? Was, wenn wir auch künstlich oder ausserirdisch oder eine Mischung aus beidem wären?</p>
+<p><em>2 zückt das smartphone, tippt was ein, macht noch ein selfie.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 2:</strong> Alle meine Profile sind noch intakt, das ist doch beruhigend.</p>
+<p><em>Die 2 Hunde entfernen sich etwas vom Tisch.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Hund 1:</strong> Das ist ja echt peinlich.</p>
+<p><strong>Hund 2:</strong> Wenn wir das an der Versammlung erzählen, glaubt uns ja kein Tier.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Detektive an der Bar:</em></p>
+<p><strong>De 1:</strong> Ich habe das Gebell der Hunde aufgenommen und die automatische Übersetzung sagt etwas von einer Versammlung!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 2:</strong> Da bleiben wir dran!</p>
+<p><strong>Dame 1:</strong> machen sie sich ja nicht über unsere Hunde lustig!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 2:</strong> Sie zwei Möchte-gern-Sherlocks.</p>
+<p><em>Am Strand der Wünschefänger mit Netz.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Arbeiter 1</strong> von Plasticaid: Fischen verboten!</p>
+<p><strong>Wf:</strong> keine Angst, ich interessiere mich für etwas ganz anderes.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>2:</strong> Schmetterlinge dürfen sie auch nicht fangen!</p>
+<p><strong>Wf:</strong> Aber ich sammle doch nur Wünsche, bevor sie verloren gehen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>1:</strong> und wozu soll das gut sein?</p>
+<p><strong>2:</strong> Kann man sie etwa teuer verkaufen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wf:</strong> Wünsche können helfen, sich eine andere Welt vorzustellen…</p>
+<p><strong>1:</strong> Dann viel Erfolg sie Tagträumer, wir müssen weiter an unserem Tagessoll arbeiten.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Wünschefänger fängt noch da und dort etwas, geht in Bar. Momo und Kassiopeia mit Zeitstein im Panzer wandern durch Stadt. 2 Detektive beobachten Repaircafé.</em></p>
+<p><em>Im Repaircafé liegt ein Kater und ein Rabe kommt angeflattert.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rabe Jakob:</strong> das ist mal ein angenehmer Job, was Maurizio? Maurizio? Schläfst du schon wieder?</p>
+<p><strong>Kater Maurizio</strong>: Ach Jakob, es reicht doch, wenn einer aufpasst, du sagst doch selbst, hier lässt es sich gut leben.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jakob:</strong> Aber das ändert nichts daran, dass wir Verpflichtungen haben, also wachsam bleiben!</p>
+<p><strong>Maurizio:</strong> Und vorallem nicht auffallen, oder hast du noch nicht gemerkt, dass wir beobachtet werden?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jakob:</strong> Auweia, auch das noch. Jetzt wird es kompliziert.</p>
+<p><strong>Verkäuferin:</strong> Ihr zwei dort, ihr braucht unbedingt eine Tarnbrille, kommt her!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kokosnussverk.:</strong> frische Kokosnuss, jeder braucht ein Stück! Kokosnuss!</p>
+<p>_Die 2 Jugendlichen haben im Repaircafé fotografiert__._</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep:</strong> Dies ist ein offline Ort!</p>
+<p><strong>Ju 1:</strong> Sind sie von gestern?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ju 2:</strong> Ohne, dass euch jemand promotet, könnt ihr gleich Konkurs anmelden!</p>
+<p><strong>Ju 1:</strong> Nicht mal Empfang hat man da, echt digitale Analphabeten sind das!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sie verlassen das Repaircafé. Hundesitter-Roboter kommen.</em></p>
+<p><strong>Dame 1:</strong> Na endlich, da, die beiden müssen dringend mal!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 3:</strong> Und, hast du endlich Nachrichten aus diesem Raumkreuzfahrtschiff, wo deine Tante und ihr Mann dabei sind?</p>
+<p><strong>Dame 2:</strong> Nein, die Bildübertragung konnte nicht repariert werden. Gerade erst habe ich mir das Video angesehen, das sie meiner Mutter zum 10jährigen Jubiläum geschickt hatten. Da war ich ja noch nicht einmal geboren.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 1:</strong> Aber das war ja vor mehr als 30 Jahren! Du meinst, die sind noch am Leben?</p>
+<p><strong>Dame 2:</strong> Immerhin funkt das Schiff noch die Position zur Erde. Gerade sind sie in den interstellaren Raum eingetreten. Nun stehen ihnen noch mindestens 6000 Jahre Reise bevor, bis sie das neue Planetensystem erreichen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 1:</strong> Vielleicht haben sie die Bild- und Tonübertragung selbst ausgeschaltet?</p>
+<p><strong>Dame 3:</strong> Du meinst, um diesem Dschungelcampfeeling zu entkommen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 1:</strong> Deine Tante könnte ja schon Grossmutter sein!</p>
+<p><strong>Dame 2:</strong> Stimmt, Stella, meine Cousine, die ist jetzt fast 10 Jahre älter als ich!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 1:</strong> aber das ganze Leben in so einem Kreuzer verbringen, warum macht man das?</p>
+<p><strong>Dame 2:</strong> Vielleicht Sicherheit und Unterhaltung bis ans Ende. Und das alles im Bewusstsein, der Menschheit einen unglaublich wertvollen Dienst zu erweisen, vermute ich.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Verkäuferin:</strong> Designen sie ihre eigene supercoole Sonnenbrille, mein 3D-Drucker spuckt sie in Null-Komma-Nichts aus. Halten sie einfach die 3D-Maus an die Stirn und stellen sie sich ihre einzigartige Brille vor! Sie sind ein Genie! 3D meldet mir, dass ihr Wunsch schon angekommen ist! Und da ist sie schon! Übrigens garantiert CO2-neutral.</p>
+<p><em>Eine Dame setzt die Brille auf, während folgendem erhält die andere eine B.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Maurizio geht zu den Hunden. Sanitäter mit Elfe auf Bahre unterwegs.</em></p>
+<p><strong>Elfe:</strong> Ich bin kein Schmetterling!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>San 1:</strong> Du kannst sein was du willst, hör nur endlich auf zu zappeln!</p>
+<p><strong>Maurizio:</strong> Könnt ihr den Detektiven dort bitte mal in die Waden beissen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Hund 1:</strong> Kommt nicht in Frage, schliesslich haben wir die beste Hundeschule besucht!</p>
+<p><strong>Hund 2:</strong> Katzen sind definitiv nicht nach meinem Geschmack!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>San 1:</strong> Schmetterling mit beschädigtem Flügel!</p>
+<p><strong>Elfe:</strong> Ich bin eine Elfe! Putzt mal eure Ohren!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>San 2:</strong> Ist ja gut, beruhige dich Prinzessin.</p>
+<p><strong>Rep 1:</strong> Das muss genäht werden. Wo steckt bloss Tarantella?</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Astronomen mit Wagen voll Material, gefolgt von Fliege und Mücke.</em></p>
+<p><strong>A 1:</strong> Übrigens die andern, die wir als Erste entdecken werden, sie werden eine ganz andere Sprache sprechen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> Du meinst, wir können unser globisch glatt vergessen?</p>
+<p><strong>Mücke:</strong> Die müssen das Fremdsprachenlernen ganz neu erfinden!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Ist dir auch schon aufgefallen, dass immer die gleiche Mücke und die gleiche Fliege in unserer Nähe sind?</p>
+<p><strong>A 2:</strong> Lass sie in Ruhe, man sagt ja, dass es nicht mehr viele Insekten gibt.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fliege:</strong> Das ist nochmals gut gegangen.</p>
+<p><em>Die 5 Jugendlichen zurück vom Badmintonspielen.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>J1:</strong> Seid ihr wirklich sicher, dass es da draussen noch Andere gibt?</p>
+<p><strong>J2:</strong> Und falls ihr sie findet, könnten wir da mitkommen, wenn ihr sie besuchen geht?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>J3:</strong> Wir haben nämlich schon einige virtuelle Reisen bis in den interstellaren Raum hinter uns.</p>
+<p><strong>A 2:</strong> Wir versprechen nichts, lasst euch einfach überraschen!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Im Repaircafé: Die Schuhmacherin mit dem Zwerg</em></p>
+<p><strong>Rep 3:</strong> Damals als ich so viel gegamt habe, du weisst doch, wovon ich spreche?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg1:</strong> Sicher, aber verschone mich mit den Einzelheiten.</p>
+<p><strong>Rep 3:</strong> Da habe ich etwas wichtiges gelernt!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg1:</strong> Tatsächlich?</p>
+<p><strong>Rep 3:</strong> Ja, dass man Geschichten nicht hinnehmen muss, sondern, dass man sie verändern kann!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg1:</strong> Aha, und das heisst?</p>
+<p><strong>Rep 3:</strong> Flicken statt wegwerfen! Restaurieren und wieder gut machen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg1:</strong> Aha, etwas anderes, weisst du eigentlich, dass ihr Tierspione im Haus habt?</p>
+<p><strong>Maurizio:</strong> Sei still Zwerg!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 3:</strong> Um so besser, sie sollen unsere Geschichte ruhig weiter erzählen!</p>
+<p><em>Bald ist eine kleine Spinne am nähen des Flügels. Sanitäter sitzen im Café.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Die 2 Männer an der Bar: Streamingdienst und Blogger</em></p>
+<p><strong>M1:</strong> Und wie sieht deine Arbeit beim Streamingdienst aus?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Wir analysieren die Daten unserer Kunden, suchen Geschichten, die ihnen gefallen und lassen diese dann filmisch umsetzen.</p>
+<p><strong>M1:</strong> Aha und je weniger sie arbeiten müssen, desto mehr Zeit haben sie eure Filme anzuschauen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Klar doch, fürs Kino fehlt ihnen ja das Geld, aber wir sind billiger. Dass die Arbeit weltweit mehr und mehr an Algorithmen delegiert wird, ist zu unseren Gunsten! Wir werden Hollywood in den Schatten stellen! Und was ist dein Erfolgsrezept als Web-autor?</p>
+<p><strong>M1:</strong> Zuerst muss man herausfinden, was man wirklich, wirklich will und worauf man wirklich Lust hat!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Und wie schafft man das?</p>
+<p><strong>M1:</strong> Begeistert dranbleiben, eine Menge Geduld haben und schlau sein. Und natürlich hart arbeiten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Und du versuchst immer noch deine Leser aus alten Denk- und Verhaltensmustern rauszuholen?</p>
+<p><strong>M1:</strong> Jeder, der vom Hamsterrad abspringt, trägt dazu bei, dass meine Begeisterung fürs Bloggen anhält!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Und kannst du von diesen Ideen leben?</p>
+<p><strong>M1:</strong> Immer besser! Denn ich kümmere mich um die aktuellen Zeitthemen, da meine neusten Dienstleistungsangebote: <em>(zeigt ihm i-pad)</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Superferien ohne Flugreise, Selbstversorgung dank Gemeinschaftsgarten, interessant, interessant…..</p>
+<p><em>Eine 2. Elfe wird angeliefert.</em> <em>Die Detektive auf der Seite:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 1:</strong> Die Tiere in diesem Repaircafé kommen mir irgendwie bekannt vor.</p>
+<p><strong>De 2:</strong> Stimmt, in diesem Versicherungsfall mit dem Chemie-Multimilliardär sollten wir doch einen Katzenspion und einen Rabenspion finden!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 1:</strong> Und weil wir sie nirgends finden konnten, wurde er für unzurechnungsfähig erklärt.</p>
+<p><strong>De 2:</strong> Nicht nur er, auch seine Konkurrentin! Sie beharrte doch auf diesem verdorbenen Wunschpunsch und der Billiardenforderung.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 1:</strong> Komm, wir nehmen die Ermittlungen wieder auf! <em>(setzen sich ins Café)</em></p>
+<p><strong>San:</strong> Schon wieder so ein Flatterding.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Elfe:</strong> Ich bin eine Elfe, so glaubt mir doch!</p>
+<p><strong>Durchsage:</strong></p>
+</section>
+<section class="slide level2">
+
+<p>Da die Völker der Erde es zunehmend schwierig fanden, eine geeignete Regierung zu finden, haben sie an ihrer heutigen Weltversammlung beschlossen, mich, eine Künstliche Intelligenz, als Regierung des Planeten Erde einzusetzen. Ein sehr weiser Entschluss, denn ich, eure KI, bin der Aufrechterhaltung und dem Schutz allen Lebens verpflichtet. Somit bricht das goldene Zeitalter an und der Weltuntergang ist erst einmal abgesagt.</p>
+<p><strong>Dame 1:</strong> Das ist ja eine ganz wunderbare Nachricht, Leute!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Dame 3:</strong> Die Beste überhaupt!</p>
+<p><strong>Dame 2:</strong> das müssen wir feiern! <strong>Alle:</strong> Party!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Musik und Sommertanz</strong></p>
+<p><em>Im Hintergrund eine Demo mit Spruchbändern:</em> <em>Hackt ihn! Wer steckt hinter KI? Wer finanziert ihn? Findet sein Gehirn! 2 Jugendliche kommen ins phone schauend-</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ju 1:</strong> Da steht, dass hier eine Demo stattfindet!</p>
+<p><strong>Ju 2:</strong> Dort, das hängt sicher mit dieser komischen Durchsage zusammen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Verkäuferin:</strong> Wer noch keine hat, der braucht eine!</p>
+<p><strong>Mädchen 1:</strong> Was haben wir doch für ein Glück!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mädchen 2:</strong> Es ist höchste Zeit, dass wir zu so einer coolen Brille kommen!</p>
+<p><em>Die Mädchen lassen sich dann alle eine Sonnenbrille machen. Die 2 Damen legen sich noch etwas mit Hunden an den Strand.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Die 2 Astronomen in der Höhe errichten Teleskop.</em></p>
+<p><strong>A:</strong> Und jetzt der grosse Moment, unser erster Blick zu den Anderen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A:</strong> Ich sehe nur den Mond.</p>
+<p><strong>A:</strong> Alles Grosse hat mal klein begonnen, wir müssen einfach weiterbasteln!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mücke:</strong> Ich würde zu gerne mal durchschauen und den Mond grüssen.</p>
+<p><strong>Fliege:</strong> Und ihm sagen, dass wir gut auf die Menschen aufpassen.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die zwei Pflanzen sitzen auf Töpfen:</em></p>
+<p><strong>Pflanzen:</strong> Wir sind am verdursten! _ _</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Gärtner:</strong> reife Erdbeeren! Frische Karotten! Pfefferminz und Petersilie!</p>
+<p><em>Die Mädchen holen sich etwas zu essen.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Han Solo, ein junger Jedi, Finn + Chewbacca, Starlord + Racoon, Valeria, der Abenteurer von Orion, erscheinen in der Ferne.</em></p>
+<p><strong>Durchsage:</strong></p>
+<p>Eine wichtige Meldung zur Verkehrslage: Zusammenstoss in der Flugschneise Süd. Während die Drohne ihren Flug unverletzt fortsetzen konnte, stürzte die Biene ab. Der Rettungsdienst ist vor Ort.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Im Repaircafé wird Liege gerichtet. Sanitäter verlassen Café. Allianz ist in der Stadt.</em></p>
+<p><strong>Han Solo:</strong> Bist du ganz sicher, dass das die Erde ist?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Starlord:</strong> Hundertprozentig, schliesslich wurde ich hier geboren. Wenn ich eine Heimat habe, dann irgendwo hier.</p>
+<p><strong>Finn:</strong> Es riecht etwas unangenehm, produzieren die etwa noch Abfall?</p>
+<p><strong>Valeria:</strong> Laut meinen Informationen läuft auf der Erde immer noch dieses gigantische Experiment.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Han Solo:</strong> Und das wäre?</p>
+<p><strong>Valeria:</strong> Es heisst grenzenloses Wachstum auf begrenztem Planet.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Abenteurer:</strong> das ist ja voll unlogisch, so etwas geht doch nicht!</p>
+<p><strong>Valeria:</strong> Reg dich ab, meine Idee war es jedenfalls nicht, hierher zu kommen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Han Solo:</strong> Wir haben uns nun mal zu einer Allianz mit Zweck Erhaltung der Galaxie Milchstrasse zusammengeschlossen, da gehören auch solche Missionen dazu.</p>
+<p><strong>Starlord:</strong> Vergesst nicht, ich muss nebenbei noch den Zeitstein und den Gedankenstein finden.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Racoon:</strong> Stimmt und wenn wir noch länger herumtrödeln, läuft uns die Zeit davon.</p>
+<p><strong>Finn:</strong> Dann such sie und gib sie den Menschen! Damit können sie sich ihre Weisheit zurückholen und vielleicht eine neue Zeitschleife erzeugen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Han Solo:</strong> Ach was, vertraut nicht länger auf die Macht von all diesen Artefakten, unsere Allianz ist genug stark um die Welt am Leben zu halten!</p>
+<p><strong>Starlord:</strong> Aber es gibt noch Menschen, die auf Magie vertrauen und wahre Magie kann Unglaubliches hervorrufen!</p>
+<p><strong>Han Solo:</strong> Schreibst du gerade an einer neuen Geschichte?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Val:</strong> Reizt dich die Macht nicht mehr?</p>
+<p><strong>Starlord:</strong> Man muss mit der Zeit gehen, Moment, seht ihr das? Dort läuft der Zeitstein, Racoon fang mir dieses Tier!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Er bringt Momo und Kassiopeia.</em></p>
+<p><strong>Kassiopeia:</strong> Der Stein war plötzlich auf meinem Rücken. Und nun kann ich in die Zukunft schauen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Momo:</strong> Die Zeitblumen blühen wieder und wenn ich sie verteile, werden sie immer mehr.</p>
+<p><strong>Val:</strong> wiedergefundene Zeit könnte vieles wieder gut machen. Jetzt wo die Menschen bald ihre Zukunft aufgebraucht haben.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Starlord:</strong> Durch den Stein wissen die beiden alles über Vergangenheit und Zukunft.</p>
+<p><strong>Abenteurer:</strong> Stelle ich mir anstrengend vor, wenn ihnen das nur nicht zuviel wird.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Han Solo:</strong> ihr zwei kommt am besten mit uns mit, denn es sind sicher noch andere hinter dem Stein her.</p>
+<p><strong>Abenteurer:</strong> Und da lebt ihr ziemlich gefährlich.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Momo:</strong> keine Sorge, damit habe ich schon Erfahrung.</p>
+<p><strong>Kassiopeia:</strong> Ich kann uns bei Gefahr in eine Zeitschleife versetzen.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sie setzen sich ins Repaircafé. Die Mädchen kommen, mit Abstand die 5 J.</em></p>
+<p><strong>Mäd 1:</strong> Weisst du noch letztes Jahr um diese Zeit, als wir auf dem Mars waren?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 2:</strong> das war das Tollste, das ich je erlebt habe. Und diese superschlauen Mäuse waren so süss.</p>
+<p><strong>Mäd 3:</strong> Und ihr Planet, ein Traum von einer Erde!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 5:</strong> Und die Band an diesem Raumknotenpunkt und die Tänzerinnen…</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die 2 Männer an der Bar:</em></p>
+<p><strong>M2:</strong> Siehst du, all diese super tollen Lernprogramme verdanken wir fantasiebegabten Algorythmen. Diese lernbegierigen jungen Frauen haben alles verinnerlicht!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 2:</strong> Das war kein Lernprogramm sie Besserwisser, das war alles voll und ganz echt, was wir erlebt haben!</p>
+<p><strong>Mäd 6:</strong> Der soll sich nicht in Dinge einmischen, von denen er nichts versteht.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 4:</strong> Reg dich ab, er ist ja nicht mehr der Jüngste. Und es ist nun mal eine Tatsache, dass uns niemand glaubt, dass wir wirklich auf dem Mars waren!</p>
+<p><strong>J:</strong> Mädchen und ihre Geschichten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>J:</strong> das haben sie jetzt davon, dass sie uns nicht auf den Mars mitgenommen haben!</p>
+<p><strong>J:</strong> Uns hätte man das sicher geglaubt!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Bei den beiden Männern und dem Wünschefänger in der Bar:</em></p>
+<p><strong>Verkäuferin:</strong> Sie brauchen eine Brille und ich weiss auch schon welche, das haben wir gleich….Voilà zweimal das Modell Zukunft! Und für dich eine magische Brille, bitte sehr!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>San:</strong> Ihre letzten Worte waren: Ich brauche so eine Flugbrille!</p>
+<p><strong>San:</strong> Kannst du der Biene diesen Wunsch erfüllen?</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sanitäter kommen mit Biene und Brille auf Bahre ins Repaircafé.</em></p>
+<p><strong>San 1:</strong> Sie ist bewusstlos, könnt ihr sie wieder ganz machen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 2:</strong> Mit dem Fliegen wird es für eine Weile nichts, aber sie wird überleben. Die Infusion für Insekten bitte und einen Eisbeutel!</p>
+<p><em>An der Bar:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> das ist die Idee für meine nächste Serie! Jugendliche werden von Marsianern entführt, Abenteuer, Gefahr, Liebe…alles wichtige kommt vor!</p>
+<p><strong>M1:</strong> Aber du musst es interaktiv machen, die Zuschauer sollen über den Lauf der Geschichte mitentscheiden!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M2:</strong> Wie das denn, es genügt doch, alles auf ihre Daten zuzuschneiden.</p>
+<p><strong>M1:</strong> Willst du jetzt reich werden oder nicht? Dann frag sie: Soll diese bezaubernde junge Frau die Liebe eines Marsianers erwidern, oder soll sie versuchen mit den seltenen Erden, die auf dem Mars vorkommen, und von denen die Erde bald zu wenig hat, ein super Geschäft zu machen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M 2:</strong> Schon so spät? Ich muss heim, sonst macht sich Alexa Sorgen. Und danke für den Tipp!</p>
+<p><em>1 Pflanze läuft ihm hinten nach.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 2:</strong> Kann es sein, dass die Pflanzenwelt auch mitmacht?</p>
+<p><strong>De 1:</strong> Es ist verdächtig, dass der Mann dort von einer verfolgt wird.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wf:</strong> Wie es bei mir so läuft willst du wissen? Grossartig, denn seit ich diese Brille habe, fange ich so viele Wünsche wie noch nie! – Was meinst du? Nein, es hat nichts mit Konsum zu tun, es sind ganz andere Wünsche.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 1:</strong> Manchmal denke ich ja selbst auch, dass wir das alles nur im Inneren dieses Escaperooms erlebt haben könnten.</p>
+<p><strong>Mäd 2:</strong> Sicher nicht! So was kann man einfach nicht künstlich herstellen. Und unsere Freunde vom Mars, waren die etwa nicht echt?</p>
+<p><strong>Bedienung:</strong> Eiswaffeln geschenkt! Nur in den nächsten 10 Minuten!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Mädchen gehen zum Eisstand und werden ausgefragt:</em></p>
+<p><strong>Bedienung:</strong> Könnt ihr mir sagen, wie ich soft skills lernen kann?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 4:</strong> Sie meinen Empathie, Kreativität, Kommunikation und solche Sachen? Aber warum braucht dies ein Roboter?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 5:</strong> Ein Roboter muss doch nur funktionieren.</p>
+<p><strong>Bed:</strong> Bitte geht respektvoll mit mir um. Seit die Erde von einer KI regiert wird, sind wir Roboter den Menschen gleichgestellt. Deshalb muss ich soft skills lernen, da ich mich beruflich optimieren muss um den Job nicht zu verlieren.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd 6:</strong> Wir unterhalten uns gerne mit dir, aber können wir erst das Eis haben, bevor die 10 Minuten um sind?</p>
+<p><strong>Abenteurer:</strong> Mit künstlicher Intelligenz scheinen sie erst zu experimentieren!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Val:</strong> In meiner Heimat gehört die Ausstattung mit softskills bereits zu den Grundrechten jeder KI.</p>
+<p><em>Die Astronomen:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Jetzt nur noch alles festmachen, und dann werden wir sie finden!</p>
+<p><strong>A 2:</strong> Ihr Anderen da draussen, zeigt euch!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Ich sehe den Mars und den Jupiter!</p>
+<p><strong>A 2:</strong> Und dort sind auch schon Saturn, Uranus und Neptun! Einfach grossartig!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Aber wir müssen dringend in den interstellaren Raum vordringen!</p>
+<p><strong>A 2:</strong> Und zwar ins Sternbild Jungfrau,dort könnte ein bewohnter Planet liegen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Ich würde so gerne Atlantis sehen, es soll sich im Pegasus befinden!</p>
+<p><strong>A 2:</strong> jetzt legen wir erst mal eine Nachtschicht ein.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mücke:</strong> Wie die Zeit vergeht Fliege, bald ist Vollmond!</p>
+<p><strong>Fliege:</strong> Du hast recht Mücke, wir müssen uns bald auf den Weg zur Versammlung machen</p>
+</section>
+<section class="slide level2">
+
+<p><em>Im Repaircafé:</em></p>
+<p><strong>Rep 1:</strong> machen die Promotion für eine neue starwars Episode?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 2:</strong> scheinen direkt aus Hollywood zu kommen.</p>
+<p><strong>Rep 3:</strong> Irgendeine super Heldensache muss es wohl sein.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 1:</strong> Eigentlich immer die gleichen Geschichten, die Bösen, die Guten und viele Kriege.</p>
+<p><strong>Rep 2:</strong> Ich habe so eine Sehnsucht in mir drinnen, dass alles ganz anders sein könnte.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Chewbacca:</strong> Hollywood?</p>
+<p><strong>Finn:</strong> Stechpalmenwald und Traumfabrik gibt die Übersetzung an.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Chewbacca:</strong> Hmm?</p>
+<p><strong>Han Solo:</strong> Die meinen, wir seien nicht echt. Ist ja auch verständlich, es kommen sicher nicht jeden Tag Besucher von anderen Planeten vorbei.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Valeria:</strong> Aber die Mäuse, die lebten ziemlich lang unter ihnen.</p>
+<p><strong>Starlord:</strong> Wer denkt denn bei Mäusen schon an Ausserirdische.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 1:</strong> Ich glaub, das sind Performance-Künstler.</p>
+<p><strong>Chewbacca:</strong> Performance?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Han Solo:</strong> sie glauben, wir sind Schauspieler.</p>
+<p><strong>Rep 1:</strong> Dabei brauchen wir dringend echte neue Geschichten!</p>
+<p><strong>Rep 2:</strong> Sand ins Getriebe der Welt!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wf:</strong> Das sind ganz wunderbare Wünsche, die muss ich mir sichern!</p>
+<p><em>Die Mädchen haben Eis erhalten.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mäd:</strong> Also, ein Beispiel, sie haben uns gratis Eis gegeben, weil sie uns eine Freude machen wollten, stimmts?</p>
+<p><strong>Bed:</strong> Weiss nicht, was Freude bedeutet, gratis Eis immer um selbe Zeit.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Fantasie kommt, begleitet von skurrilen Figuren, ein Narr mit Schild “neue Geschichten braucht die Welt”.</em></p>
+<p><strong>Fantasie:</strong> Die Königin der Ideen schickt mich! Sie lädt alle zum ersten Kongress für einen neuen Lauf der Dinge ein. Er findet im Land der Möglichkeiten statt.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Narr:</strong> Neue Geschichten braucht die Welt! Wer weiss eine?</p>
+<p><em>Im Repaircafé:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Finn:</strong> Momo, weisst du wo man dieses Land findet? <em>Allianz folgt ihr.</em></p>
+<p><strong>Zwerg 1:</strong> Ich muss zurück zu meinem Volk, sonst wird das nichts mit den neuen Geschichten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 3:</strong> Aber da hat es noch ein Loch im Stiefel!</p>
+<p><strong>Zwerg 1:</strong> Das kann warten, jetzt pressiert es erst einmal.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 2:</strong> Kannst du den Bären in den Wald zurück begleiten?</p>
+<p><em>Die smartphone-Jugendlichen:</em></p>
+<p><strong>Ju 1:</strong> Das, wovon die Hippiefrau gesprochen hat, findet man nicht hier drinnen.</p>
+<p><strong>Ju 2:</strong> hab mir schon gedacht, dass sie nicht echt ist!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ju 1:</strong> Oh schau, meine Freundin, sie trifft sich gerade mit ihren coolen Freunden und schau nur, ihre Handtasche und was hält sie da für ein Getränk in ihren Händen mit den goldschimmernden makellosen Nägeln, schau doch!</p>
+<p><strong>Ju 2:</strong> Sie, kann ich ein Selfie mit ihnen machen?</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sie macht ein selfie mit Fantasie und ihren Begleitern und sagt:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ju 2:</strong> Hey friends, Grüsse aus anderswo! Wahnsinn, schon 395 follower! Ich spendiere dir ein Eis, komm!</p>
+<p><em>Sie lassen Handys liegen, Elstern stehlen sie.</em></p>
+<p><em>Jugendliche mit VR-Brillen in der Hand, Mädchen hören mit Eis zu:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>J 1:</strong> Und, was spielen wir als Nächstes?</p>
+<p><strong>J 2:</strong> Ich schlage das Spiel des Lebens vor.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mä 3:</strong> Wie dieses alte Brettspiel mit heiraten, Kinder kriegen, Häuser bauen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>J 2:</strong> Nein, sicher nicht. Wir müssen am Anfang, das heisst etwa vor 600'000 Tausend Jahren beginnen, sozusagen als Affen, die zu den ersten Menschen werden.</p>
+<p><strong>J 1,3,4:</strong> Affe? Ich?</p>
+<p><strong>J 2:</strong> jetzt tut nicht schwierig, wir müssen lernen Waffen zu machen, aufrecht zu gehen, das Feuer zu zähmen, aus dem Wolf einen Hund züchten, als Jäger und Sammler überleben, später Ackerbau betreiben…</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mä 4:</strong> Tönt definitiv nach Lernspiel.</p>
+<p><strong>J 1:</strong> mindestens das könnte uns im wirklichen Leben zugute kommen, Selbstversorgung ist gerade in, ihr solltet mal den Garten meiner Schwester sehen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>J 3:</strong> Ist ja gut, aber ich glaube, du hast dich trotzdem verwählt.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>J 1:</strong> Das Spiel des Lebens muss etwas mit reich und mächtig sein zu tun haben, es kann doch nicht aus lauter Plackerei bestehen.</p>
+<p><strong>J 2:</strong> es wird sicher total spannend, wir müssen viele Rätsel lösen und überleben, so wie in einem Escape-Room, nur in echt, verstehst du?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>J 4:</strong> Dann ziehen wir wohl am besten Brillen und Overalls an!</p>
+<p><strong>J 1:</strong> Das nächste Abenteuer erwartet uns!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sie gehen weg. Eine Person in grauem Umhang ist gekommen:</em></p>
+<p><strong>Ju 1:</strong> Wer ist das denn? Mein Handy, oh nein, es ist weg, gestohlen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ju 2:</strong> Meines auch, ist kein Drama, ich wollte mir sowieso ein G 5 kaufen.</p>
+<p><strong>Ju 1:</strong> Du verstehst nicht, alles was mich ausmacht ist weg! Einfach weg!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ju 2:</strong> In der Cloud meinst du wohl, mit einem Fingerprint holst du es dir wieder zurück!</p>
+<p><strong>Langeweile:</strong> Sagt mal, wisst ihr vielleicht, wie man ins Land der Möglichkeiten gelangt, wo dieser Kongress stattfindet?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 3:</strong> Frag im Zauberwald, aber weisst du denn eine neue Geschichte?</p>
+<p><strong>Langeweile:</strong> Ich? Nein, das ist nicht mein Gebiet, ich bin die Langeweile und als Ehrengast eingeladen. Meine Freundin, die Fantasie hält die Fäden in der Hand.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 1:</strong> Komische Dinge passieren in letzter Zeit.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 2:</strong> Kommt, wir suchen selbst nach diesem Land!</p>
+<p><em>Alle Tiere treffen sich irgendwo in der Stadt.</em></p>
+<p><strong>Elster:</strong> Macht euch auf den Weg, damit die Versammlung pünktlich beginnt!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Katze:</strong> Was ihr herumzwitschert sind doch meist fake tweets, miau!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Papagei:</strong> fake tweets, fake tweets</p>
+<p><strong>Elster:</strong> Pass auf du Vogelfresser, was du sagst.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Papagei:</strong> Vogelfresser, Vogelfresser</p>
+<p><strong>Katze:</strong> Wenn dieser Gockel nicht sofort Ruhe gibt…</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Papagei:</strong> Gockel, Gockel</p>
+<p><strong>Seehund:</strong> Ich rufe die aus dem Ozean.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Hund:</strong> Wir die Haustiere.</p>
+<p><strong>Schweine:</strong> Da sind wir schon!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kl. Fuchs:</strong> ich hole die Tiere vom Wald!</p>
+<p><strong>De 1:</strong> Diesmal werden wir erfolgreich sein, dort tut sich was!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 2:</strong> Wir dürfen sie nicht aus den Augen verlieren.</p>
+<p><strong>Jacob:</strong> Auf geht's Käterchen! Maurizio? Schläfst du schon wieder?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Maurizio:</strong> Lass doch die anderen arbeiten, wir haben eine Pause verdient.</p>
+<p><strong>Jacob:</strong> Kommt nicht in Frage, niemand ist so schlau wie wir!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Biene:</strong> Und was wird aus mir? <em>M+J nehmen sie im Rollstuhl mit.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Detektive folgen den Tieren.</em></p>
+<p><em>In der Höhe beim Teleskop: während die Stadt verschwindet</em></p>
+<p><strong>A 1:</strong> Das dort, das muss doch der Pluto sein?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> Du meinst wir sehen demnächst in den interstellaren Raum?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Nicht nur das, siehst du dieses fliegende Etwas?</p>
+<p><strong>A 2:</strong> Ist das denn möglich? Ja bestimmt, es ist sie, die gute alte Esperanza!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Durchsage:</strong> Hier spricht KI: Die Unterstützung des Raumkreuzers Esperanza, der sich seit über 40 Jahren auf der Reise zu einem neuen bewohnbaren Planeten befindet, und soeben in den interstellaren Bereich eingetreten ist, wird in wenigen Stunden eingestellt. Meine neusten Berechnungen haben ergeben, dass Proxima Centauri B zu heiss und deshalb nicht bewohnbar ist und die Weiterführung des Projektes keinen wirtschaftlichen Nutzen mehr hat.</p>
+<p><strong>A 2:</strong> Jetzt pressiert es. Schnell weiterbasteln, wir müssen die Anderen einfach finden, nur sie können die Menschen aus der Esperanza retten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Wie hiess es schon wieder?</p>
+<p><strong>A 2:</strong> Utopisch denken, um realistisch zu sein! Meinst du das?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fliege:</strong> Diese Unglücksnachricht dürfen nun wohl wir überbringen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Mücke:</strong> Sieh es positiv, dann riecht diese Nachricht stark nach Abenteuer, abdüsen!</p>
+<p><strong>Musik: Das Traumbergwerk </strong> _mit Zwergen und Tieren__erscheint._</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg 1:</strong> Alle mal herhören: die Menschen brauchen wieder Träume, weil neue Geschichten gefragt sind!</p>
+<p><strong>Zwerg:</strong> Hurra, ich mache nämlich nichts lieber als Träume ausgraben!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> Moment, stimmt das auch?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> Wo hast du es aufgeschnappt?</p>
+<p><strong>Zwerg 1:</strong> Ich liess im Repaircafé meine Stiefel flicken und da habe ich es gehört.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> was denn?</p>
+<p><strong>Zwerg 1:</strong> Eben, das vom abgesagten Weltuntergang. Und dass die neue Erdregierung KI heisst. Und dass neue Geschichten gesucht sind.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> Das sind ja endlich mal gute Nachrichten!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> unsere Arbeit ist gesichert!</p>
+<p><strong>Zwerg:</strong> Aber was ist, wenn es die KI auf unsere Schätze abgesehen hat?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg 1:</strong> Keine Sorge, bis die zu träumen gelernt hat, ist unser Rohmaterial schon lange in Geschichten umgewandelt.</p>
+<p><strong>Zwerg:</strong> Scheint wirklich eine gute Nachricht zu sein, Freunde.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg 1:</strong> Das muss gefeiert werden, holt die Instrumente, setzt die Kochtöpfe auf!</p>
+<p><strong>Zwerg:</strong> Kommt, wir tanzen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwergentanz</strong></p>
+</section>
+<section class="slide level2">
+
+<p><em>Danach erhalten alle Essen aus einem grossen Topf in ihre Teller. Im Hintergrund immer mehr Tiere unterwegs. Die Langeweile, der Wünschefänger und die Fantasie:</em></p>
+<p><strong>Langeweile:</strong> Einen guten Appetit!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fantasie:</strong> Wisst ihr vielleicht, wo der Zauberwald ist?</p>
+<p><strong>Zwerg:</strong> Irgendwo da drüben!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> Dort wo die schrecklichen Kobolde wohnen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> Sie sind sehr gefährlich!</p>
+<p><strong>Wf:</strong> Du meinst sie werden uns fangen und aufessen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg 1:</strong> Wenn es nur das wäre.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wf:</strong> Könntet ihr uns nicht begleiten?</p>
+<p><strong>Zwerg 1:</strong> Und von den Kobolden rösten lassen? Nein Danke.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Langeweile:</strong> Im Land der Möglichkeiten suchen sie nach neuen Geschichten!</p>
+<p><strong>Fantasie:</strong> Und da wären diese Träume sicher von Nutzen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg 1:</strong> Ok, Oin, Gloin und Gimli ihr schnappt euch ein paar Träume und begleitet die Leute in dieses Land überall und nirgendwo.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Zwerg:</strong> Und dann erzählt ihr uns alle neuen Geschichten!</p>
+<p><em>Viele Tiere kommen von überall her an.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Zwerge verschwinden essend auf eine Seite. Die 5 Affen kommen:</em></p>
+<p><strong>Affe 1:</strong> Da hat es ja jede Menge Tiere, sollen wir uns unter sie mischen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe 2:</strong> Wenn du meinst, ihr seht übrigens umwerfend aus.</p>
+<p><strong>Affe 3:</strong> Solltest erst mal dich sehen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Musik</strong> <em>während die Tiere Platz nehmen.</em> <strong>Tierversammlung</strong></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Löwe:</strong> willkommen ihr Tiere und Pflanzen! Dies ist unsere erste Versammlung, seit wir uns bereit erklärt haben, auf die Menschen aufzupassen. Wie ihr wisst, mussten sich die anderen Mächtigen, Sonne, Mond, Wind und Ozean endlich wieder um ihre Angelegenheiten kümmern und die Erde, ich sage es nicht gern, ist gesundheitlich angeschlagen.</p>
+<p><strong>Maurizio:</strong> Der Erde geht es besser, verehrter Löwe, seit wir diesem Giftzauberer</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jakob:</strong> und seiner Tante so gründlich das Handwerk gelegt haben!</p>
+<p><strong>Wolf:</strong> Einen Augenblick noch, es geht gleich weiter, damit aber vorerst niemand etwas von unserer Mission erfährt, trennt euch von euren Peilsendern, Kameras, GPS usw., die euch die Menschen verpasst haben.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fuchs:</strong> Wer gechipt ist, kann zu mir kommen.</p>
+<p><em>2 Hunde und 1 Katze treten vor, während eine Unmenge von Sachen auf einen Haufen geworfen wird:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Katze:</strong> Und wie soll mich denn mein Frauchen finden, wenn ich mich verlaufen habe?</p>
+<p><strong>Hund 1:</strong> Ja das ist auch mein Problem, ist meine Sicherheit noch garantiert?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Gürteltier:</strong> Lernt wieder für euch selbst zu sorgen, das schafft ihr schon!</p>
+<p><strong>Bär:</strong> Elstern, seid ihr sicher, dass ihr alles abgegeben hast?</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Elstern ziehen bedauernd 2 glitzernde Handys hervor.</em></p>
+<p><strong>Elster:</strong> Aber nach der Versammlung will ich meine Schätze zurück haben!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bär:</strong> Gänzlich unüberwacht, Tiere, ist das nicht ein neues Lebensgefühl?</p>
+<p><strong>Löwe:</strong> Dann fahren wir fort, wer hat etwas mitzuteilen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Maurizio:</strong> Ich! Die Menschen haben eine KI als Erdregierung eingesetzt.</p>
+<p><strong>Elch:</strong> und das sagst du erst jetzt?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jakob:</strong> es hat uns ja keiner nicht danach gefragt.</p>
+<p><strong>Wolf:</strong> Und wie geht es den Menschen damit?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Papagei:</strong> Es geht so.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Schneeleopard:</strong> Die Menschen sind nicht mehr das, was sie einmal waren.</p>
+<p><strong>Fledermaus:</strong> Jetzt, wo sie es ganz aufgegeben haben, über sich selbst zu bestimmen</p>
+<p><strong>Faultier:</strong> Weil sie glauben, dass die KI es schon richten werde</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Spinne:</strong> Und das virtuelle Leben dem echten Leben vorziehen</p>
+<p><strong>Waschbär:</strong> Du kannst es ruhig aussprechen, die Menschen werden früher oder später aussterben, das ist der Lauf der Dinge!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Biene:</strong> Vielleicht noch bevor wir alle weg sind, schnüff, sie waren so gut zu mir, schnüff.</p>
+<p><strong>Gürteltier:</strong> Ach was, ich habe doch auch überlebt und ich bin nun wirklich schon lange ein Fossil!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bär:</strong> Manchmal ist es sogar von Vorteil, wenn man als ausgestorben gilt, man kann dann in Ruhe sein Comeback vorbereiten, nicht wahr Meister Wolf?</p>
+<p><em>Starlord und Racoon mit Momo und Kassiopeia haben ungeduldig zugehört.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Starlord:</strong> Habt ihr vielleicht schnell Zeit, uns zu sagen, wie wir das Land der Möglichkeiten finden?</p>
+<p><strong>Wildschwein:</strong> Einfach geradeaus, dann links und um die Ecke und gleich wieder rechts, steil bergan, wieder runter,</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Steinbock:</strong> dann durch den Elfenwald und immer weiter und dann am besten die Kobolde fragen.</p>
+<p><strong>Panda:</strong> die waren aber nicht von der Erde, so etwas spüre ich.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe 1:</strong> das war der berühmte Starlord mit Rocket Racoon.</p>
+<p><strong>Elch:</strong> Aha und von wo weisst du das?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe 2:</strong> Ich habe seinen Film gesehen!</p>
+<p><strong>Faultier:</strong> Film?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Löwe:</strong> darüber können wir später sprechen, jetzt gibt es Wichtigeres.</p>
+<p><em>Starlord und Racoon im Weggehen:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Starlord:</strong> Der Gedankenstein ist irgendwo in der Nähe, ich spüre es ganz deutlich.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Racoon:</strong> Und dann lässt du wirklich beide Steine auf der Erde?</p>
+<p><strong>Starlord:</strong> Im Moment brauchen die Menschen die Kräfte dieser Steine am Nötigsten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Racoon:</strong> Und bei ihnen sind sie auch gut verborgen.</p>
+<p><strong>Jakob:</strong> Ich weiss, warum die alle dieses Möglichkeitsland suchen!</p>
+<p><strong>Hunde:</strong> Wir wissen das auch! <strong>Topfpflanzen:</strong> Wir auch!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Löwe:</strong> Dann sagt es, schnell, wir haben keine Zeit zu verlieren.</p>
+<p><strong>Topfpflanze:</strong> Sie gehen zu einem Kongress und erzählen einander neue Geschichten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Maurizio:</strong> neue Geschichten braucht die Welt, jetzt wisst ihr es!</p>
+<p><strong>Wolf:</strong> Darin sind die Menschen gut, sie haben so eine wunderschöne Geschichte über mich und das Mädchen und….</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Löwe:</strong> Wolf, wir schweifen ab,</p>
+</section>
+<section class="slide level2">
+
+<p><em>Eine ganze Reihe Pinguine kommt an.</em></p>
+<p><strong>Pinguin:</strong> Nieder mit den Menschen! /Sie schmelzen uns den Boden unter den Füssen weg!/Und dann kommen sie mit dem Kreuzfahrtschiff!/ Und landen mit dem Schlauchboot/ Und fotografieren uns/ Und zeigen die Bilder überall herum/Und lassen Drohnen über uns fliegen/ Und landen mit Flugmaschinen/Sie rauben uns die Ruhe/ Nieder mit den Menschen</p>
+<p><strong>Panda:</strong> Nein, die Menschen sind vom Aussterben bedroht, wir müssen ihre Art retten! Das bin ich ihnen schuldig!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Spinne:</strong> du hast den Jö-wie-herzig-Bonus, der geht uns voll ab. Vor uns ekeln sich die Menschen.</p>
+<p><strong>Schneeleopard:</strong> Schon klar bei deinem Aussehen, aber mich haben sie unter Schutz gestellt, so begehrt war ich!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bär:</strong> Ich bin dafür, die Menschen in ein Reservat zu bringen.</p>
+<p><strong>Schwein:</strong> Oh ja, ins Bärenland!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Abseits beobachten die Detektive:</em></p>
+<p><strong>De 1:</strong> Wir müssen die Menschen warnen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 2:</strong> Sag nichts, sonst geht's uns Menschen an den Kragen!</p>
+<p><strong>Qualle 1:</strong> Wir schliessen uns den Pinguinen an, auch wir werden bedroht!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Qualle 2:</strong> Und erst unsere Freunde, die Korallen</p>
+<p><strong>Seeanemone:</strong> Und vergesst uns Seeanemonen nicht!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bär:</strong> Mit diesem Gejammer kommen wir keinen Schritt weiter, wer hat etwas Sachliches vorzutragen? Waran?</p>
+<p><strong>Waran:</strong> Da die Menschen am Aussterben sind, wie du Panda gesagt hast, wird früher oder später jemand von uns ihre Nachfolge antreten. Das nennt man Evolution.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jakob:</strong> Ich! Ich kann schon Werkzeuge bauen und mit ihnen umgehen!</p>
+<p><strong>Elster:</strong> ich wäre als Meisterdieb auch geeignet, aber vergiss es, uns fehlen die Arme und Hände.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Octopus:</strong> Das kann man von mir wohl nicht behaupten, Tiere! Zudem wurde ich von den Menschen mehrfach getestet, ich kann Rätsel lösen, aus Irrgärten herausfinden und mich äusserst gut tarnen! Intelligente Menschen haben schon lange aufgehört unsereins aufzuessen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kl. Octopus:</strong> Sie meinen, wir sind Ausserirdische!</p>
+<p><strong>Affe:</strong> So das reicht jetzt. Wir werden natürlich die Stellung der Menschen einnehmen, wir leben nämlich bereits in der Steinzeit.</p>
+<p><strong>Waran:</strong> Und ihr meint, wir warten jetzt sechshundert tausend Jahre auf dieses grosse Ereignis?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Schwein 1:</strong> die Affen dort sind Spione!</p>
+<p><strong>Schwein 2:</strong> du hast Recht, sie schmecken nach Mensch!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wolf:</strong> Stimmt das ihr Affen?</p>
+<p><strong>Affe:</strong> Ja, äh nein, äh ja, äh was ich sagen wollte, wir sind nicht das, was wir zu sein scheinen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Löwe:</strong> Ach wenn es weiter nichts ist, wer ist heutzutage schon was er scheint, würde gerne mit euch philosophieren, aber es bricht gerade ein neues Zeitalter an.</p>
+<p><em>2 Bäume treten vor:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Baum:</strong> das hast du von Merlin! Und er sagt auch, es gilt zu bewahren, was zu bewahren ist….</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Baum:</strong> und Neues zu schaffen!</p>
+<p><strong>Baum:</strong> Also ich finde, wir sollten den Menschen helfen, Menschen zu bleiben. Sie haben so viele einzigartige Dinge herausgefunden.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Baum:</strong> Aber wenn sie ihr Denken an eine Künstliche Intelligenz abgeben, sind sie vielleicht bald keine Menschen mehr.</p>
+<p><em>Musik und die Ameisenkönigin tritt mit ihrem Gefolge auf.</em></p>
+<p><strong>Ameisenkönigin:</strong> Hört mir gut zu, ihr Tiere: Auch wenn alles untergeht, dann werden wir Ameisen als Einzige immer noch da sein. Keiner von euch ist so hoch entwickelt wie unser Volk, und von keinem eurer Art gibt es so viele wie von uns! Wir sind eine Million mal mehr Ameisen, als es Menschen gibt! Wir züchten Haustiere und Pilze und sind bereits als Staat organisiert.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe:</strong> Halt, nicht so schnell, ich verstehe nicht, was du sagen willst!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Ameisenkönigin:</strong> Brauchst du auch nicht, da es sowieso deine Intelligenz übersteigt. Nur noch soviel: Die Ausserirdischen, die dereinst auf der Erde landen werden, werden zuerst mir ihre Aufwartung machen müssen und es werden für alle die Gesetze unseres Volkes gelten. Merkt euch das ihr Tiere besser heute als morgen.</p>
+<p><em>Musik und sie treten ab während Mücke und Fliege angeflogen kommen.</em></p>
+<p><strong>Mücke:</strong> Alarm, Alarm!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fliege:</strong> Zu Hilfe, ein Notfall!</p>
+<p><strong>Octopus:</strong> Wenn wir helfen sollen, dann sprecht so, dass wir euch verstehen!</p>
+<p><strong>Mücke:</strong> Die KI, sie gibt das Raumschiff Esperanza auf</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fliege:</strong> Rentiert nicht mehr, Fehlplanung…</p>
+<p><strong>Hund 1:</strong> Die arme Tante von meinem Frauchen, sie wird sterben!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Spinne:</strong> Wir brauchen ein ganz schnelles Raumschiff um sie zu retten.</p>
+<p><strong>Wolf:</strong> Wir müssen die Mäuse erreichen, nur sie können diese Menschen retten, bevor sie im All schiffsbrüchig werden!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fuchs:</strong> Bin schon unterwegs!</p>
+<p><strong>Pinguin:</strong> Wir stimmen der Rettungsaktion zu!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pinguin:</strong> Aber nur, weil im All schon genug Müll herumfliegt.</p>
+<p><strong>Pinguin:</strong> Und jetzt entschuldigt uns, der Boden unter unseren Füssen wird uns zu heiss!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Fuchs am telefonieren</em></p>
+<p><strong>Fuchs:</strong> kannst du aufhören zu schreien, die Verbindung ist nicht die Beste!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wolf:</strong> Stell den Lautsprecher ein, wir wollen auch etwas hören!</p>
+<p><strong>Maus:</strong> Katzendreck habe ich gesagt, dreimal stinkiger Katzendreck!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fuchs:</strong> Hör auf zu fluchen und hör jetzt endlich zu.</p>
+<p><strong>Maus:</strong> Eine künstliche Intelligenz als Weltregierung, ja sind die nicht ganz bei Trost?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fuchs:</strong> Die KI gibt das Raumschiff auf, in welchem ausgewählte Menschen in etwa 6000 Jahren zu einer Ersatzerde finden wollten, da der anvisierte Planet proxima centauri B als ungeeignet eingestuft wurde.</p>
+<p><strong>Maus:</strong> Was ? Bist du ganz sicher?</p>
+</section>
+<section class="slide level2">
+
+<p>Aber klar, auf proxima centauri würden sie sogleich gegrillt. Da hätten sie besser Ross 128b im Sternbild Jungfrau ansteuern sollen, aber der ist dreimal so weit weg.</p>
+<p><strong>Bär:</strong> Kann die Maus sie im interstellaren Raum ausfindig machen, bevor man ihnen die lebenserhaltenden Funktionen abstellt?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Maus:</strong> Ausfindig machen schon, aber retten nicht! Mein tapferer Raumpilot, die Ratte, geriet gestern in einen Meteoritenregen und konnte sich mit knapper Not mit dem Schleudersitz retten. Unser Raumschiff müssen wir erst bergen und reparieren.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Känguruh:</strong> Aber das ist ja ganz schrecklich! So ein Unglück!</p>
+<p><strong>Maus:</strong> Soweit uns bekannt ist, befindet sich die Allianz gerade auf der Erde. Sie sind spezialisiert auf solche Aktionen. Findet sie! Viel Glück!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fuchs:</strong> Abgehängt!</p>
+<p><strong>Affe 1:</strong> die Allianz ist auf dem Weg ins Land der Möglichkeiten, wir müssen sie einholen!</p>
+<p><strong>Affe:</strong> Wer begleitet uns? <em>(die 2 Hunde bellen)</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Telefon läutet wieder. Wolf nimmt ab.</em></p>
+<p><strong>Maus:</strong> Und noch etwas, verschafft ihnen Zeit, hackt die KI!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wolf:</strong> Und hast du eine Anleitung dazu? Bist du noch dran? Hallo? Schon wieder unterbrochen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Bär:</strong> ich habe eine Idee, die KI will doch viel lernen um immer menschlicher zu werden, nehme ich mal an.</p>
+<p><strong>Wildschwein:</strong> und dazu macht sie deep learning, also geben wir ihr Rätsel auf, damit sie die Esperanza für eine Weile vergisst.</p>
+<p><strong>Affe 2:</strong> Nur leider fehlt uns ein Computer, denn dazu müssten wir sie hacken.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fuchs:</strong> Wenn es weiter nichts ist, Moment, geschafft, ihr Gehirn liegt offen vor mir, was soll ich eingeben?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Waschbär:</strong> füttere sie mit Wörtern, die sie noch nicht kennt!</p>
+<p><strong>Fuchs:</strong> Zum Beispiel?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Leopard:</strong> Alles, was man durch Bestellung und Lieferung nicht ersetzen kann!</p>
+<p><strong>Fuchs:</strong> das da wäre?</p>
+<p><strong>Seeanemone:</strong> Liebe, Mitgefühl, Verantwortung, Glück und so weiter.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Leopard:</strong> Während sie ihre Nervenzellen vernetzt, um die neuen Wörter zu verstehen, wird sie alles andere vergessen.</p>
+<p><strong>Löwe:</strong> Tönt ein bisschen altmodisch, aber es ist einen Versuch wert!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe 3:</strong> Kommt, es pressiert, wir müssen diese Allianz finden!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sie gehen mit Telefon weg.</em></p>
+<p><strong>Löwe:</strong> Wir beobachten die Menschen weiterhin und treffen uns beim nächsten Vollmond wieder. Die heutige Versammlung ist beendet! (<em>Tiere verschwinden.)</em></p>
+<p><em>Elfen erscheinen, eine Fledermaus, Einhörner, Drachen und Gebüsche, Momo und Kassiopeia und an einem Bühnenrand die Kobolde mit dem Gedankenstein und Musikinstrumenten. Bei den Kobolden wachsen Pilze, die das stargate bewachen.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Elfenland:</strong></p>
+<p><strong>Momo:</strong> Dürfen wir bei euch bleiben? Und von hier aus Wanderungen zu den Menschen unternehmen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kassiopeia:</strong> Wir werden ihnen verlorene Zeit zurückbringen!</p>
+<p><strong>Elfe:</strong> bringt ihnen auch Zeit zum Vergeuden, daran mangelt es ihnen am meisten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Elfe:</strong> ach die Menschen, sie sind nicht mehr, was sie mal waren.</p>
+<p><strong>Elfe:</strong> Du meinst mutig, neugierig und solche Sachen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Elfe:</strong> Sie leben im Digi-Tal und schauen ununterbrochen in ihre kleinen Geräte <em>(macht es vor).</em></p>
+<p>Neulich, als ich wieder einmal mit der S-Bahn fuhr, war ich die Einzige ohne.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Elfe:</strong> Sie sind der Technik ganz verfallen und haben alles andere vergessen.</p>
+<p>Es ist zum Beispiel klar, dass sie die Gabe haben, sich mit Hilfe elektromagnetischer Felder durch die Lüfte fortzubewegen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Elfe:</strong> Aber sie denken nicht einmal daran, diese Gabe zu entwickeln.</p>
+<p><strong>Elfe:</strong> Wird halt noch 1000 Jahre dauern, auch egal.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fledermaus:</strong> Ihr müsst zum Kongress kommen und diese Geschichte erzählen!</p>
+<p><strong>Elfe:</strong> Schau zu, wir erzählen sie auf unsere Weise!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Elfentanz</strong></p>
+<p><em>Elfen und Fabeltiere gehen in den Garten, während die</em> <strong>Kobold -</strong>** BAND**<em>spielt.</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Auf dem Steg nähern sich: Die 2 streaming-Leute, die 2 Astronomen, die Langeweile, die Fantasie, der Hase, der Wünschefänger, der Forscher mit dem Zitterrochen und den Insekten, 3 aus Repaircafé, Maurizio und Jakob, 3 Zwerge mit Träumen, 2 Männer. – Allianz ist über Steg angekommen und versucht auf sich aufmerksam zu machen.</em></p>
+<p><strong>Pilz 1:</strong> Kobolde, ihr habt Besuch!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pilz 2:</strong> Hört mit dem Lärm auf, ihr habt Besuch!</p>
+<p><strong>Kobold 1:</strong> Jaja, schon gut, wir haben euch schon erwartet!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold 2:</strong> Alles vorausgesehen, dank unserem Schatz!</p>
+<p><strong>Kobold:</strong> Mit Telepathie!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Starlord:</strong> Dann habt ihr den Stein also tatsächlich?</p>
+<p><strong>Kobold:</strong> meinst du dieses gute Stück?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold:</strong> Aber wenn du meinst, wir geben es dir, dann täuscht du dich.</p>
+<p><strong>Kobold:</strong> es bereitet uns zuviel Spass, die Gedanken von anderen lesen zu können.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold:</strong> Racoon denke nicht immer an unseren Nussvorrat!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Racoon:</strong> Dann gib mir endlich davon, ich bin am verhungern!</p>
+<p><em>Starlord hält den Stein nun in den Händen. Racoon erhält Nüsse.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Starlord:</strong> Wärt ihr bereit diesen mächtigen Stein zum Nutzen aller zu beschützen?</p>
+<p><strong>Han Solo:</strong> Dazu müsst ihr ihn ab und zu in die Nähe der Menschen bringen, denn er steigert die Weisheit und die Intelligenz aller Lebewesen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Starlord:</strong> Aber seid vorsichtig, er kann auch übernatürliche Kräfte verleihen.</p>
+<p><strong>Kobold:</strong> Wie sollen wir denn in die Nähe der Menschen gelangen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Racoon:</strong> nehmt eure früheren Aufgaben wieder wahr!</p>
+<p><strong>Kobold:</strong> Welche denn?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Val:</strong> Spielt Heinzelmännchen und lässt den Stein auf die schlafenden Menschen einwirken.</p>
+<p><strong>Kobold:</strong> Was machen Heinzelmännchen schon wieder?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pilz 3:</strong> Sie finden verlorene Sachen, spielen Zahnfee, machen gesund,</p>
+<p><strong>Pilz 4:</strong> flicken zerbrochenes Spielzeug, heilen Tiere, auch Kuscheltiere</p>
+<p><strong>Kobold:</strong> na gut, dann halt, wenn es unbedingt sein muss.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold:</strong> Wir können es ja mal probieren.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold 2:</strong> Aber gebt uns jetzt unseren Schatz zurück!</p>
+<p><strong>Kobold 1:</strong> Und nun entschuldigt uns, wir haben Bigband Probe!</p>
+<p><em>Sie setzen sich an die Instrumente, Koboldinnen verteilen zu essen,</em> <em>während Allianz weggeht und von Affen+Hunden gestoppt werden.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe:</strong> Halt, wartet auf uns! Wir haben eine Mission für euch</p>
+<p><strong>Affe:</strong> Sie heisst Rettung eines Raumschiffes voll Menschen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Han Solo:</strong> Und wie finden wir dieses Schiff?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe:</strong> Ruft den Ältesten im Raumschiff Destiny an. Er ist die letzte Hoffnung, macht schnell!</p>
+<p><strong>Affe:</strong> Die Maus sucht bereits nach einen Planeten, der die Schiffbrüchigen aufnimmt!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Allianz mit den Hunden geht zur Seite, Abenteurer telefoniert:</em></p>
+<p><strong>Abenteurer:</strong> Ja es pressiert! Verstanden, wir werden bereit sein! – Der Älteste landet am üblichen Ort, wir werden die Esperanza retten, bevor sie samt den Menschen im All verloren geht.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Val:</strong> Und die schlaue Maus wird uns sicher mitteilen, auf welchem Planeten wir Landeerlaubnis erhalten!</p>
+<p><em>Sie gehen in den Wald. Es blitzt und donnert.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe 1:</strong> Ein Blitz! Schnell! Wir müssen lernen Feuer zu machen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Affe 2:</strong> Das Spiel geht endlich weiter!</p>
+<p><strong>Pilz 4:</strong> Das war wieder einmal ein typisches Beispiel für virtuelle Realität.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pilz 3:</strong> Und irgendwie waren auch wir Teil ihrer Welt, findest du nicht auch?</p>
+<p><strong>BAND</strong> <em>spielt wieder,</em> <em>während die vom Steg eilig näher kommen.</em></p>
+<p><strong>Pilz 1:</strong> Nachtruhe!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pilz 2:</strong> Nachtruhe! Schlafenszeit für Alle!</p>
+<p><strong>Kobold 1:</strong> Wen haben wir denn da noch? Eine ganze Gesellschaft auf der Suche nach dem Land der Möglichkeiten? Einen Moment, wir sind gleich soweit!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>BAND</strong> <em>spielt wieder.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pilz 1:</strong> Nachtruhe!</p>
+<p><strong>Pilz 2:</strong> Nachtruhe! Schlafenszeit für Alle! <em>Band verstummt.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold 1:</strong> In diesem Fall sucht euch erstmal ein Nachtlager,</p>
+<p><strong>Kobold:</strong> heute geht hier rein gar nichts mehr.</p>
+<p><strong>Kobold 2:</strong> Ungeheuer und ähnliches im Wurmloch, also seid vernünftig.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fantasie:</strong> Guten Abend, wir suchen das Land der Möglichkeiten.</p>
+<p><strong>Hase:</strong> Die Königin der Ideen wartet auf uns.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold:</strong> Das kann jeder sagen.</p>
+<p><strong>Fantasie:</strong> Bitte, liebe Kobolde, zeigt uns den Weg, das Wohlergehen der Erde steht auf dem Spiel!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold 1:</strong> Ok, aber mach bloss nicht mich verantwortlich, wenn ihr im Wurmloch stecken bleibt, die Beleuchtung ist so ziemlich ganz ausgefallen.</p>
+<p><strong>Langeweile:</strong> Macht nichts, ich kenne den Weg und gehe mit meiner Freundin, der Fantasie, voraus, wenn es recht ist.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Ein Kobold geleitet sie ins stargate. Beide tragen Kerzen und Laternen mit sich. Fantasie und die Gestalten springen auch hinten nach.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold 1:</strong> Also, der Weg führt durch dieses stargate in das Wurmloch und am anderen Ende durch ein zweites stargate hinaus ins Land der Möglichkeiten.</p>
+<p><strong>Kobold 2:</strong> Alles klar? Wer wagt es?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Entdecker:</strong> ich!</p>
+<p><strong>Kobold 2:</strong> befindet sich der Zitterrochen freiwillig in deiner Gesellschaft?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Entdecker:</strong> Wenn du schon mal versucht hättest, einen, der das nicht will, anzufassen, könntest du jetzt keine dummen Fragen mehr stellen. Und um dir die nächste abzunehmen, diese von mir neuentdeckten Insekten haben sich mir aus freiem Willen angeschlossen. Sonst noch was?</p>
+<p><strong>Kobold 2:</strong> Los führt ihn ins stargate, bevor ich noch Ohrensausen bekomme.</p>
+</section>
+<section class="slide level2">
+
+<p><em>Und dann springen die Zwerge hintennach.</em></p>
+<p><strong>Wf:</strong> Halt, dieser Zwerg hat meinen Traum, ich spüre es, lasst mich durch!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold 1:</strong> Nun Maurizio und Jakob, vielen Dank für eure heldenhaften Taten am letzten Jahresende!</p>
+<p><strong>Jakob:</strong> Käterchen, man kennt uns hier!</p>
+<p><strong>Maurizio:</strong> Hoffentlich kommen nicht zu viele Verpflichtungen auf uns zu!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Sie folgen einem Kobold. Zu den Astronomen und dem aus dem repaircafé:</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold:</strong> Ihr könnt auch gehen, aber der dort ist ein Geschichtendieb!</p>
+<p><strong>M 2:</strong> Ach was, ich mache doch nur Entwicklungshilfe, verkaufe, äh bringe die guten Geschichten unter die Leute! Sonst könnten sie ja vergessen gehen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Kobold:</strong> ich warne dich, die Königin der Ideen durchschaut jeden.</p>
+<p><strong>Kobold 1:</strong> geschafft, die wären wir alle los! Wenigstens fast, was ist denn mit euch zwei?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 1:</strong> Wir haben uns vermutlich verirrt, müssen zurück in die Stadt.</p>
+<p><strong>De 2:</strong> Könnt ihr uns bitte den Weg zeigen?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Pilz 1:</strong> Nur keine Aufregung, geht diesen Leuten nach, das passt schon.</p>
+<p><strong>Pilz 2:</strong> Da durch, dann durchs Wurmloch und alles Weitere ergibt sich!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Kobolde bringen das stargate auf die andere Seite.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Im Land der Möglichkeiten:</strong> <em>Sträucher, Blumen, Einhörner, Drachen…</em></p>
+<p><em>Nun sieht man einen nach dem andern durch das andere stargate mit Kerze oder Laterne heraus kommen und sich im Halbkreis niederlassen. Rotkäppchen kommt mit Wölfen aus dem Wald.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Maurizio:</strong> Sieht irgendwie wie auf unserer guten alten Erde aus,</p>
+<p><strong>Jakob:</strong> aber irgendwie auch ganz anders!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Musik:</strong> <em>Königin der Ideen mit Narr trifft ein.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Königin:</strong> Willkommen ihr Geschichtenerzähler! Aber sind das schon alle? Warten wir noch etwas.</p>
+<p><strong>Langeweile:</strong> Mir ist so schön langweilig.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fantasie:</strong> Wir sollten den neuen Lauf der Dinge nicht endlos verschieben, Königin der Ideen!</p>
+<p><strong>Königin:</strong> Gut, dann erzählt eure neuen Geschichten! Ihr werdet es nicht bereuen, hier her gekommen zu sein. Denn ich werde euch zum Schluss einen kurzen Blick in eine andere Welt gewähren!</p>
+<p><strong>Hase:</strong> Wer beginnt?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rotkäppchen</strong> <em>(kommt mit einem Buch, Korb und begleitet von 5 Wölfen):</em> Ich!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M 2:</strong> Die kennt man doch schon!</p>
+<p><strong>Rotkäppchen:</strong> kennt ihr nicht, also hört zu:</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wolf 1:</strong> Nachdem ich jahrhundertelang das Mädchen und seine Grossmutter gefressen habe</p>
+<p><strong>Rotk.:</strong> Hatte er genug vom Bauch aufschneiden und wieder zunähen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wolf 2:</strong> Es ist ihm regelrecht verleidet.</p>
+<p><strong>Rotk.:</strong> Jetzt gehe ich in den Wald mit einem Korb voll feiner Sachen</p>
+<p><strong>Wolf 1:</strong> Dann kommen wir hungrigen Wölfe und verputzen alles.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rotk.:</strong> Während ich ihnen gut zurede, keine Schafe zu fressen, weil sonst der Jäger kommt.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wolf 2:</strong> Dann erzählen wir Rotkäppchen unsere Abenteuer.</p>
+<p><strong>Rotk.:</strong> Und ich gehe heim zu Grossmutter und berichte ihr alles.</p>
+<p><strong>Hase:</strong> Jetzt ihr!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> unsere Geschichte liegt noch in der Zukunft. Sie heisst “Wo sind die anderen?”</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> Und wir werden nicht aufgeben, bis wir sie gefunden haben.</p>
+<p><strong>Königin:</strong> Vielleicht müsst ihr ja gar nicht mehr solange darauf warten!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Hase:</strong> Darum solltet ihr vorwärts machen!</p>
+<p><strong>Forscher:</strong> Tiere sind mindestens so schlau wie Menschen. Ihr könnt mir ruhig glauben, denn ich kenne alle Tiere auf der Erde. Zu Wasser, zu Land und in der Luft! Wenn ihr wüsstet, was mir dieser Zitterrochen erzählt hat, leider ist es vorerst noch ein Geheimnis.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M 1:</strong> Und die komischen 6-Beiner, was ist mit ihnen?</p>
+<p><strong>Fo:</strong> Insekten, von mir entdeckt! Sie werden helfen, die anderen, schon fast ausgerotteten Insekten, wieder erstarken zu lassen. Denn sie werden es nicht zulassen, dass auch nur einer Fliege etwas zu leide getan wird.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M 2:</strong> Das mit dem Aussterben könnte stimmen, in den letzten Jahren sind meine Autoscheiben nämlich nicht mehr mit Insektenleichen zugemüllt.</p>
+<p><strong>M 1:</strong> Jetzt, wo du es sagst…</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Königin:</strong> Was bringt ihr ins Land der Möglichkeiten?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wf:</strong> Ich bringe ein ganzes Netz voll einmaliger und frischer Wünsche mit!</p>
+<p><strong>Zwerge:</strong> Und wir wertvolle Träume aus unserem Bergwerk!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Wf:</strong> Mit diesen 2 Medien können sich die Menschen nämlich ganz Neues vorstellen und daraus neue Geschichten machen!</p>
+<p><strong>M 1:</strong> In meinem berühmten Blog werde ich als neustes Reiseziel das Land der Möglichkeiten promoten. Ganz ohne Pauschalangebot, jeder muss es selbst finden!</p>
+<p><strong>M 2:</strong> Dazu musst du Rätsel erfinden, geheimnisvolle Spuren legen, denn wie sagt man?: jede Wirklichkeit war erst eine Möglichkeit.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>M 1:</strong> Versäumen sie es nicht, schon bald die spannenden Reiseberichte meiner Follower zu lesen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>De 1:</strong> Hast du auch das Gefühl, dass das alles nicht wirklich ist? Auah! Warum kneifst du mich denn?</p>
+<p><strong>De 2:</strong> Das war der Wirklichkeitstest!</p>
+<p><strong>Königin:</strong> Welche Geschichte bringt ihr zwei mit?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Maurizio:</strong> Auf einem Planeten lebten Lebewesen, die sich dressieren liessen, immer in eckige Zauberspiegel zu blicken.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jakob:</strong> Zufällig schaute eines dieser hochentwickelten Lebewesen mal daneben und es fand Dinge, von denen es keine Ahnung hatte!</p>
+<p><strong>Maurizio:</strong> Da wachte seine vor langer Zeit in einen Tiefschlaf versetzte Neugier auf, und</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Jakob:</strong> es liess den Zauberspiegel fallen und merkte, dass es ein Mensch war!</p>
+<p><strong>Fo:</strong> Und wenn die Geschichte nicht wahr ist, so ist sie wenigstens gut erfunden.</p>
+<p><strong>Königin:</strong> Und wer seid denn ihr?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 1:</strong> wir haben ein Repaircafé gegründet, flicken statt fortwerfen!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 2:</strong> Wir nähen, stricken, kleben, schweissen,</p>
+<p><strong>Rep 3:</strong> löten, sägen, malen, schreinern….</p>
+<p><strong>Königin:</strong> Und ihr wisst auch eine Geschichte?</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Rep 2:</strong> Ja, deshalb sind wir doch da! Hört gut zu!</p>
+<p><strong>Rep 1:</strong> Alle sagten, das geht doch nicht! <strong>2:</strong> Dann kam einer, der wusste das nicht, <strong>3:</strong> und hat es einfach gemacht!</p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Kongressteilnehmer klatschen.</em></p>
+<p><em>Während folgendem gleiten die Kongressteilnehmer immer weiter ab der Bühne, </em></p>
+</section>
+<section class="slide level2">
+
+<p><em>während von der anderen Seite her die</em> <strong>Stadt Alpha</strong> <em>entsteht.</em></p>
+<p><strong>Fantasie:</strong> Zum Schluss erzähle ich eine Geschichte: es war einmal eine Königin, die hörte, dass sich die Menschen auf der Erde sehr danach sehnten, die Bewohner anderer Planeten kennenzulernen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Hase:</strong> Sie gierten aber auch nach den Schätzen der anderen, musst du sagen.</p>
+<p><strong>Fantasie:</strong> Das wissen doch alle, also die Menschen bauten immer stärkere Fernrohre, machten sich sogar daran, mit laser-super-mega-Kanonen Miniraumschiffe mit Botschaften ins All zu schicken.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Langeweile:</strong> Schliesslich erklärten sich 49 Paare todesmutig bereit, 6000 Jahre durchs All zu reisen um einen neuen Planeten zu erobern.</p>
+<p><strong>Hase:</strong> so wie sie damals andere Kontinente auf der Erde entdeckten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Fantasie:</strong> Die Königin der Ideen, so hiess sie, lud zu einem Kongress über einen neuen Lauf der Dinge ein. Dieser fand im Land der Möglichkeiten statt, welches die Königin zu diesem Zweck in die Magelanwolken verlegt hatte,</p>
+<p><strong>Langeweile:</strong> Genau gesagt an den Rand von Alpha, der Stadt der tausend Planeten.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Hase:</strong> Und jetzt kommt die Überraschung!</p>
+<p><strong>Fantasie:</strong> Ruhe Hase. Wie es der Zufall wollte…</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Langeweile:</strong> Gute Geschichten brauchen nämlich immer Unvorhergesehenes und Zufälle!</p>
+<p><strong>Fantasie:</strong> Also, gerade zu diesem Zeitpunkt vollbrachte die Allianz ihre erste grosse Heldentat, indem sie das Schiff Esperanza in letzter Sekunde rettete und Hunderte von Menschen nach Alpha brachte.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Langeweile:</strong> Alpha ist nämlich sehr fremdenfreundlich eingestellt. Seit Jahrtausenden teilen dort Wesen ganz verschiedener Herkunft ihre Intelligenz miteinander.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Tanz hiphop</strong></p>
+<p><em>Alle möglichen Kreaturen sind unterdessen auf Alpha zu sehen. Diabolospieler, Hulahoptänzer und ev. andere Akrobaten treten auf. One Piece Piraten.</em></p>
+<p><em>Die Königin kommt mit Astronomen, Maurizio+Jakob, den Zwergen, Rotkäppchen + Wolf, Narr mit Schild “neue Geschichten hat die Welt” dazu.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 1:</strong> Die Anderen, es gibt sie tatsächlich!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>A 2:</strong> Ist das, was ich sehe, Traum oder Wirklichkeit?</p>
+<p><strong>A 1:</strong> Schnell, dies ist unsere Geschichte! Wir müssen sie aufschreiben!</p>
+<p><em>Sie schreiben und schreiben.</em></p>
+</section>
+<section class="slide level2">
+
+<p><strong>Hase:</strong> Aber aufgepasst, das ist noch nicht das Ende, denn niemand weiss, ob alles gut wird. Setzen sie jetzt besser ihre Brille auf!</p>
+<p><strong>Durchsage:</strong></p>
+</section>
+<section class="slide level2">
+
+<p>Das Raumschiff Destiny mit der Raumfähre Esperanza im Schlepptau ist soeben im Kosmodrom von Alpha gelandet. Die Passagiere werden durch die Dekontaminations-Schleuse und danach in die Stadt begleitet.</p>
+<p><strong>Musik</strong> <em>und:</em></p>
+</section>
+<section class="slide level2">
+
+<p><em>Die Geretteten kommen geführt von Val, begleitet von der Allianz und den Hunden durch ein Spalier von farbigen Tüchern an.</em></p>
+<p><strong>Val:</strong> Fühlt euch wie zuhause, die Stadt der tausend Planeten hat genug Platz für alle und wir freuen uns, dass ihr jetzt eure Geschichten mit uns teilt.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Grossmutter:</strong> Ich wusste es doch, dass wir es selbst erleben werden, auf unserer nagelneuen Erde zu landen.</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Grossvater:</strong> Utopisch denken um realistisch zu sein, hat sie immer gesagt!</p>
+<p><strong>Grossmutter:</strong> Und enkeltauglich handeln!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Königin:</strong> Und ich habe eine Überraschung für euch: Es ist mir gelungen, dieses einmalige Ereignis auf die Erde zu übertragen, alle Erdbewohner sind in dieser Sternstunde live dabei!</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Narr:</strong> Denn es gibt sie tatsächlich immer noch, eure gute alte Erde.</p>
+<p><strong>Fantasie:</strong> Sie erholt sich dank neuen Geschichten und die Menschen sind wieder freundlicher zueinander geworden</p>
+<p><strong>Hase:</strong> Na, jetzt übertreib bloss mal nicht….</p>
+</section>
+<section class="slide level2">
+
+<p><strong>Schlusstanz</strong></p>
+</section>
+    </div>
+  </div>
+
+  <script src="drehbuch_2zeilen_files/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="drehbuch_2zeilen_files/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Transition style
+        transition: 'none', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'drehbuch_2zeilen_files/reveal.js-3.3.0.1/plugin/notes/notes.js', async: true },
+          { src: 'drehbuch_2zeilen_files/reveal.js-3.3.0.1/plugin/search/search.js', async: true },
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
