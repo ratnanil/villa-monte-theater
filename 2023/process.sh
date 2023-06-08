@@ -25,7 +25,7 @@ END {
 }' skript2.md > skript3.md
 
 # replace the %%%%% with </section>\n<section>, except the first and the last
-sed -e '0,/%%%%%%%/s//<section>/' -e '$s//<\/section>/' -e 's/%%%%%%%/<\/section>\n<section>/g' skript3.md > skript4.md
+sed -e '0,/%%%%/s//<section>/' -e '$s//<\/section>/' -e 's/%%%%/<\/section>\n<section>/g' skript3.md > skript4.md
 
 # convert to html
 pandoc -f markdown -t html -o skript5.html skript4.md
