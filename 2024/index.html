@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<title>reveal.js</title>
+	<title>Villa Theater 2024</title>
 
 	<link rel="stylesheet" href="revealjs/dist/reset.css">
 	<link rel="stylesheet" href="style.css">
@@ -2272,10 +2272,13 @@
 	<script src="revealjs/plugin/highlight/highlight.js"></script>
 	<script src="revealjs/plugin/search/search.js"></script>
 	<script>
-		// More info about initialization & config:
-		// - https://revealjs.com/initialization/
-		// - https://revealjs.com/config/
-		g
+
+		Reveal.initialize({
+			hash: true,
+			mouseWheel: true,
+			// Learn about plugins: https://revealjs.com/plugins/
+			plugins: [RevealSearch, RevealHighlight, RevealNotes]
+		});
 	</script>
 </body>
 
