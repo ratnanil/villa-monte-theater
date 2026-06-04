@@ -1,56 +1,94 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Villa Monte Theater</title>
     <style>
-        h1{
-            padding-top: 100px;
-            margin-left: 200px;
-
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
         }
 
-        body{
-            
-            
-            background-color: #8ECAE6;
-            font-family: Source Sans Pro, Helvetica, sans-serif;
+        body {
+            background-color: #191919;
+            font-family: 'Source Sans Pro', Helvetica, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 60px 20px;
         }
 
-        .links{
-            display: grid; 
-            grid-template-columns: auto auto;
-            margin-left: 100px;
-            margin-right: 100px;
-            gap: 30px
+        h1 {
+            color: #fff;
+            font-size: 2.8rem;
+            letter-spacing: 0.05em;
+            margin-bottom: 8px;
+            text-transform: uppercase;
         }
-        .links > a{
-            padding: 30px; 
-            background-color: #023047;
-            border-radius: 10px;
+
+        .subtitle {
+            color: #fff;
+            opacity: 0.4;
+            font-size: 1rem;
+            margin-bottom: 50px;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+        }
+
+        .links {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            width: 100%;
+            max-width: 700px;
+        }
+
+        .links > a {
+            padding: 28px 24px;
+            background-color: #2b2b2b;
+            border-radius: 12px;
             text-decoration: none;
-            color: #ffb703;
+            color: #fff;
             font-weight: bold;
             text-align: center;
-            /* box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.518); */
+            font-size: 1.05rem;
+            line-height: 1.6;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+        }
+
+        .links > a:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.5);
+            color: #42affa;
+        }
+
+        .links > a .year {
+            display: block;
+            font-size: 0.8rem;
+            color: #42affa;
+            letter-spacing: 0.1em;
+            margin-bottom: 4px;
         }
     </style>
 </head>
 <body>
-    
+
     <h1>Villa Monte Theater</h1>
+    <p class="subtitle">Skripte</p>
 
     <div class="links">
-        <a href="2020/drehbuch.html">2020 <br> Wo sind die Anderen?</a>
-        <a href="2021/">2021<br>Ins Ungewisse springen</a>
-        <a href="2022/">2022<br>Nirgendwo und überall</a>
-        <a href="2023/">2023<br>Schöne neue Welt</a>
-        <a href="2024/">2024<br>Zeitreise oder Wo sind die Blumen</a>
-        <a href="2025/">2025<br>Die sagenhaften Blumen</a>
+        <a href="2020/drehbuch.html"><span class="year">2020</span>Wo sind die Anderen?</a>
+        <a href="2021/"><span class="year">2021</span>Ins Ungewisse springen</a>
+        <a href="2022/"><span class="year">2022</span>Nirgendwo und überall</a>
+        <a href="2023/"><span class="year">2023</span>Schöne neue Welt</a>
+        <a href="2024/"><span class="year">2024</span>Zeitreise oder Wo sind die Blumen</a>
+        <a href="2025/"><span class="year">2025</span>Die sagenhaften Blumen</a>
+        <a href="2026/"><span class="year">2026</span>Die verschwundene Sternstunde</a>
     </div>
-  
-    
+
 </body>
 </html>
